@@ -1,0 +1,1890 @@
+﻿country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+Australia,2000,male,15-24 years,271,1333011,20.33,Australia2000,0.898,"415,034,227,218",232,Generation X
+Australia,2000,female,15-24 years,78,1285283,6.07,Australia2000,0.898,"415,034,227,218",232,Generation X
+Australia,2001,male,15-24 years,280,1351444,20.72,Australia2001,,"378,215,090,694",20860,Millenials
+Australia,2001,female,15-24 years,63,1303713,4.83,Australia2001,,"378,215,090,694",20860,Millenials
+Australia,2002,male,15-24 years,246,1372770,17.92,Australia2002,,"394,486,709,920",21474,Millenials
+Australia,2002,female,15-24 years,58,1316527,4.41,Australia2002,,"394,486,709,920",21474,Millenials
+Australia,2003,male,15-24 years,243,1394989,17.42,Australia2003,,"466,294,700,058",25059,Millenials
+Australia,2003,female,15-24 years,48,1333189,3.6,Australia2003,,"466,294,700,058",25059,Millenials
+Australia,2004,male,15-24 years,205,1420482,14.43,Australia2004,,61,32454,Millenials
+Australia,2004,female,15-24 years,67,1364452,4.91,Australia2004,,61,32454,Millenials
+Australia,2006,male,15-24 years,230,1446866,15.9,Australia2006,,"745,521,862,833",39014,Millenials
+Australia,2006,female,15-24 years,68,1388615,4.9,Australia2006,,"745,521,862,833",39014,Millenials
+Australia,2007,male,15-24 years,234,1515524,15.44,Australia2007,,85,43171,Millenials
+Australia,2007,female,15-24 years,66,14404,4.58,Australia2007,,85,43171,Millenials
+Australia,2008,male,15-24 years,228,1560974,14.61,Australia2008,,"1,052,584,601,611",52315,Millenials
+Australia,2008,female,15-24 years,60,1473105,4.07,Australia2008,,"1,052,584,601,611",52315,Millenials
+Australia,2009,male,15-24 years,210,1605456,13.08,Australia2009,,"926,448,240,318",45128,Millenials
+Australia,2009,female,15-24 years,66,15067,4.38,Australia2009,,"926,448,240,318",45128,Millenials
+Australia,2010,male,15-24 years,222,1618860,13.71,Australia2010,0.927,"1,144,260,547,873",54887,Millenials
+Australia,2010,female,15-24 years,80,1521652,5.26,Australia2010,0.927,"1,144,260,547,873",54887,Millenials
+Australia,2011,male,15-24 years,242,1570069,15.41,Australia2011,0.93,"1,394,280,784,778",66770,Millenials
+Australia,2011,female,15-24 years,93,1495053,6.22,Australia2011,0.93,"1,394,280,784,778",66770,Millenials
+Australia,2012,male,15-24 years,217,1579672,13.74,Australia2012,0.932,"1,543,411,012,580",72669,Millenials
+Australia,2012,female,15-24 years,109,1503934,7.25,Australia2012,0.932,"1,543,411,012,580",72669,Millenials
+Australia,2013,male,15-24 years,267,1591539,16.78,Australia2013,0.933,"1,573,696,522,007",72856,Millenials
+Australia,2013,female,15-24 years,95,1512779,6.28,Australia2013,0.933,"1,573,696,522,007",72856,Millenials
+Australia,2014,male,15-24 years,271,1604935,16.89,Australia2014,0.935,"1,464,955,475,994",66809,Millenials
+Australia,2014,female,15-24 years,96,1520955,6.31,Australia2014,0.935,"1,464,955,475,994",66809,Millenials
+Australia,2015,male,15-24 years,281,1608990,17.46,Australia2015,,"1,349,034,029,453",60656,Millenials
+Australia,2015,female,15-24 years,110,1526305,7.21,Australia2015,,"1,349,034,029,453",60656,Millenials
+Canada,2000,male,15-24 years,430,2131117,20.18,Canada2000,0.867,"742,293,448,253",25589,Generation X
+Canada,2000,female,15-24 years,112,2030972,5.51,Canada2000,0.867,"742,293,448,253",25589,Generation X
+Canada,2001,male,15-24 years,398,2168038,18.36,Canada2001,,"736,379,777,893",25165,Millenials
+Canada,2001,female,15-24 years,105,2059,5.1,Canada2001,,"736,379,777,893",25165,Millenials
+Canada,2002,male,15-24 years,384,2,17.51,Canada2002,,"757,950,678,647",25570,Millenials
+Canada,2002,female,15-24 years,108,2084984,5.18,Canada2002,,"757,950,678,647",25570,Millenials
+Canada,2003,male,15-24 years,409,2211023,18.5,Canada2003,,"892,380,986,368",29787,Millenials
+Canada,2003,female,15-24 years,113,2103731,5.37,Canada2003,,"892,380,986,368",29787,Millenials
+Canada,2004,male,15-24 years,379,2230355,16.99,Canada2004,,"1,023",33787,Millenials
+Canada,2004,female,15-24 years,101,2124167,4.75,Canada2004,,"1,023",33787,Millenials
+Canada,2005,male,15-24 years,378,2249377,16.8,Canada2005,0.892,"1,169,357,979,865",38218,Millenials
+Canada,2005,female,15-24 years,131,2144094,6.11,Canada2005,0.892,"1,169,357,979,865",38218,Millenials
+Canada,2006,male,15-24 years,331,2288073,14.47,Canada2006,,"1,315,415",42566,Millenials
+Canada,2006,female,15-24 years,86,2179623,3.95,Canada2006,,"1,315,415",42566,Millenials
+Canada,2007,male,15-24 years,359,2318148,15.49,Canada2007,,"1,464,977",46890,Millenials
+Canada,2007,female,15-24 years,116,2206555,5.26,Canada2007,,"1,464,977",46890,Millenials
+Canada,2008,male,15-24 years,344,2341539,14.69,Canada2008,,"1,549,131,208,997",49041,Millenials
+Canada,2008,female,15-24 years,1,2227003,5.34,Canada2008,,"1,549,131,208,997",49041,Millenials
+Canada,2009,male,15-24 years,349,2355316,14.82,Canada2009,,"1,371,153,004,986",42933,Millenials
+Canada,2009,female,15-24 years,130,2238546,5.81,Canada2009,,"1,371,153,004,986",42933,Millenials
+Canada,2010,male,15-24 years,371,2357806,15.73,Canada2010,0.903,"1,613,464,422,811",49974,Millenials
+Canada,2010,female,15-24 years,115,2239759,5.13,Canada2010,0.903,"1,613,464,422,811",49974,Millenials
+Canada,2011,male,15-24 years,364,2356694,15.45,Canada2011,0.909,"1,788,647,906,048",54841,Millenials
+Canada,2011,female,15-24 years,135,2248,6,Canada2011,0.909,"1,788,647,906,048",54841,Millenials
+Canada,2012,male,15-24 years,381,2358461,16.15,Canada2012,0.91,"1,824,288,757,448",55347,Millenials
+Canada,2012,female,15-24 years,137,2255895,6.07,Canada2012,0.91,"1,824,288,757,448",55347,Millenials
+Canada,2013,male,15-24 years,300,2362807,12.7,Canada2013,0.912,"1,842,628,005,830",55310,Millenials
+Canada,2013,female,15-24 years,138,2261173,6.1,Canada2013,0.912,"1,842,628,005,830",55310,Millenials
+Denmark,2000,male,15-24 years,39,310470,12.56,Denmark2000,0.862,"164,158,800,460",32841,Generation X
+Denmark,2000,female,15-24 years,9,300690,2.99,Denmark2000,0.862,"164,158,800,460",32841,Generation X
+Denmark,2001,male,15-24 years,38,304335,12.49,Denmark2001,,"164,791,416,350",32837,Millenials
+Denmark,2001,female,15-24 years,7,294773,2.37,Denmark2001,,"164,791,416,350",32837,Millenials
+Denmark,2002,male,15-24 years,40,302,13.24,Denmark2002,,"178,635,160,297",35435,Millenials
+Denmark,2002,female,15-24 years,6,292727,2.05,Denmark2002,,"178,635,160,297",35435,Millenials
+Denmark,2003,male,15-24 years,24,300836,7.98,Denmark2003,,"218,095,997,085",43129,Millenials
+Denmark,2003,female,15-24 years,6,290582,2.06,Denmark2003,,"218,095,997,085",43129,Millenials
+Denmark,2004,male,15-24 years,33,30,10.93,Denmark2004,,"251,373,036,671",49552,Millenials
+Denmark,2004,female,15-24 years,11,290626,3.78,Denmark2004,,"251,373,036,671",49552,Millenials
+Denmark,2005,male,15-24 years,21,305232,6.88,Denmark2005,0.902,"264,467,308,109",5,Millenials
+Denmark,2005,female,15-24 years,7,292929,2.39,Denmark2005,0.902,"264,467,308,109",5,Millenials
+Denmark,2006,male,15-24 years,24,312053,7.69,Denmark2006,,"282,884,912,894",55354,Millenials
+Denmark,2006,female,15-24 years,9,298500,3.02,Denmark2006,,"282,884,912,894",55354,Millenials
+Denmark,2007,male,15-24 years,15,320054,4.69,Denmark2007,,3,62229,Millenials
+Denmark,2007,female,15-24 years,6,305722,1.96,Denmark2007,,3,62229,Millenials
+Denmark,2008,male,15-24 years,30,330409,9.08,Denmark2008,,"353,361,056,080",68447,Millenials
+Denmark,2008,female,15-24 years,8,315514,2.54,Denmark2008,,"353,361,056,080",68447,Millenials
+Denmark,2009,male,15-24 years,24,340143,7.06,Denmark2009,,"321,241,396,034",61863,Millenials
+Denmark,2009,female,15-24 years,4,324876,1.23,Denmark2009,,"321,241,396,034",61863,Millenials
+Denmark,2010,male,15-24 years,17,349175,4.87,Denmark2010,0.908,32,61711,Millenials
+Denmark,2010,female,15-24 years,10,333696,3,Denmark2010,0.908,32,61711,Millenials
+Denmark,2011,male,15-24 years,26,3563,7.3,Denmark2011,0.92,"344,003,209,696",65598,Millenials
+Denmark,2011,female,15-24 years,11,340056,3.23,Denmark2011,0.92,"344,003,209,696",65598,Millenials
+Denmark,2012,male,15-24 years,33,362466,9.1,Denmark2012,0.921,"327,148,899,962",62071,Millenials
+Denmark,2012,female,15-24 years,8,346154,2.31,Denmark2012,0.921,"327,148,899,962",62071,Millenials
+Denmark,2013,male,15-24 years,23,367000,6.27,Denmark2013,0.923,"343,584,385,594",64831,Millenials
+Denmark,2013,female,15-24 years,12,350607,3.42,Denmark2013,0.923,"343,584,385,594",64831,Millenials
+Denmark,2014,male,15-24 years,31,370570,8.37,Denmark2014,0.923,"352,993,633,221",66114,Millenials
+Denmark,2014,female,15-24 years,7,354099,1.98,Denmark2014,0.923,"352,993,633,221",66114,Millenials
+Denmark,2015,male,15-24 years,18,374051,4.81,Denmark2015,,"301,298,464,861",55972,Millenials
+Denmark,2015,female,15-24 years,6,356882,1.68,Denmark2015,,"301,298,464,861",55972,Millenials
+Finland,2000,male,15-24 years,105,337152,31.14,Finland2000,0.857,"125,539,893,127",25716,Generation X
+Finland,2000,female,15-24 years,26,322489,8.06,Finland2000,0.857,"125,539,893,127",25716,Generation X
+Finland,2001,male,15-24 years,93,335676,27.71,Finland2001,,"129,250,111,857",26383,Millenials
+Finland,2001,female,15-24 years,22,321239,6.85,Finland2001,,"129,250,111,857",26383,Millenials
+Finland,2002,male,15-24 years,97,333547,29.08,Finland2002,,"139,552,983,249",28390,Millenials
+Finland,2002,female,15-24 years,23,3,7.21,Finland2002,,"139,552,983,249",28390,Millenials
+Finland,2003,male,15-24 years,95,332460,28.57,Finland2003,,"171,071,106,095",34701,Millenials
+Finland,2003,female,15-24 years,27,318049,8.49,Finland2003,,"171,071,106,095",34701,Millenials
+Finland,2004,male,15-24 years,110,332773,33.06,Finland2004,,,39793,Millenials
+Finland,2004,female,15-24 years,31,318275,9.74,Finland2004,,,39793,Millenials
+Finland,2005,male,15-24 years,68,333948,20.36,Finland2005,0.869,"204,436,015,421",41202,Millenials
+Finland,2005,female,15-24 years,33,3,10.34,Finland2005,0.869,"204,436,015,421",41202,Millenials
+Finland,2006,male,15-24 years,108,335416,32.2,Finland2006,,"216,552,502,823",43487,Millenials
+Finland,2006,female,15-24 years,,320699,5.92,Finland2006,,"216,552,502,823",43487,Millenials
+Finland,2007,male,15-24 years,89,336401,26.46,Finland2007,,"255,384,615,385",51089,Millenials
+Finland,2007,female,15-24 years,31,321868,9.63,Finland2007,,"255,384,615,385",51089,Millenials
+Finland,2008,male,15-24 years,81,336624,24.06,Finland2008,,"283,742,493,042",56521,Millenials
+Finland,2008,female,15-24 years,26,322278,8.07,Finland2008,,"283,742,493,042",56521,Millenials
+Finland,2009,male,15-24 years,89,336510,26.45,Finland2009,,"251,499,027,508",49878,Millenials
+Finland,2009,female,15-24 years,28,322353,8.69,Finland2009,,"251,499,027,508",49878,Millenials
+Finland,2010,male,15-24 years,105,336807,31.18,Finland2010,0.878,"247,799,815,768",48939,Millenials
+Finland,2010,female,15-24 years,30,322681,9.3,Finland2010,0.878,"247,799,815,768",48939,Millenials
+Finland,2011,male,15-24 years,89,337265,26.39,Finland2011,0.881,"273,674,236,773",53809,Millenials
+Finland,2011,female,15-24 years,27,322992,8.36,Finland2011,0.881,"273,674,236,773",53809,Millenials
+Finland,2012,male,15-24 years,85,337342,25.2,Finland2012,0.882,"256,706,466,091",50232,Millenials
+Finland,2012,female,15-24 years,32,323218,9.9,Finland2012,0.882,"256,706,466,091",50232,Millenials
+Finland,2013,male,15-24 years,68,335688,20.26,Finland2013,0.882,"269,980,111,643",52572,Millenials
+Finland,2013,female,15-24 years,31,321757,9.63,Finland2013,0.882,"269,980,111,643",52572,Millenials
+Finland,2014,male,15-24 years,63,332717,18.94,Finland2014,0.883,"272,609,288,690",52832,Millenials
+Finland,2014,female,15-24 years,22,318826,6.9,Finland2014,0.883,"272,609,288,690",52832,Millenials
+Finland,2015,male,15-24 years,59,332082,17.77,Finland2015,,"232,464,833,066",44862,Millenials
+Finland,2015,female,15-24 years,12,317937,3.77,Finland2015,,"232,464,833,066",44862,Millenials
+Iceland,2000,male,15-24 years,13,21730,59.83,Iceland2000,0.859,"8,927,140,438",34372,Generation X
+Iceland,2000,female,15-24 years,1,21102,4.74,Iceland2000,0.859,"8,927,140,438",34372,Generation X
+Iceland,2001,male,15-24 years,8,21707,36.85,Iceland2001,,"8,136,345,144",30850,Millenials
+Iceland,2001,female,15-24 years,0,21182,0,Iceland2001,,"8,136,345,144",30850,Millenials
+Iceland,2002,male,15-24 years,3,21620,13.88,Iceland2002,,"9,207,689,916",34556,Millenials
+Iceland,2002,female,15-24 years,1,21091,4.74,Iceland2002,,"9,207,689,916",34556,Millenials
+Iceland,2003,male,15-24 years,5,21857,22.88,Iceland2003,,"11,316,441,660",42174,Millenials
+Iceland,2003,female,15-24 years,0,21105,0,Iceland2003,,"11,316,441,660",42174,Millenials
+Iceland,2004,male,15-24 years,6,2,27.28,Iceland2004,,"13,722,824,251",50528,Millenials
+Iceland,2004,female,15-24 years,1,21091,4.74,Iceland2004,,"13,722,824,251",50528,Millenials
+Iceland,2005,male,15-24 years,3,22100,13.57,Iceland2005,0.889,"16,691,490,114",60712,Millenials
+Iceland,2005,female,15-24 years,0,21,0,Iceland2005,0.889,"16,691,490,114",60712,Millenials
+Iceland,2006,male,15-24 years,6,22771,26.35,Iceland2006,,"17,048,647,568",60243,Millenials
+Iceland,2006,female,15-24 years,0,21657,0,Iceland2006,,"17,048,647,568",60243,Millenials
+Iceland,2007,male,15-24 years,7,23231,30.13,Iceland2007,,213,73590,Millenials
+Iceland,2007,female,15-24 years,1,22072,4.53,Iceland2007,,213,73590,Millenials
+Iceland,2008,male,15-24 years,4,24143,16.57,Iceland2008,,"17,658,408,759",59489,Millenials
+Iceland,2008,female,15-24 years,0,22861,0,Iceland2008,,"17,658,408,759",59489,Millenials
+Iceland,2009,male,15-24 years,2,23991,8.34,Iceland2009,,"12,944,114,736",43700,Millenials
+Iceland,2009,female,15-24 years,0,22973,0,Iceland2009,,"12,944,114,736",43700,Millenials
+Iceland,2010,male,15-24 years,6,23905,25.1,Iceland2010,0.892,"13,310,567,803",45179,Millenials
+Iceland,2010,female,15-24 years,1,22907,4.37,Iceland2010,0.892,"13,310,567,803",45179,Millenials
+Iceland,2011,male,15-24 years,2,24083,8.3,Iceland2011,0.896,"14,732,689,535",49861,Millenials
+Iceland,2011,female,15-24 years,1,22926,4.36,Iceland2011,0.896,"14,732,689,535",49861,Millenials
+Iceland,2012,male,15-24 years,3,24210,12.39,Iceland2012,0.897,"14,292,008,745",48083,Millenials
+Iceland,2012,female,15-24 years,2,22968,8.71,Iceland2012,0.897,"14,292,008,745",48083,Millenials
+Iceland,2013,male,15-24 years,5,24215,20.65,Iceland2013,0.899,"15,548,321,544",51749,Millenials
+Iceland,2013,female,15-24 years,0,22970,0,Iceland2013,0.899,"15,548,321,544",51749,Millenials
+Iceland,2014,male,15-24 years,4,24185,16.54,Iceland2014,0.899,"17,304,033,021",56833,Millenials
+Iceland,2014,female,15-24 years,2,22989,8.7,Iceland2014,0.899,"17,304,033,021",56833,Millenials
+Iceland,2015,male,15-24 years,7,24116,29.03,Iceland2015,,"16,942,247,374",54909,Millenials
+Iceland,2015,female,15-24 years,0,22962,0,Iceland2015,,"16,942,247,374",54909,Millenials
+Iceland,2016,male,15-24 years,6,24099,24.9,Iceland2016,,"20,304,098,101",64708,Millenials
+Iceland,2016,female,15-24 years,0,22971,0,Iceland2016,,"20,304,098,101",64708,Millenials
+Netherlands,2000,male,15-24 years,90,960741,9.37,Netherlands2000,0.877,"412,807,259,996",27644,Generation X
+Netherlands,2000,female,15-24 years,18,927539,1.94,Netherlands2000,0.877,"412,807,259,996",27644,Generation X
+Netherlands,2001,male,15-24 years,71,968251,7.33,Netherlands2001,,"426,573,601,790",28366,Millenials
+Netherlands,2001,female,15-24 years,32,934725,3.42,Netherlands2001,,"426,573,601,790",28366,Millenials
+Netherlands,2002,male,15-24 years,80,978378,8.18,Netherlands2002,,"465,368,906,456",30757,Millenials
+Netherlands,2002,female,15-24 years,26,943864,2.75,Netherlands2002,,"465,368,906,456",30757,Millenials
+Netherlands,2003,male,15-24 years,68,985449,6.9,Netherlands2003,,"571,863,431,151",37614,Millenials
+Netherlands,2003,female,15-24 years,29,950780,3.05,Netherlands2003,,"571,863,431,151",37614,Millenials
+Netherlands,2004,male,15-24 years,72,988827,7.28,Netherlands2004,,"650,532,654,582",42614,Millenials
+Netherlands,2004,female,15-24 years,25,955899,2.62,Netherlands2004,,"650,532,654,582",42614,Millenials
+Netherlands,2005,male,15-24 years,78,992090,7.86,Netherlands2005,0.891,"678,533,764,457",44289,Millenials
+Netherlands,2005,female,15-24 years,33,960181,3.44,Netherlands2005,0.891,"678,533,764,457",44289,Millenials
+Netherlands,2006,male,15-24 years,91,996333,9.13,Netherlands2006,,"726,649,102,998",47281,Millenials
+Netherlands,2006,female,15-24 years,34,963837,3.53,Netherlands2006,,"726,649,102,998",47281,Millenials
+Netherlands,2007,male,15-24 years,72,1003453,7.18,Netherlands2007,,"8,394",54418,Millenials
+Netherlands,2007,female,15-24 years,22,970052,2.27,Netherlands2007,,"8,394",54418,Millenials
+Netherlands,2008,male,15-24 years,67,1014326,6.61,Netherlands2008,,"936,228,211,513",60375,Millenials
+Netherlands,2008,female,15-24 years,31,980609,3.16,Netherlands2008,,"936,228,211,513",60375,Millenials
+Netherlands,2009,male,15-24 years,77,1025904,7.51,Netherlands2009,,"857,932,759,100",54988,Millenials
+Netherlands,2009,female,15-24 years,24,99,2.42,Netherlands2009,,"857,932,759,100",54988,Millenials
+Netherlands,2010,male,15-24 years,97,1034368,9.38,Netherlands2010,0.909,"836,389,937,229",53302,Millenials
+Netherlands,2010,female,15-24 years,26,1000536,2.6,Netherlands2010,0.909,"836,389,937,229",53302,Millenials
+Netherlands,2011,male,15-24 years,85,1039605,8.18,Netherlands2011,0.9,"893,757,287,202",56667,Millenials
+Netherlands,2011,female,15-24 years,38,1004949,3.78,Netherlands2011,0.9,"893,757,287,202",56667,Millenials
+Netherlands,2012,male,15-24 years,97,1041845,9.31,Netherlands2012,0.92,"828,946,812,397",52334,Millenials
+Netherlands,2012,female,15-24 years,33,1006742,3.28,Netherlands2012,0.92,"828,946,812,397",52334,Millenials
+Netherlands,2013,male,15-24 years,93,1044562,8.9,Netherlands2013,0.92,"866,680,000,367",54510,Millenials
+Netherlands,2013,female,15-24 years,46,1009345,4.56,Netherlands2013,0.92,"866,680,000,367",54510,Millenials
+Netherlands,2014,male,15-24 years,81,1044562,7.75,Netherlands2014,0.922,"879,635,084,125",55325,Millenials
+Netherlands,2014,female,15-24 years,48,1009345,4.76,Netherlands2014,0.922,"879,635,084,125",55325,Millenials
+Netherlands,2015,male,15-24 years,89,1058675,8.41,Netherlands2015,,"757,999,453,314",47206,Millenials
+Netherlands,2015,female,15-24 years,34,1018674,3.34,Netherlands2015,,"757,999,453,314",47206,Millenials
+Netherlands,2016,male,15-24 years,77,10677,7.21,Netherlands2016,,"777,227,541,581",48108,Millenials
+Netherlands,2016,female,15-24 years,35,1025443,3.41,Netherlands2016,,"777,227,541,581",48108,Millenials
+New Zealand,2000,male,15-24 years,81,266610,30.38,New Zealand2000,0.874,"52,622,842,840",14725,Generation X
+New Zealand,2000,female,15-24 years,15,261330,5.74,New Zealand2000,0.874,"52,622,842,840",14725,Generation X
+New Zealand,2001,male,15-24 years,87,269420,32.29,New Zealand2001,,"53,872,425,917",14968,Millenials
+New Zealand,2001,female,15-24 years,23,263730,8.72,New Zealand2001,,"53,872,425,917",14968,Millenials
+New Zealand,2002,male,15-24 years,66,280450,23.53,New Zealand2002,,"66,627,729,311",18208,Millenials
+New Zealand,2002,female,15-24 years,30,271530,11.05,New Zealand2002,,"66,627,729,311",18208,Millenials
+New Zealand,2003,male,15-24 years,66,292920,22.53,New Zealand2003,,"88,250,885,550",23663,Millenials
+New Zealand,2003,female,15-24 years,31,281350,11.02,New Zealand2003,,"88,250,885,550",23663,Millenials
+New Zealand,2004,male,15-24 years,83,296450,28,New Zealand2004,,"103,904,537,815",27325,Millenials
+New Zealand,2004,female,15-24 years,30,289050,10.38,New Zealand2004,,"103,904,537,815",27325,Millenials
+New Zealand,2005,male,15-24 years,84,300360,27.97,New Zealand2005,0.895,"114,718,721,397",29803,Millenials
+New Zealand,2005,female,15-24 years,24,294110,8.16,New Zealand2005,0.895,"114,718,721,397",29803,Millenials
+New Zealand,2006,male,15-24 years,95,305250,31.12,New Zealand2006,,"111,608,845,081",28628,Millenials
+New Zealand,2006,female,15-24 years,24,299490,8.01,New Zealand2006,,"111,608,845,081",28628,Millenials
+New Zealand,2007,male,15-24 years,70,309990,22.58,New Zealand2007,,"137,316,087,308",34892,Millenials
+New Zealand,2007,female,15-24 years,23,302660,7.6,New Zealand2007,,"137,316,087,308",34892,Millenials
+New Zealand,2008,male,15-24 years,83,314500,26.39,New Zealand2008,,"133,279,679,483",33585,Millenials
+New Zealand,2008,female,15-24 years,38,304640,12.47,New Zealand2008,,"133,279,679,483",33585,Millenials
+New Zealand,2009,male,15-24 years,94,320230,29.35,New Zealand2009,,"121,338,622,025",30259,Millenials
+New Zealand,2009,female,15-24 years,21,307230,6.84,New Zealand2009,,"121,338,622,025",30259,Millenials
+New Zealand,2010,male,15-24 years,77,326870,23.56,New Zealand2010,0.905,"146,583,831,538",36145,Millenials
+New Zealand,2010,female,15-24 years,35,310690,11.27,New Zealand2010,0.905,"146,583,831,538",36145,Millenials
+New Zealand,2011,male,15-24 years,96,330920,29.01,New Zealand2011,0.907,"16,846",41184,Millenials
+New Zealand,2011,female,15-24 years,33,311490,10.59,New Zealand2011,0.907,"16,846",41184,Millenials
+New Zealand,2012,male,15-24 years,107,331070,32.32,New Zealand2012,0.909,176,42756,Millenials
+New Zealand,2012,female,15-24 years,41,310390,13.21,New Zealand2012,0.909,176,42756,Millenials
+New Zealand,2013,male,15-24 years,75,3,23.49,New Zealand2013,0.911,,46,Millenials
+New Zealand,2013,female,15-24 years,37,308050,12.01,New Zealand2013,0.911,,46,Millenials
+Norway,2000,male,15-24 years,70,276727,25.3,Norway2000,0.917,"171,315,639,983",41099,Generation X
+Norway,2000,female,15-24 years,14,265784,5.27,Norway2000,0.917,"171,315,639,983",41099,Generation X
+Norway,2001,male,15-24 years,61,276255,22.08,Norway2001,,"174,003,247,439",41281,Millenials
+Norway,2001,female,15-24 years,20,264797,7.55,Norway2001,,"174,003,247,439",41281,Millenials
+Norway,2002,male,15-24 years,49,277736,17.64,Norway2002,,,46049,Millenials
+Norway,2002,female,15-24 years,15,266365,5.63,Norway2002,,,46049,Millenials
+Norway,2003,male,15-24 years,58,280898,20.65,Norway2003,,"228,752,436,372",53533,Millenials
+Norway,2003,female,15-24 years,17,269608,6.31,Norway2003,,"228,752,436,372",53533,Millenials
+Norway,2004,male,15-24 years,58,285070,20.35,Norway2004,,"264,357,494,659",61450,Millenials
+Norway,2004,female,15-24 years,20,2734,7.31,Norway2004,,"264,357,494,659",61450,Millenials
+Norway,2005,male,15-24 years,50,2902,17.23,Norway2005,0.931,"308,722,079,938",71215,Millenials
+Norway,2005,female,15-24 years,20,278355,7,Norway2005,0.931,"308,722,079,938",71215,Millenials
+Norway,2006,male,15-24 years,68,296501,22.93,Norway2006,,"345,424,664,369",79007,Millenials
+Norway,2006,female,15-24 years,18,283975,6.34,Norway2006,,"345,424,664,369",79007,Millenials
+Norway,2007,male,15-24 years,45,303717,14.82,Norway2007,,"401,082,621,083",90797,Millenials
+Norway,2007,female,15-24 years,14,289740,4.83,Norway2007,,"401,082,621,083",90797,Millenials
+Norway,2008,male,15-24 years,48,310905,15.44,Norway2008,,"462,554,432,624",103431,Millenials
+Norway,2008,female,15-24 years,21,296143,7.09,Norway2008,,"462,554,432,624",103431,Millenials
+Norway,2009,male,15-24 years,51,317853,16.05,Norway2009,,"386,622,457,580",85394,Millenials
+Norway,2009,female,15-24 years,18,302896,5.94,Norway2009,,"386,622,457,580",85394,Millenials
+Norway,2010,male,15-24 years,59,325364,18.13,Norway2010,0.94,"429,130,952,709",93638,Millenials
+Norway,2010,female,15-24 years,13,309730,4.2,Norway2010,0.94,"429,130,952,709",93638,Millenials
+Norway,2011,male,15-24 years,58,332779,17.43,Norway2011,0.941,"498,831,558,926",107430,Millenials
+Norway,2011,female,15-24 years,20,316334,6.32,Norway2011,0.941,"498,831,558,926",107430,Millenials
+Norway,2012,male,15-24 years,45,338854,13.28,Norway2012,0.942,"510,229,136,227",108408,Millenials
+Norway,2012,female,15-24 years,21,321497,6.53,Norway2012,0.942,"510,229,136,227",108408,Millenials
+Norway,2013,male,15-24 years,44,342484,12.85,Norway2013,0.942,"523,502,127,660",109804,Millenials
+Norway,2013,female,15-24 years,20,324,6.17,Norway2013,0.942,"523,502,127,660",109804,Millenials
+Norway,2014,male,15-24 years,38,344245,11.04,Norway2014,0.944,"499,338,534,779",103443,Millenials
+Norway,2014,female,15-24 years,17,325164,5.23,Norway2014,0.944,"499,338,534,779",103443,Millenials
+Norway,2015,male,15-24 years,43,345115,12.46,Norway2015,,"386,663,139,403",79187,Millenials
+Norway,2015,female,15-24 years,17,325007,5.23,Norway2015,,"386,663,139,403",79187,Millenials
+Sweden,2000,male,15-24 years,63,524457,12.01,Sweden2000,0.897,"259,802,012,617",30896,Generation X
+Sweden,2000,female,15-24 years,26,500737,5,Sweden2000,0.897,"259,802,012,617",30896,Generation X
+Sweden,2001,male,15-24 years,59,527111,11,Sweden2001,,"239,917,320,967",28429,Millenials
+Sweden,2001,female,15-24 years,18,502901,3.58,Sweden2001,,"239,917,320,967",28429,Millenials
+Sweden,2002,male,15-24 years,78,533111,14.63,Sweden2002,,"263,926,220,333",31175,Millenials
+Sweden,2002,female,15-24 years,23,508851,4.52,Sweden2002,,"263,926,220,333",31175,Millenials
+Sweden,2003,male,15-24 years,60,543102,11.05,Sweden2003,,"331,108,912,605",38997,Millenials
+Sweden,2003,female,15-24 years,35,518172,6.75,Sweden2003,,"331,108,912,605",38997,Millenials
+Sweden,2004,male,15-24 years,90,555650,16.2,Sweden2004,,"381,705,425,302",44831,Millenials
+Sweden,2004,female,15-24 years,32,529514,6.04,Sweden2004,,"381,705,425,302",44831,Millenials
+Sweden,2005,male,15-24 years,68,569180,11.95,Sweden2005,0.892,"389,042,298,377",45563,Millenials
+Sweden,2005,female,15-24 years,36,542149,6.64,Sweden2005,0.892,"389,042,298,377",45563,Millenials
+Sweden,2006,male,15-24 years,73,586123,12.45,Sweden2006,,"420,032,121,656",48977,Millenials
+Sweden,2006,female,15-24 years,51,557351,9.15,Sweden2006,,"420,032,121,656",48977,Millenials
+Sweden,2007,male,15-24 years,69,604397,11.42,Sweden2007,,"487,816,328,342",56531,Millenials
+Sweden,2007,female,15-24 years,35,573531,6.1,Sweden2007,,"487,816,328,342",56531,Millenials
+Sweden,2008,male,15-24 years,96,6,15.49,Sweden2008,,"513,965,650,650",59155,Millenials
+Sweden,2008,female,15-24 years,40,588321,6.8,Sweden2008,,"513,965,650,650",59155,Millenials
+Sweden,2009,male,15-24 years,91,632027,14.4,Sweden2009,,"429,657,033,108",49070,Millenials
+Sweden,2009,female,15-24 years,43,600839,7.16,Sweden2009,,"429,657,033,108",49070,Millenials
+Sweden,2010,male,15-24 years,87,639346,13.61,Sweden2010,0.901,"488,377,689,565",55352,Millenials
+Sweden,2010,female,15-24 years,31,607958,5.1,Sweden2010,0.901,"488,377,689,565",55352,Millenials
+Sweden,2011,male,15-24 years,85,639416,13.29,Sweden2011,0.903,"563,109,663,291",63380,Millenials
+Sweden,2011,female,15-24 years,36,607514,5.93,Sweden2011,0.903,"563,109,663,291",63380,Millenials
+Sweden,2012,male,15-24 years,83,635011,13.07,Sweden2012,0.904,"543,880,647,757",60776,Millenials
+Sweden,2012,female,15-24 years,34,602499,5.64,Sweden2012,0.904,"543,880,647,757",60776,Millenials
+Sweden,2013,male,15-24 years,99,628573,15.75,Sweden2013,0.905,"578,742,001,488",64133,Millenials
+Sweden,2013,female,15-24 years,48,595101,8.07,Sweden2013,0.905,"578,742,001,488",64133,Millenials
+Sweden,2014,male,15-24 years,88,621210,14.17,Sweden2014,0.907,"5,738,177",62956,Millenials
+Sweden,2014,female,15-24 years,36,585957,6.14,Sweden2014,0.907,"5,738,177",62956,Millenials
+Sweden,2015,male,15-24 years,69,621210,11.11,Sweden2015,,"497,918,109,302",54629,Millenials
+Sweden,2015,female,15-24 years,38,585957,6.49,Sweden2015,,"497,918,109,302",54629,Millenials
+Sweden,2016,male,15-24 years,70,605396,11.56,Sweden2016,,"514,459,972,806",55594,Millenials
+Sweden,2016,female,15-24 years,36,570983,6.3,Sweden2016,,"514,459,972,806",55594,Millenials
+Switzerland,2000,male,15-24 years,79,426957,18.5,Switzerland2000,0.888,"272,055,499,941",39952,Generation X
+Switzerland,2000,female,15-24 years,20,410136,4.88,Switzerland2000,0.888,"272,055,499,941",39952,Generation X
+Switzerland,2001,male,15-24 years,95,432247,21.98,Switzerland2001,,"278,631,271,391",40582,Millenials
+Switzerland,2001,female,15-24 years,21,414858,5.06,Switzerland2001,,"278,631,271,391",40582,Millenials
+Switzerland,2002,male,15-24 years,77,432755,17.79,Switzerland2002,,"301,416,810,214",434,Millenials
+Switzerland,2002,female,15-24 years,28,420181,6.66,Switzerland2002,,"301,416,810,214",434,Millenials
+Switzerland,2003,male,15-24 years,79,435746,18.13,Switzerland2003,,"352,914,820,747",50639,Millenials
+Switzerland,2003,female,15-24 years,21,423129,4.96,Switzerland2003,,"352,914,820,747",50639,Millenials
+Switzerland,2004,male,15-24 years,64,441485,14.5,Switzerland2004,,"394,163,688,621",56123,Millenials
+Switzerland,2004,female,15-24 years,21,428412,4.9,Switzerland2004,,"394,163,688,621",56123,Millenials
+Switzerland,2005,male,15-24 years,69,446784,15.44,Switzerland2005,0.904,"408,689,353,999",57790,Millenials
+Switzerland,2005,female,15-24 years,23,432571,5.32,Switzerland2005,0.904,"408,689,353,999",57790,Millenials
+Switzerland,2006,male,15-24 years,64,451849,14.16,Switzerland2006,,"430,921",60536,Millenials
+Switzerland,2006,female,15-24 years,23,436450,5.27,Switzerland2006,,"430,921",60536,Millenials
+Switzerland,2007,male,15-24 years,74,457991,16.16,Switzerland2007,,"479,913,034,322",66807,Millenials
+Switzerland,2007,female,15-24 years,36,441640,8.15,Switzerland2007,,"479,913,034,322",66807,Millenials
+Switzerland,2008,male,15-24 years,64,465273,13.76,Switzerland2008,,"554,363,487,120",76202,Millenials
+Switzerland,2008,female,15-24 years,29,447843,6.48,Switzerland2008,,"554,363,487,120",76202,Millenials
+Switzerland,2009,male,15-24 years,75,470230,15.95,Switzerland2009,,"541,506,500,414",73529,Millenials
+Switzerland,2009,female,15-24 years,20,452598,4.42,Switzerland2009,,"541,506,500,414",73529,Millenials
+Switzerland,2010,male,15-24 years,47,472649,9.94,Switzerland2010,0.924,"583,782,977,866",78474,Millenials
+Switzerland,2010,female,15-24 years,15,455057,3.3,Switzerland2010,0.924,"583,782,977,866",78474,Millenials
+Switzerland,2011,male,15-24 years,67,478339,14.01,Switzerland2011,0.925,"699,579,638,638",93053,Millenials
+Switzerland,2011,female,15-24 years,15,459710,3.26,Switzerland2011,0.925,"699,579,638,638",93053,Millenials
+Switzerland,2012,male,15-24 years,65,479646,13.55,Switzerland2012,0.927,"668,043,614,123",87951,Millenials
+Switzerland,2012,female,15-24 years,10,460498,2.17,Switzerland2012,0.927,"668,043,614,123",87951,Millenials
+Switzerland,2013,male,15-24 years,52,480011,10.83,Switzerland2013,0.928,"688,504,173,431",89634,Millenials
+Switzerland,2013,female,15-24 years,17,460483,3.69,Switzerland2013,0.928,"688,504,173,431",89634,Millenials
+Switzerland,2014,male,15-24 years,48,488444,9.83,Switzerland2014,0.93,"709,182,559,935",90809,Millenials
+Switzerland,2014,female,15-24 years,14,468004,2.99,Switzerland2014,0.93,"709,182,559,935",90809,Millenials
+Switzerland,2015,male,15-24 years,62,482708,12.84,Switzerland2015,,"679,289,166,858",86068,Millenials
+Switzerland,2015,female,15-24 years,20,462559,4.32,Switzerland2015,,"679,289,166,858",86068,Millenials
+Australia,2000,male,25-34 years,466,1430700,32.57,Australia2000,0.898,"415,034,227,218",232,Generation X
+Australia,2000,female,25-34 years,106,1445332,7.33,Australia2000,0.898,"415,034,227,218",232,Generation X
+Australia,2001,male,25-34 years,489,1427829,34.25,Australia2001,,"378,215,090,694",20860,Generation X
+Australia,2001,female,25-34 years,109,1445867,7.54,Australia2001,,"378,215,090,694",20860,Generation X
+Australia,2002,male,25-34 years,452,1433165,31.54,Australia2002,,"394,486,709,920",21474,Generation X
+Australia,2002,female,25-34 years,103,1444148,7.13,Australia2002,,"394,486,709,920",21474,Generation X
+Australia,2003,male,25-34 years,394,1437607,27.41,Australia2003,,"466,294,700,058",25059,Generation X
+Australia,2003,female,25-34 years,106,1444160,7.34,Australia2003,,"466,294,700,058",25059,Generation X
+Australia,2004,male,25-34 years,386,14413,26.78,Australia2004,,61,32454,Generation X
+Australia,2004,female,25-34 years,82,1446557,5.67,Australia2004,,61,32454,Generation X
+Australia,2006,male,25-34 years,277,1442942,,Australia2006,,"745,521,862,833",39014,Generation X
+Australia,2006,female,25-34 years,74,1444570,5.12,Australia2006,,"745,521,862,833",39014,Generation X
+Australia,2007,male,25-34 years,341,1470431,23,Australia2007,,85,43171,Generation X
+Australia,2007,female,25-34 years,90,1460752,6.16,Australia2007,,85,43171,Generation X
+Australia,2008,male,25-34 years,354,1512033,23.41,Australia2008,,"1,052,584,601,611",52315,Generation X
+Australia,2008,female,25-34 years,90,1494968,6.02,Australia2008,,"1,052,584,601,611",52315,Generation X
+Australia,2009,male,25-34 years,336,1567118,21.44,Australia2009,,"926,448,240,318",45128,Generation X
+Australia,2009,female,25-34 years,103,1541393,6.68,Australia2009,,"926,448,240,318",45128,Generation X
+Australia,2010,male,25-34 years,311,1606526,,Australia2010,0.927,"1,144,260,547,873",54887,Generation X
+Australia,2010,female,25-34 years,94,1579905,5.95,Australia2010,0.927,"1,144,260,547,873",54887,Generation X
+Australia,2011,male,25-34 years,347,1610295,21.55,Australia2011,0.93,"1,394,280,784,778",66770,Millenials
+Australia,2011,female,25-34 years,85,1584036,5.37,Australia2011,0.93,"1,394,280,784,778",66770,Millenials
+Australia,2012,male,25-34 years,351,1657638,21.17,Australia2012,0.932,"1,543,411,012,580",72669,Millenials
+Australia,2012,female,25-34 years,98,1630077,6.01,Australia2012,0.932,"1,543,411,012,580",72669,Millenials
+Australia,2013,male,25-34 years,329,1702401,,Australia2013,0.933,"1,573,696,522,007",72856,Millenials
+Australia,2013,female,25-34 years,95,1676648,5.67,Australia2013,0.933,"1,573,696,522,007",72856,Millenials
+Australia,2014,male,25-34 years,404,1730968,23.34,Australia2014,0.935,"1,464,955,475,994",66809,Millenials
+Australia,2014,female,25-34 years,1,1716803,6.93,Australia2014,0.935,"1,464,955,475,994",66809,Millenials
+Australia,2015,male,25-34 years,423,1762265,24,Australia2015,,"1,349,034,029,453",60656,Millenials
+Australia,2015,female,25-34 years,1,1747715,6.81,Australia2015,,"1,349,034,029,453",60656,Millenials
+Canada,2000,male,25-34 years,484,2226742,21.74,Canada2000,0.867,"742,293,448,253",25589,Generation X
+Canada,2000,female,25-34 years,1,2177984,5.46,Canada2000,0.867,"742,293,448,253",25589,Generation X
+Canada,2001,male,25-34 years,500,2182409,22.91,Canada2001,,"736,379,777,893",25165,Generation X
+Canada,2001,female,25-34 years,114,2130957,5.35,Canada2001,,"736,379,777,893",25165,Generation X
+Canada,2002,male,25-34 years,466,2,21.24,Canada2002,,"757,950,678,647",25570,Generation X
+Canada,2002,female,25-34 years,124,2142391,5.79,Canada2002,,"757,950,678,647",25570,Generation X
+Canada,2003,male,25-34 years,426,2205120,,Canada2003,,"892,380,986,368",29787,Generation X
+Canada,2003,female,25-34 years,114,215,5.3,Canada2003,,"892,380,986,368",29787,Generation X
+Canada,2004,male,25-34 years,477,2220407,21.48,Canada2004,,"1,023",33787,Generation X
+Canada,2004,female,25-34 years,114,2169563,5.25,Canada2004,,"1,023",33787,Generation X
+Canada,2005,male,25-34 years,415,2236320,18.56,Canada2005,0.892,"1,169,357,979,865",38218,Generation X
+Canada,2005,female,25-34 years,96,2188897,4.39,Canada2005,0.892,"1,169,357,979,865",38218,Generation X
+Canada,2006,male,25-34 years,362,2220384,16.3,Canada2006,,"1,315,415",42566,Generation X
+Canada,2006,female,25-34 years,118,2177957,5.42,Canada2006,,"1,315,415",42566,Generation X
+Canada,2007,male,25-34 years,404,2250433,17.95,Canada2007,,"1,464,977",46890,Generation X
+Canada,2007,female,25-34 years,113,2212210,5.11,Canada2007,,"1,464,977",46890,Generation X
+Canada,2008,male,25-34 years,395,2286010,17.28,Canada2008,,"1,549,131,208,997",49041,Generation X
+Canada,2008,female,25-34 years,118,2251723,5.24,Canada2008,,"1,549,131,208,997",49041,Generation X
+Canada,2009,male,25-34 years,437,2325144,18.79,Canada2009,,"1,371,153,004,986",42933,Generation X
+Canada,2009,female,25-34 years,1,2293665,5,Canada2009,,"1,371,153,004,986",42933,Generation X
+Canada,2010,male,25-34 years,409,2366854,17.28,Canada2010,0.903,"1,613,464,422,811",49974,Generation X
+Canada,2010,female,25-34 years,154,2335884,6.59,Canada2010,0.903,"1,613,464,422,811",49974,Generation X
+Canada,2011,male,25-34 years,410,2400784,17.08,Canada2011,0.909,"1,788,647,906,048",54841,Millenials
+Canada,2011,female,25-34 years,134,2370185,5.65,Canada2011,0.909,"1,788,647,906,048",54841,Millenials
+Canada,2012,male,25-34 years,4,2431632,17.23,Canada2012,0.91,"1,824,288,757,448",55347,Millenials
+Canada,2012,female,25-34 years,129,2403433,5.37,Canada2012,0.91,"1,824,288,757,448",55347,Millenials
+Canada,2013,male,25-34 years,439,2456335,17.87,Canada2013,0.912,"1,842,628,005,830",55310,Millenials
+Canada,2013,female,25-34 years,135,2433660,5.55,Canada2013,0.912,"1,842,628,005,830",55310,Millenials
+Denmark,2000,male,25-34 years,61,403105,15.13,Denmark2000,0.862,"164,158,800,460",32841,Generation X
+Denmark,2000,female,25-34 years,16,389550,4.11,Denmark2000,0.862,"164,158,800,460",32841,Generation X
+Denmark,2001,male,25-34 years,58,394591,14.7,Denmark2001,,"164,791,416,350",32837,Generation X
+Denmark,2001,female,25-34 years,9,383262,2.35,Denmark2001,,"164,791,416,350",32837,Generation X
+Denmark,2002,male,25-34 years,64,383869,16.67,Denmark2002,,"178,635,160,297",35435,Generation X
+Denmark,2002,female,25-34 years,11,374887,2.93,Denmark2002,,"178,635,160,297",35435,Generation X
+Denmark,2003,male,25-34 years,48,376343,12.75,Denmark2003,,"218,095,997,085",43129,Generation X
+Denmark,2003,female,25-34 years,,369080,5.15,Denmark2003,,"218,095,997,085",43129,Generation X
+Denmark,2004,male,25-34 years,60,369973,16.22,Denmark2004,,"251,373,036,671",49552,Generation X
+Denmark,2004,female,25-34 years,,364710,5.21,Denmark2004,,"251,373,036,671",49552,Generation X
+Denmark,2005,male,25-34 years,53,364110,14.56,Denmark2005,0.902,"264,467,308,109",5,Generation X
+Denmark,2005,female,25-34 years,10,360100,2.78,Denmark2005,0.902,"264,467,308,109",5,Generation X
+Denmark,2006,male,25-34 years,52,355908,14.61,Denmark2006,,"282,884,912,894",55354,Generation X
+Denmark,2006,female,25-34 years,15,353444,4.24,Denmark2006,,"282,884,912,894",55354,Generation X
+Denmark,2007,male,25-34 years,56,347246,16.13,Denmark2007,,3,62229,Generation X
+Denmark,2007,female,25-34 years,15,345418,4.34,Denmark2007,,3,62229,Generation X
+Denmark,2008,male,25-34 years,48,341329,14.06,Denmark2008,,"353,361,056,080",68447,Generation X
+Denmark,2008,female,25-34 years,9,338992,2.65,Denmark2008,,"353,361,056,080",68447,Generation X
+Denmark,2009,male,25-34 years,36,335963,10.72,Denmark2009,,"321,241,396,034",61863,Generation X
+Denmark,2009,female,25-34 years,13,334052,3.89,Denmark2009,,"321,241,396,034",61863,Generation X
+Denmark,2010,male,25-34 years,43,329780,13.04,Denmark2010,0.908,32,61711,Generation X
+Denmark,2010,female,25-34 years,6,327722,1.83,Denmark2010,0.908,32,61711,Generation X
+Denmark,2011,male,25-34 years,35,326633,10.72,Denmark2011,0.92,"344,003,209,696",65598,Millenials
+Denmark,2011,female,25-34 years,12,323639,3.71,Denmark2011,0.92,"344,003,209,696",65598,Millenials
+Denmark,2012,male,25-34 years,31,326746,9.49,Denmark2012,0.921,"327,148,899,962",62071,Millenials
+Denmark,2012,female,25-34 years,11,322504,3.41,Denmark2012,0.921,"327,148,899,962",62071,Millenials
+Denmark,2013,male,25-34 years,33,328,10.06,Denmark2013,0.923,"343,584,385,594",64831,Millenials
+Denmark,2013,female,25-34 years,16,3228,4.96,Denmark2013,0.923,"343,584,385,594",64831,Millenials
+Denmark,2014,male,25-34 years,43,333712,12.89,Denmark2014,0.923,"352,993,633,221",66114,Millenials
+Denmark,2014,female,25-34 years,7,325866,2.15,Denmark2014,0.923,"352,993,633,221",66114,Millenials
+Denmark,2015,male,25-34 years,30,342769,8.75,Denmark2015,,"301,298,464,861",55972,Millenials
+Denmark,2015,female,25-34 years,15,331400,4.53,Denmark2015,,"301,298,464,861",55972,Millenials
+Finland,2000,male,25-34 years,156,335796,46.46,Finland2000,0.857,"125,539,893,127",25716,Generation X
+Finland,2000,female,25-34 years,41,321757,12.74,Finland2000,0.857,"125,539,893,127",25716,Generation X
+Finland,2001,male,25-34 years,156,332298,46.95,Finland2001,,"129,250,111,857",26383,Generation X
+Finland,2001,female,25-34 years,23,317879,7.24,Finland2001,,"129,250,111,857",26383,Generation X
+Finland,2002,male,25-34 years,124,329350,37.65,Finland2002,,"139,552,983,249",28390,Generation X
+Finland,2002,female,25-34 years,30,314846,9.53,Finland2002,,"139,552,983,249",28390,Generation X
+Finland,2003,male,25-34 years,111,326748,33.97,Finland2003,,"171,071,106,095",34701,Generation X
+Finland,2003,female,25-34 years,25,312105,8.01,Finland2003,,"171,071,106,095",34701,Generation X
+Finland,2004,male,25-34 years,1,325806,36.52,Finland2004,,,39793,Generation X
+Finland,2004,female,25-34 years,30,311087,9.64,Finland2004,,,39793,Generation X
+Finland,2005,male,25-34 years,99,326851,30.29,Finland2005,0.869,"204,436,015,421",41202,Generation X
+Finland,2005,female,25-34 years,32,311835,10.26,Finland2005,0.869,"204,436,015,421",41202,Generation X
+Finland,2006,male,25-34 years,113,329601,34.28,Finland2006,,"216,552,502,823",43487,Generation X
+Finland,2006,female,25-34 years,33,313759,10.52,Finland2006,,"216,552,502,823",43487,Generation X
+Finland,2007,male,25-34 years,101,334628,30.18,Finland2007,,"255,384,615,385",51089,Generation X
+Finland,2007,female,25-34 years,24,317967,7.55,Finland2007,,"255,384,615,385",51089,Generation X
+Finland,2008,male,25-34 years,116,342053,33.91,Finland2008,,"283,742,493,042",56521,Generation X
+Finland,2008,female,25-34 years,32,324511,9.86,Finland2008,,"283,742,493,042",56521,Generation X
+Finland,2009,male,25-34 years,121,348421,34.73,Finland2009,,"251,499,027,508",49878,Generation X
+Finland,2009,female,25-34 years,40,330127,12.12,Finland2009,,"251,499,027,508",49878,Generation X
+Finland,2010,male,25-34 years,1,351262,33.88,Finland2010,0.878,"247,799,815,768",48939,Generation X
+Finland,2010,female,25-34 years,37,332711,11.12,Finland2010,0.878,"247,799,815,768",48939,Generation X
+Finland,2011,male,25-34 years,105,352092,29.82,Finland2011,0.881,"273,674,236,773",53809,Millenials
+Finland,2011,female,25-34 years,26,333422,7.8,Finland2011,0.881,"273,674,236,773",53809,Millenials
+Finland,2012,male,25-34 years,91,352467,25.82,Finland2012,0.882,"256,706,466,091",50232,Millenials
+Finland,2012,female,25-34 years,27,333404,8.1,Finland2012,0.882,"256,706,466,091",50232,Millenials
+Finland,2013,male,25-34 years,131,353828,37.02,Finland2013,0.882,"269,980,111,643",52572,Millenials
+Finland,2013,female,25-34 years,31,334557,9.27,Finland2013,0.882,"269,980,111,643",52572,Millenials
+Finland,2014,male,25-34 years,110,356059,30.89,Finland2014,0.883,"272,609,288,690",52832,Millenials
+Finland,2014,female,25-34 years,37,336774,10.99,Finland2014,0.883,"272,609,288,690",52832,Millenials
+Finland,2015,male,25-34 years,92,357334,25.75,Finland2015,,"232,464,833,066",44862,Millenials
+Finland,2015,female,25-34 years,30,337446,8.89,Finland2015,,"232,464,833,066",44862,Millenials
+Iceland,2000,male,25-34 years,13,20851,62.35,Iceland2000,0.859,"8,927,140,438",34372,Generation X
+Iceland,2000,female,25-34 years,0,20451,0,Iceland2000,0.859,"8,927,140,438",34372,Generation X
+Iceland,2001,male,25-34 years,5,211,23.68,Iceland2001,,"8,136,345,144",30850,Generation X
+Iceland,2001,female,25-34 years,2,20597,9.71,Iceland2001,,"8,136,345,144",30850,Generation X
+Iceland,2002,male,25-34 years,7,20997,33.34,Iceland2002,,"9,207,689,916",34556,Generation X
+Iceland,2002,female,25-34 years,2,20483,9.76,Iceland2002,,"9,207,689,916",34556,Generation X
+Iceland,2003,female,25-34 years,1,20281,4.93,Iceland2003,,"11,316,441,660",42174,Generation X
+Iceland,2003,male,25-34 years,1,20791,4.81,Iceland2003,,"11,316,441,660",42174,Generation X
+Iceland,2004,female,25-34 years,4,20526,,Iceland2004,,"13,722,824,251",50528,Generation X
+Iceland,2004,male,25-34 years,4,21106,18.95,Iceland2004,,"13,722,824,251",50528,Generation X
+Iceland,2005,male,25-34 years,6,21570,27.82,Iceland2005,0.889,"16,691,490,114",60712,Generation X
+Iceland,2005,female,25-34 years,0,20904,0,Iceland2005,0.889,"16,691,490,114",60712,Generation X
+Iceland,2006,male,25-34 years,2,23135,8.64,Iceland2006,,"17,048,647,568",60243,Generation X
+Iceland,2006,female,25-34 years,1,21650,4.62,Iceland2006,,"17,048,647,568",60243,Generation X
+Iceland,2007,male,25-34 years,6,24445,24.54,Iceland2007,,213,73590,Generation X
+Iceland,2007,female,25-34 years,2,22098,9.05,Iceland2007,,213,73590,Generation X
+Iceland,2008,male,25-34 years,5,25691,,Iceland2008,,"17,658,408,759",59489,Generation X
+Iceland,2008,female,25-34 years,2,22818,8.77,Iceland2008,,"17,658,408,759",59489,Generation X
+Iceland,2009,male,25-34 years,6,24715,24.28,Iceland2009,,"12,944,114,736",43700,Generation X
+Iceland,2009,female,25-34 years,0,22959,0,Iceland2009,,"12,944,114,736",43700,Generation X
+Iceland,2010,male,25-34 years,8,23610,33.88,Iceland2010,0.892,"13,310,567,803",45179,Generation X
+Iceland,2010,female,25-34 years,1,22558,4.43,Iceland2010,0.892,"13,310,567,803",45179,Generation X
+Iceland,2011,male,25-34 years,5,23085,21.66,Iceland2011,0.896,"14,732,689,535",49861,Millenials
+Iceland,2011,female,25-34 years,1,22337,4.48,Iceland2011,0.896,"14,732,689,535",49861,Millenials
+Iceland,2012,male,25-34 years,7,22931,30.53,Iceland2012,0.897,"14,292,008,745",48083,Millenials
+Iceland,2012,female,25-34 years,2,22249,8.99,Iceland2012,0.897,"14,292,008,745",48083,Millenials
+Iceland,2013,male,25-34 years,7,23318,30.02,Iceland2013,0.899,"15,548,321,544",51749,Millenials
+Iceland,2013,female,25-34 years,3,22445,13.37,Iceland2013,0.899,"15,548,321,544",51749,Millenials
+Iceland,2014,male,25-34 years,9,23711,37.96,Iceland2014,0.899,"17,304,033,021",56833,Millenials
+Iceland,2014,female,25-34 years,2,22708,8.81,Iceland2014,0.899,"17,304,033,021",56833,Millenials
+Iceland,2015,male,25-34 years,6,24128,24.87,Iceland2015,,"16,942,247,374",54909,Millenials
+Iceland,2015,female,25-34 years,1,22913,4.36,Iceland2015,,"16,942,247,374",54909,Millenials
+Iceland,2016,male,25-34 years,8,25029,31.96,Iceland2016,,"20,304,098,101",64708,Millenials
+Iceland,2016,female,25-34 years,2,23233,8.61,Iceland2016,,"20,304,098,101",64708,Millenials
+Netherlands,2000,male,25-34 years,162,1251135,12.95,Netherlands2000,0.877,"412,807,259,996",27644,Generation X
+Netherlands,2000,female,25-34 years,67,1212404,5.53,Netherlands2000,0.877,"412,807,259,996",27644,Generation X
+Netherlands,2001,male,25-34 years,183,1222239,14.97,Netherlands2001,,"426,573,601,790",28366,Generation X
+Netherlands,2001,female,25-34 years,61,1188832,5.13,Netherlands2001,,"426,573,601,790",28366,Generation X
+Netherlands,2002,male,25-34 years,179,1,15.02,Netherlands2002,,"465,368,906,456",30757,Generation X
+Netherlands,2002,female,25-34 years,57,1164180,4.9,Netherlands2002,,"465,368,906,456",30757,Generation X
+Netherlands,2003,male,25-34 years,165,1157639,14.25,Netherlands2003,,"571,863,431,151",37614,Generation X
+Netherlands,2003,female,25-34 years,48,1137043,4.22,Netherlands2003,,"571,863,431,151",37614,Generation X
+Netherlands,2004,male,25-34 years,141,1118373,12.61,Netherlands2004,,"650,532,654,582",42614,Generation X
+Netherlands,2004,female,25-34 years,42,1105273,3.8,Netherlands2004,,"650,532,654,582",42614,Generation X
+Netherlands,2005,male,25-34 years,144,1078642,13.35,Netherlands2005,0.891,"678,533,764,457",44289,Generation X
+Netherlands,2005,female,25-34 years,55,107,5.13,Netherlands2005,0.891,"678,533,764,457",44289,Generation X
+Netherlands,2006,male,25-34 years,143,1044859,13.69,Netherlands2006,,"726,649,102,998",47281,Generation X
+Netherlands,2006,female,25-34 years,51,1042374,4.89,Netherlands2006,,"726,649,102,998",47281,Generation X
+Netherlands,2007,male,25-34 years,114,1018680,11,Netherlands2007,,"8,394",54418,Generation X
+Netherlands,2007,female,25-34 years,48,1017477,4.72,Netherlands2007,,"8,394",54418,Generation X
+Netherlands,2008,male,25-34 years,1,1005566,11.83,Netherlands2008,,"936,228,211,513",60375,Generation X
+Netherlands,2008,female,25-34 years,41,100,4.09,Netherlands2008,,"936,228,211,513",60375,Generation X
+Netherlands,2009,male,25-34 years,115,1003333,11.46,Netherlands2009,,"857,932,759,100",54988,Generation X
+Netherlands,2009,female,25-34 years,48,996321,4.82,Netherlands2009,,"857,932,759,100",54988,Generation X
+Netherlands,2010,male,25-34 years,115,1005583,11.44,Netherlands2010,0.909,"836,389,937,229",53302,Generation X
+Netherlands,2010,female,25-34 years,53,997025,5.32,Netherlands2010,0.909,"836,389,937,229",53302,Generation X
+Netherlands,2011,male,25-34 years,138,1010996,13.65,Netherlands2011,0.9,"893,757,287,202",56667,Millenials
+Netherlands,2011,female,25-34 years,63,1002441,6.28,Netherlands2011,0.9,"893,757,287,202",56667,Millenials
+Netherlands,2012,male,25-34 years,143,1017789,14.05,Netherlands2012,0.92,"828,946,812,397",52334,Millenials
+Netherlands,2012,female,25-34 years,58,1008927,5.75,Netherlands2012,0.92,"828,946,812,397",52334,Millenials
+Netherlands,2013,male,25-34 years,137,1024168,13.38,Netherlands2013,0.92,"866,680,000,367",54510,Millenials
+Netherlands,2013,female,25-34 years,46,1014090,4.54,Netherlands2013,0.92,"866,680,000,367",54510,Millenials
+Netherlands,2014,male,25-34 years,117,1024168,11.42,Netherlands2014,0.922,"879,635,084,125",55325,Millenials
+Netherlands,2014,female,25-34 years,54,1014090,5.32,Netherlands2014,0.922,"879,635,084,125",55325,Millenials
+Netherlands,2015,male,25-34 years,146,1045012,13.97,Netherlands2015,,"757,999,453,314",47206,Millenials
+Netherlands,2015,female,25-34 years,65,1030867,6.31,Netherlands2015,,"757,999,453,314",47206,Millenials
+Netherlands,2016,male,25-34 years,159,106,14.97,Netherlands2016,,"777,227,541,581",48108,Millenials
+Netherlands,2016,female,25-34 years,65,1043372,6.23,Netherlands2016,,"777,227,541,581",48108,Millenials
+New Zealand,2000,male,25-34 years,105,270430,38.83,New Zealand2000,0.874,"52,622,842,840",14725,Generation X
+New Zealand,2000,female,25-34 years,21,290740,7.22,New Zealand2000,0.874,"52,622,842,840",14725,Generation X
+New Zealand,2001,male,25-34 years,92,264130,34.83,New Zealand2001,,"53,872,425,917",14968,Generation X
+New Zealand,2001,female,25-34 years,29,284680,10,New Zealand2001,,"53,872,425,917",14968,Generation X
+New Zealand,2002,male,25-34 years,82,263160,31.16,New Zealand2002,,"66,627,729,311",18208,Generation X
+New Zealand,2002,female,25-34 years,26,282330,9.21,New Zealand2002,,"66,627,729,311",18208,Generation X
+New Zealand,2003,male,25-34 years,80,264090,30.29,New Zealand2003,,"88,250,885,550",23663,Generation X
+New Zealand,2003,female,25-34 years,22,281770,7.81,New Zealand2003,,"88,250,885,550",23663,Generation X
+New Zealand,2004,male,25-34 years,76,265490,28.63,New Zealand2004,,"103,904,537,815",27325,Generation X
+New Zealand,2004,female,25-34 years,,285690,6.65,New Zealand2004,,"103,904,537,815",27325,Generation X
+New Zealand,2005,male,25-34 years,86,264490,32.52,New Zealand2005,0.895,"114,718,721,397",29803,Generation X
+New Zealand,2005,female,25-34 years,26,284850,9.13,New Zealand2005,0.895,"114,718,721,397",29803,Generation X
+New Zealand,2006,male,25-34 years,72,263090,27.37,New Zealand2006,,"111,608,845,081",28628,Generation X
+New Zealand,2006,female,25-34 years,28,283300,9.88,New Zealand2006,,"111,608,845,081",28628,Generation X
+New Zealand,2007,male,25-34 years,80,262570,30.47,New Zealand2007,,"137,316,087,308",34892,Generation X
+New Zealand,2007,female,25-34 years,14,281170,4.98,New Zealand2007,,"137,316,087,308",34892,Generation X
+New Zealand,2008,male,25-34 years,70,263560,26.56,New Zealand2008,,"133,279,679,483",33585,Generation X
+New Zealand,2008,female,25-34 years,18,280380,6.42,New Zealand2008,,"133,279,679,483",33585,Generation X
+New Zealand,2009,male,25-34 years,64,267390,23.94,New Zealand2009,,"121,338,622,025",30259,Generation X
+New Zealand,2009,female,25-34 years,20,28,7.09,New Zealand2009,,"121,338,622,025",30259,Generation X
+New Zealand,2010,male,25-34 years,65,272460,23.86,New Zealand2010,0.905,"146,583,831,538",36145,Generation X
+New Zealand,2010,female,25-34 years,30,285250,10.52,New Zealand2010,0.905,"146,583,831,538",36145,Generation X
+New Zealand,2011,male,25-34 years,70,277600,25.22,New Zealand2011,0.907,"16,846",41184,Millenials
+New Zealand,2011,female,25-34 years,,288510,6.59,New Zealand2011,0.907,"16,846",41184,Millenials
+New Zealand,2012,male,25-34 years,60,283640,21.15,New Zealand2012,0.909,176,42756,Millenials
+New Zealand,2012,female,25-34 years,22,291540,7.55,New Zealand2012,0.909,176,42756,Millenials
+New Zealand,2013,male,25-34 years,51,264840,,New Zealand2013,0.911,,46,Millenials
+New Zealand,2013,female,25-34 years,21,283720,7.4,New Zealand2013,0.911,,46,Millenials
+Norway,2000,male,25-34 years,80,336252,23.79,Norway2000,0.917,"171,315,639,983",41099,Generation X
+Norway,2000,female,25-34 years,27,323870,8.34,Norway2000,0.917,"171,315,639,983",41099,Generation X
+Norway,2001,male,25-34 years,76,341767,22.24,Norway2001,,"174,003,247,439",41281,Generation X
+Norway,2001,female,25-34 years,18,330804,5.44,Norway2001,,"174,003,247,439",41281,Generation X
+Norway,2002,male,25-34 years,74,335566,22.05,Norway2002,,,46049,Generation X
+Norway,2002,female,25-34 years,23,326338,7.05,Norway2002,,,46049,Generation X
+Norway,2003,male,25-34 years,70,328978,21.28,Norway2003,,"228,752,436,372",53533,Generation X
+Norway,2003,female,25-34 years,22,321320,6.85,Norway2003,,"228,752,436,372",53533,Generation X
+Norway,2004,male,25-34 years,59,322017,18.32,Norway2004,,"264,357,494,659",61450,Generation X
+Norway,2004,female,25-34 years,20,315751,6.33,Norway2004,,"264,357,494,659",61450,Generation X
+Norway,2005,male,25-34 years,73,316562,23.06,Norway2005,0.931,"308,722,079,938",71215,Generation X
+Norway,2005,female,25-34 years,33,311116,10.61,Norway2005,0.931,"308,722,079,938",71215,Generation X
+Norway,2006,male,25-34 years,63,312881,20.14,Norway2006,,"345,424,664,369",79007,Generation X
+Norway,2006,female,25-34 years,21,307388,6.83,Norway2006,,"345,424,664,369",79007,Generation X
+Norway,2007,male,25-34 years,60,312302,,Norway2007,,"401,082,621,083",90797,Generation X
+Norway,2007,female,25-34 years,21,305124,6.88,Norway2007,,"401,082,621,083",90797,Generation X
+Norway,2008,male,25-34 years,59,314848,18.74,Norway2008,,"462,554,432,624",103431,Generation X
+Norway,2008,female,25-34 years,27,305368,8.84,Norway2008,,"462,554,432,624",103431,Generation X
+Norway,2009,male,25-34 years,64,317068,20.18,Norway2009,,"386,622,457,580",85394,Generation X
+Norway,2009,female,25-34 years,31,306776,10.11,Norway2009,,"386,622,457,580",85394,Generation X
+Norway,2010,male,25-34 years,62,320142,,Norway2010,0.94,"429,130,952,709",93638,Generation X
+Norway,2010,female,25-34 years,24,309282,7.76,Norway2010,0.94,"429,130,952,709",93638,Generation X
+Norway,2011,male,25-34 years,73,326867,22.33,Norway2011,0.941,"498,831,558,926",107430,Millenials
+Norway,2011,female,25-34 years,23,313943,7.33,Norway2011,0.941,"498,831,558,926",107430,Millenials
+Norway,2012,male,25-34 years,61,336168,18.15,Norway2012,0.942,"510,229,136,227",108408,Millenials
+Norway,2012,female,25-34 years,17,321049,5.3,Norway2012,0.942,"510,229,136,227",108408,Millenials
+Norway,2013,male,25-34 years,56,345406,16.21,Norway2013,0.942,"523,502,127,660",109804,Millenials
+Norway,2013,female,25-34 years,24,329495,7.28,Norway2013,0.942,"523,502,127,660",109804,Millenials
+Norway,2014,male,25-34 years,71,353943,20.06,Norway2014,0.944,"499,338,534,779",103443,Millenials
+Norway,2014,female,25-34 years,20,337592,5.92,Norway2014,0.944,"499,338,534,779",103443,Millenials
+Norway,2015,male,25-34 years,64,361373,17.71,Norway2015,,"386,663,139,403",79187,Millenials
+Norway,2015,female,25-34 years,31,344788,8.99,Norway2015,,"386,663,139,403",79187,Millenials
+Sweden,2000,male,25-34 years,114,626512,18.2,Sweden2000,0.897,"259,802,012,617",30896,Generation X
+Sweden,2000,female,25-34 years,30,601750,4.99,Sweden2000,0.897,"259,802,012,617",30896,Generation X
+Sweden,2001,male,25-34 years,104,616460,16.87,Sweden2001,,"239,917,320,967",28429,Generation X
+Sweden,2001,female,25-34 years,29,593553,4.89,Sweden2001,,"239,917,320,967",28429,Generation X
+Sweden,2002,male,25-34 years,101,605900,16.67,Sweden2002,,"263,926,220,333",31175,Generation X
+Sweden,2002,female,25-34 years,36,584302,6.16,Sweden2002,,"263,926,220,333",31175,Generation X
+Sweden,2003,male,25-34 years,85,596698,14.25,Sweden2003,,"331,108,912,605",38997,Generation X
+Sweden,2003,female,25-34 years,58,576009,10.07,Sweden2003,,"331,108,912,605",38997,Generation X
+Sweden,2004,male,25-34 years,84,590802,14.22,Sweden2004,,"381,705,425,302",44831,Generation X
+Sweden,2004,female,25-34 years,32,570904,5.61,Sweden2004,,"381,705,425,302",44831,Generation X
+Sweden,2005,male,25-34 years,95,588142,16.15,Sweden2005,0.892,"389,042,298,377",45563,Generation X
+Sweden,2005,female,25-34 years,40,568205,7.04,Sweden2005,0.892,"389,042,298,377",45563,Generation X
+Sweden,2006,male,25-34 years,79,586595,13.47,Sweden2006,,"420,032,121,656",48977,Generation X
+Sweden,2006,female,25-34 years,41,565463,7.25,Sweden2006,,"420,032,121,656",48977,Generation X
+Sweden,2007,male,25-34 years,103,585980,17.58,Sweden2007,,"487,816,328,342",56531,Generation X
+Sweden,2007,female,25-34 years,28,562738,4.98,Sweden2007,,"487,816,328,342",56531,Generation X
+Sweden,2008,male,25-34 years,96,586538,16.37,Sweden2008,,"513,965,650,650",59155,Generation X
+Sweden,2008,female,25-34 years,42,561352,7.48,Sweden2008,,"513,965,650,650",59155,Generation X
+Sweden,2009,male,25-34 years,111,588185,18.87,Sweden2009,,"429,657,033,108",49070,Generation X
+Sweden,2009,female,25-34 years,33,561793,5.87,Sweden2009,,"429,657,033,108",49070,Generation X
+Sweden,2010,male,25-34 years,106,593020,17.87,Sweden2010,0.901,"488,377,689,565",55352,Generation X
+Sweden,2010,female,25-34 years,31,564791,5.49,Sweden2010,0.901,"488,377,689,565",55352,Generation X
+Sweden,2011,male,25-34 years,107,600789,17.81,Sweden2011,0.903,"563,109,663,291",63380,Millenials
+Sweden,2011,female,25-34 years,46,571231,8.05,Sweden2011,0.903,"563,109,663,291",63380,Millenials
+Sweden,2012,male,25-34 years,113,609527,18.54,Sweden2012,0.904,"543,880,647,757",60776,Millenials
+Sweden,2012,female,25-34 years,27,580871,4.65,Sweden2012,0.904,"543,880,647,757",60776,Millenials
+Sweden,2013,male,25-34 years,111,62,17.85,Sweden2013,0.905,"578,742,001,488",64133,Millenials
+Sweden,2013,female,25-34 years,46,593992,7.74,Sweden2013,0.905,"578,742,001,488",64133,Millenials
+Sweden,2014,male,25-34 years,114,638657,17.85,Sweden2014,0.907,"5,738,177",62956,Millenials
+Sweden,2014,female,25-34 years,42,609532,6.89,Sweden2014,0.907,"5,738,177",62956,Millenials
+Sweden,2015,male,25-34 years,108,638657,16.91,Sweden2015,,"497,918,109,302",54629,Millenials
+Sweden,2015,female,25-34 years,48,609532,7.87,Sweden2015,,"497,918,109,302",54629,Millenials
+Sweden,2016,male,25-34 years,114,670158,17.01,Sweden2016,,"514,459,972,806",55594,Millenials
+Sweden,2016,female,25-34 years,44,641572,6.86,Sweden2016,,"514,459,972,806",55594,Millenials
+Switzerland,2000,male,25-34 years,147,530378,27.72,Switzerland2000,0.888,"272,055,499,941",39952,Generation X
+Switzerland,2000,female,25-34 years,47,537823,8.74,Switzerland2000,0.888,"272,055,499,941",39952,Generation X
+Switzerland,2001,male,25-34 years,101,5,,Switzerland2001,,"278,631,271,391",40582,Generation X
+Switzerland,2001,female,25-34 years,35,527458,6.64,Switzerland2001,,"278,631,271,391",40582,Generation X
+Switzerland,2002,male,25-34 years,140,508396,27.54,Switzerland2002,,"301,416,810,214",434,Generation X
+Switzerland,2002,female,25-34 years,31,514628,6.02,Switzerland2002,,"301,416,810,214",434,Generation X
+Switzerland,2003,male,25-34 years,85,504671,16.84,Switzerland2003,,"352,914,820,747",50639,Generation X
+Switzerland,2003,female,25-34 years,28,511185,5.48,Switzerland2003,,"352,914,820,747",50639,Generation X
+Switzerland,2004,male,25-34 years,86,498009,17.27,Switzerland2004,,"394,163,688,621",56123,Generation X
+Switzerland,2004,female,25-34 years,34,504589,6.74,Switzerland2004,,"394,163,688,621",56123,Generation X
+Switzerland,2005,male,25-34 years,90,493144,18.25,Switzerland2005,0.904,"408,689,353,999",57790,Generation X
+Switzerland,2005,female,25-34 years,40,499595,8.01,Switzerland2005,0.904,"408,689,353,999",57790,Generation X
+Switzerland,2006,male,25-34 years,95,490111,,Switzerland2006,,"430,921",60536,Generation X
+Switzerland,2006,female,25-34 years,34,496129,6.85,Switzerland2006,,"430,921",60536,Generation X
+Switzerland,2007,male,25-34 years,80,4930,16.23,Switzerland2007,,"479,913,034,322",66807,Generation X
+Switzerland,2007,female,25-34 years,32,497366,6.43,Switzerland2007,,"479,913,034,322",66807,Generation X
+Switzerland,2008,male,25-34 years,79,502793,15.71,Switzerland2008,,"554,363,487,120",76202,Generation X
+Switzerland,2008,female,25-34 years,35,504566,6.94,Switzerland2008,,"554,363,487,120",76202,Generation X
+Switzerland,2009,male,25-34 years,72,512293,14.05,Switzerland2009,,"541,506,500,414",73529,Generation X
+Switzerland,2009,female,25-34 years,25,512791,4.88,Switzerland2009,,"541,506,500,414",73529,Generation X
+Switzerland,2010,male,25-34 years,74,5,14.25,Switzerland2010,0.924,"583,782,977,866",78474,Generation X
+Switzerland,2010,female,25-34 years,32,5,6.16,Switzerland2010,0.924,"583,782,977,866",78474,Generation X
+Switzerland,2011,male,25-34 years,81,537091,15.08,Switzerland2011,0.925,"699,579,638,638",93053,Millenials
+Switzerland,2011,female,25-34 years,25,528301,4.73,Switzerland2011,0.925,"699,579,638,638",93053,Millenials
+Switzerland,2012,male,25-34 years,66,546564,12.08,Switzerland2012,0.927,"668,043,614,123",87951,Millenials
+Switzerland,2012,female,25-34 years,29,536457,5.41,Switzerland2012,0.927,"668,043,614,123",87951,Millenials
+Switzerland,2013,male,25-34 years,78,556884,14.01,Switzerland2013,0.928,"688,504,173,431",89634,Millenials
+Switzerland,2013,female,25-34 years,21,545796,3.85,Switzerland2013,0.928,"688,504,173,431",89634,Millenials
+Switzerland,2014,male,25-34 years,68,572530,11.88,Switzerland2014,0.93,"709,182,559,935",90809,Millenials
+Switzerland,2014,female,25-34 years,30,565099,5.31,Switzerland2014,0.93,"709,182,559,935",90809,Millenials
+Switzerland,2015,male,25-34 years,80,586880,13.63,Switzerland2015,,"679,289,166,858",86068,Millenials
+Switzerland,2015,female,25-34 years,24,577973,4.15,Switzerland2015,,"679,289,166,858",86068,Millenials
+Australia,2000,male,35-54 years,745,2769752,26.9,Australia2000,0.898,"415,034,227,218",232,Boomers
+Australia,2000,female,35-54 years,200,2782583,7,Australia2000,0.898,"415,034,227,218",232,Boomers
+Australia,2001,male,35-54 years,752,2803465,26.82,Australia2001,,"378,215,090,694",20860,Boomers
+Australia,2001,female,35-54 years,226,2827367,7.99,Australia2001,,"378,215,090,694",20860,Boomers
+Australia,2002,male,35-54 years,744,2820596,26.38,Australia2002,,"394,486,709,920",21474,Boomers
+Australia,2002,female,35-54 years,213,2845525,7.49,Australia2002,,"394,486,709,920",21474,Boomers
+Australia,2003,male,35-54 years,654,2840522,23.02,Australia2003,,"466,294,700,058",25059,Boomers
+Australia,2003,female,35-54 years,,2868971,6.8,Australia2003,,"466,294,700,058",25059,Boomers
+Australia,2004,male,35-54 years,655,2868425,22.83,Australia2004,,61,32454,Boomers
+Australia,2004,female,35-54 years,183,2902618,6.3,Australia2004,,61,32454,Boomers
+Australia,2006,male,35-54 years,686,2894571,23.7,Australia2006,,"745,521,862,833",39014,Boomers
+Australia,2006,female,35-54 years,,2934459,6.65,Australia2006,,"745,521,862,833",39014,Boomers
+Australia,2007,male,35-54 years,687,2977977,23.07,Australia2007,,85,43171,Boomers
+Australia,2007,female,35-54 years,2,3025248,7.24,Australia2007,,85,43171,Boomers
+Australia,2008,male,35-54 years,765,3015761,25.37,Australia2008,,"1,052,584,601,611",52315,Boomers
+Australia,2008,female,35-54 years,231,3066609,7.53,Australia2008,,"1,052,584,601,611",52315,Boomers
+Australia,2009,male,35-54 years,755,3051649,24.74,Australia2009,,"926,448,240,318",45128,Boomers
+Australia,2009,female,35-54 years,221,3104929,7.12,Australia2009,,"926,448,240,318",45128,Boomers
+Australia,2010,male,35-54 years,816,3076853,26.52,Australia2010,0.927,"1,144,260,547,873",54887,Generation X
+Australia,2010,female,35-54 years,228,3132534,7.28,Australia2010,0.927,"1,144,260,547,873",54887,Generation X
+Australia,2011,male,35-54 years,704,3072726,22.91,Australia2011,0.93,"1,394,280,784,778",66770,Generation X
+Australia,2011,female,35-54 years,230,3124328,7.36,Australia2011,0.93,"1,394,280,784,778",66770,Generation X
+Australia,2012,male,35-54 years,802,3098534,25.88,Australia2012,0.932,"1,543,411,012,580",72669,Generation X
+Australia,2012,female,35-54 years,258,3149749,8,Australia2012,0.932,"1,543,411,012,580",72669,Generation X
+Australia,2013,male,35-54 years,754,3118829,24.18,Australia2013,0.933,"1,573,696,522,007",72856,Generation X
+Australia,2013,female,35-54 years,275,3171477,8.67,Australia2013,0.933,"1,573,696,522,007",72856,Generation X
+Australia,2014,male,35-54 years,866,3130341,27.66,Australia2014,0.935,"1,464,955,475,994",66809,Generation X
+Australia,2014,female,35-54 years,277,3189475,8.68,Australia2014,0.935,"1,464,955,475,994",66809,Generation X
+Australia,2015,male,35-54 years,944,3149299,29.97,Australia2015,,"1,349,034,029,453",60656,Generation X
+Australia,2015,female,35-54 years,294,3203643,9.18,Australia2015,,"1,349,034,029,453",60656,Generation X
+Canada,2000,male,35-54 years,1254,4840239,25.91,Canada2000,0.867,"742,293,448,253",25589,Boomers
+Canada,2000,female,35-54 years,393,4830067,8.14,Canada2000,0.867,"742,293,448,253",25589,Boomers
+Canada,2001,male,35-54 years,1347,4892041,27.53,Canada2001,,"736,379,777,893",25165,Boomers
+Canada,2001,female,35-54 years,392,4894497,8.01,Canada2001,,"736,379,777,893",25165,Boomers
+Canada,2002,male,35-54 years,1292,4926984,26.22,Canada2002,,"757,950,678,647",25570,Boomers
+Canada,2002,female,35-54 years,370,4929966,7.51,Canada2002,,"757,950,678,647",25570,Boomers
+Canada,2003,male,35-54 years,1317,4950960,26.6,Canada2003,,"892,380,986,368",29787,Boomers
+Canada,2003,female,35-54 years,438,4956221,8.84,Canada2003,,"892,380,986,368",29787,Boomers
+Canada,2004,male,35-54 years,1210,4982932,24.28,Canada2004,,"1,023",33787,Boomers
+Canada,2004,female,35-54 years,428,4986017,8.58,Canada2004,,"1,023",33787,Boomers
+Canada,2005,male,35-54 years,1341,5018957,26.72,Canada2005,0.892,"1,169,357,979,865",38218,Boomers
+Canada,2005,female,35-54 years,418,5018764,8.33,Canada2005,0.892,"1,169,357,979,865",38218,Boomers
+Canada,2006,male,35-54 years,1202,5050497,23.8,Canada2006,,"1,315,415",42566,Boomers
+Canada,2006,female,35-54 years,362,5021174,7.21,Canada2006,,"1,315,415",42566,Boomers
+Canada,2007,male,35-54 years,1224,5064536,24.17,Canada2007,,"1,464,977",46890,Boomers
+Canada,2007,female,35-54 years,400,5030803,7.95,Canada2007,,"1,464,977",46890,Boomers
+Canada,2008,male,35-54 years,1241,5076969,24.44,Canada2008,,"1,549,131,208,997",49041,Boomers
+Canada,2008,female,35-54 years,413,5038500,8.2,Canada2008,,"1,549,131,208,997",49041,Boomers
+Canada,2009,male,35-54 years,1328,5085328,26.11,Canada2009,,"1,371,153,004,986",42933,Boomers
+Canada,2009,female,35-54 years,402,5043261,7.97,Canada2009,,"1,371,153,004,986",42933,Boomers
+Canada,2010,male,35-54 years,1292,5088099,25.39,Canada2010,0.903,"1,613,464,422,811",49974,Generation X
+Canada,2010,female,35-54 years,402,5044926,7.97,Canada2010,0.903,"1,613,464,422,811",49974,Generation X
+Canada,2011,male,35-54 years,1127,5074280,22.21,Canada2011,0.909,"1,788,647,906,048",54841,Generation X
+Canada,2011,female,35-54 years,390,5032043,7.75,Canada2011,0.909,"1,788,647,906,048",54841,Generation X
+Canada,2012,male,35-54 years,1205,5056024,23.83,Canada2012,0.91,"1,824,288,757,448",55347,Generation X
+Canada,2012,female,35-54 years,385,5018897,7.67,Canada2012,0.91,"1,824,288,757,448",55347,Generation X
+Canada,2013,male,35-54 years,1244,5032714,24.72,Canada2013,0.912,"1,842,628,005,830",55310,Generation X
+Canada,2013,female,35-54 years,400,5003771,7.99,Canada2013,0.912,"1,842,628,005,830",55310,Generation X
+Denmark,2000,male,35-54 years,218,783883,27.81,Denmark2000,0.862,"164,158,800,460",32841,Boomers
+Denmark,2000,female,35-54 years,74,760859,9.73,Denmark2000,0.862,"164,158,800,460",32841,Boomers
+Denmark,2001,male,35-54 years,204,783604,26.03,Denmark2001,,"164,791,416,350",32837,Boomers
+Denmark,2001,female,35-54 years,73,761705,9.58,Denmark2001,,"164,791,416,350",32837,Boomers
+Denmark,2002,male,35-54 years,182,784825,23,Denmark2002,,"178,635,160,297",35435,Boomers
+Denmark,2002,female,35-54 years,63,762841,8.26,Denmark2002,,"178,635,160,297",35435,Boomers
+Denmark,2003,male,35-54 years,206,784047,26.27,Denmark2003,,"218,095,997,085",43129,Boomers
+Denmark,2003,female,35-54 years,43,763110,5.63,Denmark2003,,"218,095,997,085",43129,Boomers
+Denmark,2004,male,35-54 years,180,782832,22.99,Denmark2004,,"251,373,036,671",49552,Boomers
+Denmark,2004,female,35-54 years,71,762293,9.31,Denmark2004,,"251,373,036,671",49552,Boomers
+Denmark,2005,male,35-54 years,158,781448,20.22,Denmark2005,0.902,"264,467,308,109",5,Boomers
+Denmark,2005,female,35-54 years,58,762175,7.61,Denmark2005,0.902,"264,467,308,109",5,Boomers
+Denmark,2006,male,35-54 years,161,782816,20.57,Denmark2006,,"282,884,912,894",55354,Boomers
+Denmark,2006,female,35-54 years,57,763418,7.47,Denmark2006,,"282,884,912,894",55354,Boomers
+Denmark,2007,male,35-54 years,145,786990,18.42,Denmark2007,,3,62229,Boomers
+Denmark,2007,female,35-54 years,71,768072,9.24,Denmark2007,,3,62229,Boomers
+Denmark,2008,male,35-54 years,150,788890,,Denmark2008,,"353,361,056,080",68447,Boomers
+Denmark,2008,female,35-54 years,76,770688,9.86,Denmark2008,,"353,361,056,080",68447,Boomers
+Denmark,2009,male,35-54 years,186,790578,23.53,Denmark2009,,"321,241,396,034",61863,Boomers
+Denmark,2009,female,35-54 years,43,773415,5.56,Denmark2009,,"321,241,396,034",61863,Boomers
+Denmark,2010,male,35-54 years,142,791338,17.94,Denmark2010,0.908,32,61711,Generation X
+Denmark,2010,female,35-54 years,64,776699,8.24,Denmark2010,0.908,32,61711,Generation X
+Denmark,2011,male,35-54 years,189,791137,23.89,Denmark2011,0.92,"344,003,209,696",65598,Generation X
+Denmark,2011,female,35-54 years,50,778373,6.42,Denmark2011,0.92,"344,003,209,696",65598,Generation X
+Denmark,2012,male,35-54 years,209,788215,26.52,Denmark2012,0.921,"327,148,899,962",62071,Generation X
+Denmark,2012,female,35-54 years,58,7764,7.47,Denmark2012,0.921,"327,148,899,962",62071,Generation X
+Denmark,2013,male,35-54 years,174,785,22.16,Denmark2013,0.923,"343,584,385,594",64831,Generation X
+Denmark,2013,female,35-54 years,54,775088,6.97,Denmark2013,0.923,"343,584,385,594",64831,Generation X
+Denmark,2014,male,35-54 years,178,784300,22.7,Denmark2014,0.923,"352,993,633,221",66114,Generation X
+Denmark,2014,female,35-54 years,59,774379,7.62,Denmark2014,0.923,"352,993,633,221",66114,Generation X
+Denmark,2015,male,35-54 years,159,783366,20.3,Denmark2015,,"301,298,464,861",55972,Generation X
+Denmark,2015,female,35-54 years,51,772844,6.6,Denmark2015,,"301,298,464,861",55972,Generation X
+Finland,2000,male,35-54 years,402,806796,49.83,Finland2000,0.857,"125,539,893,127",25716,Boomers
+Finland,2000,female,35-54 years,122,785167,15.54,Finland2000,0.857,"125,539,893,127",25716,Boomers
+Finland,2001,male,35-54 years,429,800866,53.57,Finland2001,,"129,250,111,857",26383,Boomers
+Finland,2001,female,35-54 years,130,780440,16.66,Finland2001,,"129,250,111,857",26383,Boomers
+Finland,2002,male,35-54 years,339,792737,42.76,Finland2002,,"139,552,983,249",28390,Boomers
+Finland,2002,female,35-54 years,125,773011,16.17,Finland2002,,"139,552,983,249",28390,Boomers
+Finland,2003,male,35-54 years,376,783442,47.99,Finland2003,,"171,071,106,095",34701,Boomers
+Finland,2003,female,35-54 years,112,764626,14.65,Finland2003,,"171,071,106,095",34701,Boomers
+Finland,2004,male,35-54 years,310,772775,40.12,Finland2004,,,39793,Boomers
+Finland,2004,female,35-54 years,116,755108,15.36,Finland2004,,,39793,Boomers
+Finland,2005,male,35-54 years,299,76,39.24,Finland2005,0.869,"204,436,015,421",41202,Boomers
+Finland,2005,female,35-54 years,109,745397,14.62,Finland2005,0.869,"204,436,015,421",41202,Boomers
+Finland,2006,male,35-54 years,310,752178,41.21,Finland2006,,"216,552,502,823",43487,Boomers
+Finland,2006,female,35-54 years,104,736648,14.12,Finland2006,,"216,552,502,823",43487,Boomers
+Finland,2007,male,35-54 years,297,742406,40.01,Finland2007,,"255,384,615,385",51089,Boomers
+Finland,2007,female,35-54 years,89,727224,12.24,Finland2007,,"255,384,615,385",51089,Boomers
+Finland,2008,male,35-54 years,331,732583,45.18,Finland2008,,"283,742,493,042",56521,Boomers
+Finland,2008,female,35-54 years,91,716879,12.69,Finland2008,,"283,742,493,042",56521,Boomers
+Finland,2009,male,35-54 years,293,724700,40.43,Finland2009,,"251,499,027,508",49878,Boomers
+Finland,2009,female,35-54 years,100,708103,14.12,Finland2009,,"251,499,027,508",49878,Boomers
+Finland,2010,male,35-54 years,241,7,33.51,Finland2010,0.878,"247,799,815,768",48939,Generation X
+Finland,2010,female,35-54 years,77,701523,10.98,Finland2010,0.878,"247,799,815,768",48939,Generation X
+Finland,2011,male,35-54 years,259,715014,36.22,Finland2011,0.881,"273,674,236,773",53809,Generation X
+Finland,2011,female,35-54 years,67,696397,9.62,Finland2011,0.881,"273,674,236,773",53809,Generation X
+Finland,2012,male,35-54 years,235,71,33.01,Finland2012,0.882,"256,706,466,091",50232,Generation X
+Finland,2012,female,35-54 years,65,692612,9.38,Finland2012,0.882,"256,706,466,091",50232,Generation X
+Finland,2013,male,35-54 years,,710389,27.31,Finland2013,0.882,"269,980,111,643",52572,Generation X
+Finland,2013,female,35-54 years,72,690084,10.43,Finland2013,0.882,"269,980,111,643",52572,Generation X
+Finland,2014,male,35-54 years,207,708947,29.2,Finland2014,0.883,"272,609,288,690",52832,Generation X
+Finland,2014,female,35-54 years,60,687641,8.73,Finland2014,0.883,"272,609,288,690",52832,Generation X
+Finland,2015,male,35-54 years,,704220,26.98,Finland2015,,"232,464,833,066",44862,Generation X
+Finland,2015,female,35-54 years,55,682671,8.06,Finland2015,,"232,464,833,066",44862,Generation X
+Iceland,2000,male,35-54 years,10,39024,25.63,Iceland2000,0.859,"8,927,140,438",34372,Boomers
+Iceland,2000,female,35-54 years,4,37863,10.56,Iceland2000,0.859,"8,927,140,438",34372,Boomers
+Iceland,2001,male,35-54 years,9,39779,22.63,Iceland2001,,"8,136,345,144",30850,Boomers
+Iceland,2001,female,35-54 years,5,38708,12.92,Iceland2001,,"8,136,345,144",30850,Boomers
+Iceland,2002,female,35-54 years,4,39430,10.14,Iceland2002,,"9,207,689,916",34556,Boomers
+Iceland,2002,male,35-54 years,4,40266,9.93,Iceland2002,,"9,207,689,916",34556,Boomers
+Iceland,2003,male,35-54 years,8,40516,,Iceland2003,,"11,316,441,660",42174,Boomers
+Iceland,2003,female,35-54 years,1,39836,2.51,Iceland2003,,"11,316,441,660",42174,Boomers
+Iceland,2004,male,35-54 years,9,41248,21.82,Iceland2004,,"13,722,824,251",50528,Boomers
+Iceland,2004,female,35-54 years,2,40,4.98,Iceland2004,,"13,722,824,251",50528,Boomers
+Iceland,2005,male,35-54 years,10,41539,24.07,Iceland2005,0.889,"16,691,490,114",60712,Boomers
+Iceland,2005,female,35-54 years,6,40540,14.8,Iceland2005,0.889,"16,691,490,114",60712,Boomers
+Iceland,2006,male,35-54 years,10,44013,22.72,Iceland2006,,"17,048,647,568",60243,Boomers
+Iceland,2006,female,35-54 years,6,40957,14.65,Iceland2006,,"17,048,647,568",60243,Boomers
+Iceland,2007,male,35-54 years,12,45690,26.26,Iceland2007,,213,73590,Boomers
+Iceland,2007,female,35-54 years,1,41594,2.4,Iceland2007,,213,73590,Boomers
+Iceland,2008,male,35-54 years,10,46462,21.52,Iceland2008,,"17,658,408,759",59489,Boomers
+Iceland,2008,female,35-54 years,4,42525,9.41,Iceland2008,,"17,658,408,759",59489,Boomers
+Iceland,2009,male,35-54 years,10,44805,22.32,Iceland2009,,"12,944,114,736",43700,Boomers
+Iceland,2009,female,35-54 years,6,42732,14.04,Iceland2009,,"12,944,114,736",43700,Boomers
+Iceland,2010,male,35-54 years,11,43584,25.24,Iceland2010,0.892,"13,310,567,803",45179,Generation X
+Iceland,2010,female,35-54 years,5,42526,11.76,Iceland2010,0.892,"13,310,567,803",45179,Generation X
+Iceland,2011,male,35-54 years,8,43120,18.55,Iceland2011,0.896,"14,732,689,535",49861,Generation X
+Iceland,2011,female,35-54 years,1,42475,2.35,Iceland2011,0.896,"14,732,689,535",49861,Generation X
+Iceland,2012,male,35-54 years,8,42696,18.74,Iceland2012,0.897,"14,292,008,745",48083,Generation X
+Iceland,2012,female,35-54 years,3,42450,7.07,Iceland2012,0.897,"14,292,008,745",48083,Generation X
+Iceland,2013,male,35-54 years,12,42535,28.21,Iceland2013,0.899,"15,548,321,544",51749,Generation X
+Iceland,2013,female,35-54 years,5,42524,11.76,Iceland2013,0.899,"15,548,321,544",51749,Generation X
+Iceland,2014,male,35-54 years,7,42731,16.38,Iceland2014,0.899,"17,304,033,021",56833,Generation X
+Iceland,2014,female,35-54 years,4,42655,9.38,Iceland2014,0.899,"17,304,033,021",56833,Generation X
+Iceland,2015,male,35-54 years,11,431,25.51,Iceland2015,,"16,942,247,374",54909,Generation X
+Iceland,2015,female,35-54 years,2,42858,4.67,Iceland2015,,"16,942,247,374",54909,Generation X
+Iceland,2016,male,35-54 years,11,44024,24.99,Iceland2016,,"20,304,098,101",64708,Generation X
+Iceland,2016,female,35-54 years,0,43216,0,Iceland2016,,"20,304,098,101",64708,Generation X
+Netherlands,2000,male,35-54 years,440,2462006,17.87,Netherlands2000,0.877,"412,807,259,996",27644,Boomers
+Netherlands,2000,female,35-54 years,221,2386392,9.26,Netherlands2000,0.877,"412,807,259,996",27644,Boomers
+Netherlands,2001,male,35-54 years,452,248,18.21,Netherlands2001,,"426,573,601,790",28366,Boomers
+Netherlands,2001,female,35-54 years,209,2406952,8.68,Netherlands2001,,"426,573,601,790",28366,Boomers
+Netherlands,2002,male,35-54 years,482,2481771,,Netherlands2002,,"465,368,906,456",30757,Boomers
+Netherlands,2002,female,35-54 years,218,2409590,9.05,Netherlands2002,,"465,368,906,456",30757,Boomers
+Netherlands,2003,male,35-54 years,459,2483688,18.48,Netherlands2003,,"571,863,431,151",37614,Boomers
+Netherlands,2003,female,35-54 years,,2416242,7.99,Netherlands2003,,"571,863,431,151",37614,Boomers
+Netherlands,2004,male,35-54 years,489,2492028,,Netherlands2004,,"650,532,654,582",42614,Boomers
+Netherlands,2004,female,35-54 years,231,2430075,9.51,Netherlands2004,,"650,532,654,582",42614,Boomers
+Netherlands,2005,male,35-54 years,503,2502562,20.1,Netherlands2005,0.891,"678,533,764,457",44289,Boomers
+Netherlands,2005,female,35-54 years,228,2446316,9.32,Netherlands2005,0.891,"678,533,764,457",44289,Boomers
+Netherlands,2006,male,35-54 years,468,2508382,18.66,Netherlands2006,,"726,649,102,998",47281,Boomers
+Netherlands,2006,female,35-54 years,207,2458615,8.42,Netherlands2006,,"726,649,102,998",47281,Boomers
+Netherlands,2007,male,35-54 years,427,2508053,17.03,Netherlands2007,,"8,394",54418,Boomers
+Netherlands,2007,female,35-54 years,171,2464793,6.94,Netherlands2007,,"8,394",54418,Boomers
+Netherlands,2008,male,35-54 years,462,2502579,18.46,Netherlands2008,,"936,228,211,513",60375,Boomers
+Netherlands,2008,female,35-54 years,184,2464321,7.47,Netherlands2008,,"936,228,211,513",60375,Boomers
+Netherlands,2009,male,35-54 years,484,2493610,,Netherlands2009,,"857,932,759,100",54988,Boomers
+Netherlands,2009,female,35-54 years,209,2458921,8.5,Netherlands2009,,"857,932,759,100",54988,Boomers
+Netherlands,2010,male,35-54 years,496,2479310,20.01,Netherlands2010,0.909,"836,389,937,229",53302,Generation X
+Netherlands,2010,female,35-54 years,208,2448571,8.49,Netherlands2010,0.909,"836,389,937,229",53302,Generation X
+Netherlands,2011,male,35-54 years,504,2459735,20.49,Netherlands2011,0.9,"893,757,287,202",56667,Generation X
+Netherlands,2011,female,35-54 years,210,2433362,8.63,Netherlands2011,0.9,"893,757,287,202",56667,Generation X
+Netherlands,2012,male,35-54 years,532,2436155,21.84,Netherlands2012,0.92,"828,946,812,397",52334,Generation X
+Netherlands,2012,female,35-54 years,240,2414858,9.94,Netherlands2012,0.92,"828,946,812,397",52334,Generation X
+Netherlands,2013,male,35-54 years,555,2410644,23.02,Netherlands2013,0.92,"866,680,000,367",54510,Generation X
+Netherlands,2013,female,35-54 years,209,2394702,8.73,Netherlands2013,0.92,"866,680,000,367",54510,Generation X
+Netherlands,2014,male,35-54 years,563,2410644,23.35,Netherlands2014,0.922,"879,635,084,125",55325,Generation X
+Netherlands,2014,female,35-54 years,228,2394702,9.52,Netherlands2014,0.922,"879,635,084,125",55325,Generation X
+Netherlands,2015,male,35-54 years,499,2362263,21.12,Netherlands2015,,"757,999,453,314",47206,Generation X
+Netherlands,2015,female,35-54 years,211,2353550,8.97,Netherlands2015,,"757,999,453,314",47206,Generation X
+Netherlands,2016,male,35-54 years,478,2341693,20.41,Netherlands2016,,"777,227,541,581",48108,Generation X
+Netherlands,2016,female,35-54 years,217,2334777,9.29,Netherlands2016,,"777,227,541,581",48108,Generation X
+New Zealand,2000,male,35-54 years,113,540160,20.92,New Zealand2000,0.874,"52,622,842,840",14725,Boomers
+New Zealand,2000,female,35-54 years,30,558340,5.37,New Zealand2000,0.874,"52,622,842,840",14725,Boomers
+New Zealand,2001,male,35-54 years,130,544420,23.88,New Zealand2001,,"53,872,425,917",14968,Boomers
+New Zealand,2001,female,35-54 years,39,565790,6.89,New Zealand2001,,"53,872,425,917",14968,Boomers
+New Zealand,2002,male,35-54 years,131,550840,23.78,New Zealand2002,,"66,627,729,311",18208,Boomers
+New Zealand,2002,female,35-54 years,39,573790,6.8,New Zealand2002,,"66,627,729,311",18208,Boomers
+New Zealand,2003,male,35-54 years,143,558950,25.58,New Zealand2003,,"88,250,885,550",23663,Boomers
+New Zealand,2003,female,35-54 years,56,583610,9.6,New Zealand2003,,"88,250,885,550",23663,Boomers
+New Zealand,2004,male,35-54 years,133,569570,23.35,New Zealand2004,,"103,904,537,815",27325,Boomers
+New Zealand,2004,female,35-54 years,38,599380,6.34,New Zealand2004,,"103,904,537,815",27325,Boomers
+New Zealand,2005,male,35-54 years,138,576380,23.94,New Zealand2005,0.895,"114,718,721,397",29803,Boomers
+New Zealand,2005,female,35-54 years,49,608650,8.05,New Zealand2005,0.895,"114,718,721,397",29803,Boomers
+New Zealand,2006,male,35-54 years,136,584130,23.28,New Zealand2006,,"111,608,845,081",28628,Boomers
+New Zealand,2006,female,35-54 years,52,6,8.39,New Zealand2006,,"111,608,845,081",28628,Boomers
+New Zealand,2007,male,35-54 years,150,588830,25.47,New Zealand2007,,"137,316,087,308",34892,Boomers
+New Zealand,2007,female,35-54 years,55,627060,8.77,New Zealand2007,,"137,316,087,308",34892,Boomers
+New Zealand,2008,male,35-54 years,139,590880,23.52,New Zealand2008,,"133,279,679,483",33585,Boomers
+New Zealand,2008,female,35-54 years,52,631720,8.23,New Zealand2008,,"133,279,679,483",33585,Boomers
+New Zealand,2009,male,35-54 years,144,591800,24.33,New Zealand2009,,"121,338,622,025",30259,Boomers
+New Zealand,2009,female,35-54 years,42,634540,6.62,New Zealand2009,,"121,338,622,025",30259,Boomers
+New Zealand,2010,male,35-54 years,155,591000,26.23,New Zealand2010,0.905,"146,583,831,538",36145,Generation X
+New Zealand,2010,female,35-54 years,51,635970,8.02,New Zealand2010,0.905,"146,583,831,538",36145,Generation X
+New Zealand,2011,male,35-54 years,129,586950,21.98,New Zealand2011,0.907,"16,846",41184,Generation X
+New Zealand,2011,female,35-54 years,34,633580,5.37,New Zealand2011,0.907,"16,846",41184,Generation X
+New Zealand,2012,male,35-54 years,151,581830,25.95,New Zealand2012,0.909,176,42756,Generation X
+New Zealand,2012,female,35-54 years,48,629670,7.62,New Zealand2012,0.909,176,42756,Generation X
+New Zealand,2013,male,35-54 years,140,583390,24,New Zealand2013,0.911,,46,Generation X
+New Zealand,2013,female,35-54 years,63,635060,9.92,New Zealand2013,0.911,,46,Generation X
+Norway,2000,male,35-54 years,151,644550,23.43,Norway2000,0.917,"171,315,639,983",41099,Boomers
+Norway,2000,female,35-54 years,50,617821,8.09,Norway2000,0.917,"171,315,639,983",41099,Boomers
+Norway,2001,male,35-54 years,145,647594,22.39,Norway2001,,"174,003,247,439",41281,Boomers
+Norway,2001,female,35-54 years,64,620966,10.31,Norway2001,,"174,003,247,439",41281,Boomers
+Norway,2002,male,35-54 years,116,650114,17.84,Norway2002,,,46049,Boomers
+Norway,2002,female,35-54 years,46,624015,7.37,Norway2002,,,46049,Boomers
+Norway,2003,male,35-54 years,134,654050,20.49,Norway2003,,"228,752,436,372",53533,Boomers
+Norway,2003,female,35-54 years,45,629033,7.15,Norway2003,,"228,752,436,372",53533,Boomers
+Norway,2004,male,35-54 years,138,659148,20.94,Norway2004,,"264,357,494,659",61450,Boomers
+Norway,2004,female,35-54 years,73,635240,11.49,Norway2004,,"264,357,494,659",61450,Boomers
+Norway,2005,male,35-54 years,135,665154,20.3,Norway2005,0.931,"308,722,079,938",71215,Boomers
+Norway,2005,female,35-54 years,62,641651,9.66,Norway2005,0.931,"308,722,079,938",71215,Boomers
+Norway,2006,male,35-54 years,135,672675,20.07,Norway2006,,"345,424,664,369",79007,Boomers
+Norway,2006,female,35-54 years,61,648666,9.4,Norway2006,,"345,424,664,369",79007,Boomers
+Norway,2007,male,35-54 years,127,682978,18.6,Norway2007,,"401,082,621,083",90797,Boomers
+Norway,2007,female,35-54 years,62,656105,9.45,Norway2007,,"401,082,621,083",90797,Boomers
+Norway,2008,male,35-54 years,127,694003,18.3,Norway2008,,"462,554,432,624",103431,Boomers
+Norway,2008,female,35-54 years,59,662760,8.9,Norway2008,,"462,554,432,624",103431,Boomers
+Norway,2009,male,35-54 years,153,702700,21.77,Norway2009,,"386,622,457,580",85394,Boomers
+Norway,2009,female,35-54 years,59,669131,8.82,Norway2009,,"386,622,457,580",85394,Boomers
+Norway,2010,male,35-54 years,132,709067,18.62,Norway2010,0.94,"429,130,952,709",93638,Generation X
+Norway,2010,female,35-54 years,68,674673,10.08,Norway2010,0.94,"429,130,952,709",93638,Generation X
+Norway,2011,male,35-54 years,161,715422,22.5,Norway2011,0.941,"498,831,558,926",107430,Generation X
+Norway,2011,female,35-54 years,72,678645,10.61,Norway2011,0.941,"498,831,558,926",107430,Generation X
+Norway,2012,male,35-54 years,148,721883,20.5,Norway2012,0.942,"510,229,136,227",108408,Generation X
+Norway,2012,female,35-54 years,60,682003,8.8,Norway2012,0.942,"510,229,136,227",108408,Generation X
+Norway,2013,male,35-54 years,154,727274,21.17,Norway2013,0.942,"523,502,127,660",109804,Generation X
+Norway,2013,female,35-54 years,75,685393,10.94,Norway2013,0.942,"523,502,127,660",109804,Generation X
+Norway,2014,male,35-54 years,147,732244,20.08,Norway2014,0.944,"499,338,534,779",103443,Generation X
+Norway,2014,female,35-54 years,51,688993,7.4,Norway2014,0.944,"499,338,534,779",103443,Generation X
+Norway,2015,male,35-54 years,140,736827,,Norway2015,,"386,663,139,403",79187,Generation X
+Norway,2015,female,35-54 years,61,692881,8.8,Norway2015,,"386,663,139,403",79187,Generation X
+Sweden,2000,male,35-54 years,275,1240681,22.17,Sweden2000,0.897,"259,802,012,617",30896,Boomers
+Sweden,2000,female,35-54 years,123,1200882,10.24,Sweden2000,0.897,"259,802,012,617",30896,Boomers
+Sweden,2001,male,35-54 years,311,1241616,25.05,Sweden2001,,"239,917,320,967",28429,Boomers
+Sweden,2001,female,35-54 years,135,1201311,11.24,Sweden2001,,"239,917,320,967",28429,Boomers
+Sweden,2002,male,35-54 years,315,1242971,25.34,Sweden2002,,"263,926,220,333",31175,Boomers
+Sweden,2002,female,35-54 years,105,120,8.74,Sweden2002,,"263,926,220,333",31175,Boomers
+Sweden,2003,male,35-54 years,300,1242898,24.14,Sweden2003,,"331,108,912,605",38997,Boomers
+Sweden,2003,female,35-54 years,99,1201468,8.24,Sweden2003,,"331,108,912,605",38997,Boomers
+Sweden,2004,male,35-54 years,300,1240460,24.18,Sweden2004,,"381,705,425,302",44831,Boomers
+Sweden,2004,female,35-54 years,103,1,8.59,Sweden2004,,"381,705,425,302",44831,Boomers
+Sweden,2005,male,35-54 years,297,1238835,23.97,Sweden2005,0.892,"389,042,298,377",45563,Boomers
+Sweden,2005,female,35-54 years,135,1,11.26,Sweden2005,0.892,"389,042,298,377",45563,Boomers
+Sweden,2006,male,35-54 years,284,1242768,22.85,Sweden2006,,"420,032,121,656",48977,Boomers
+Sweden,2006,female,35-54 years,143,1202882,11.89,Sweden2006,,"420,032,121,656",48977,Boomers
+Sweden,2007,male,35-54 years,298,1251142,23.82,Sweden2007,,"487,816,328,342",56531,Boomers
+Sweden,2007,female,35-54 years,129,1210389,10.66,Sweden2007,,"487,816,328,342",56531,Boomers
+Sweden,2008,male,35-54 years,292,1258502,23.2,Sweden2008,,"513,965,650,650",59155,Boomers
+Sweden,2008,female,35-54 years,99,1217920,8.13,Sweden2008,,"513,965,650,650",59155,Boomers
+Sweden,2009,male,35-54 years,313,1266615,24.71,Sweden2009,,"429,657,033,108",49070,Boomers
+Sweden,2009,female,35-54 years,133,1226921,10.84,Sweden2009,,"429,657,033,108",49070,Boomers
+Sweden,2010,male,35-54 years,280,1273933,21.98,Sweden2010,0.901,"488,377,689,565",55352,Generation X
+Sweden,2010,female,35-54 years,100,1234672,8.1,Sweden2010,0.901,"488,377,689,565",55352,Generation X
+Sweden,2011,male,35-54 years,263,1277205,20.59,Sweden2011,0.903,"563,109,663,291",63380,Generation X
+Sweden,2011,female,35-54 years,103,1238769,8.31,Sweden2011,0.903,"563,109,663,291",63380,Generation X
+Sweden,2012,male,35-54 years,257,1279633,20.08,Sweden2012,0.904,"543,880,647,757",60776,Generation X
+Sweden,2012,female,35-54 years,140,1241491,11.28,Sweden2012,0.904,"543,880,647,757",60776,Generation X
+Sweden,2013,male,35-54 years,266,1283078,20.73,Sweden2013,0.905,"578,742,001,488",64133,Generation X
+Sweden,2013,female,35-54 years,117,1244666,9.4,Sweden2013,0.905,"578,742,001,488",64133,Generation X
+Sweden,2014,male,35-54 years,238,1289581,18.46,Sweden2014,0.907,"5,738,177",62956,Generation X
+Sweden,2014,female,35-54 years,135,1249962,10.8,Sweden2014,0.907,"5,738,177",62956,Generation X
+Sweden,2015,male,35-54 years,288,1289581,22.33,Sweden2015,,"497,918,109,302",54629,Generation X
+Sweden,2015,female,35-54 years,100,1249962,8,Sweden2015,,"497,918,109,302",54629,Generation X
+Sweden,2016,male,35-54 years,266,1299990,20.46,Sweden2016,,"514,459,972,806",55594,Generation X
+Sweden,2016,female,35-54 years,1,1257582,9.46,Sweden2016,,"514,459,972,806",55594,Generation X
+Switzerland,2000,male,35-54 years,360,1094229,32.9,Switzerland2000,0.888,"272,055,499,941",39952,Boomers
+Switzerland,2000,female,35-54 years,124,1072711,11.56,Switzerland2000,0.888,"272,055,499,941",39952,Boomers
+Switzerland,2001,male,35-54 years,325,11083,29.32,Switzerland2001,,"278,631,271,391",40582,Boomers
+Switzerland,2001,female,35-54 years,123,1087663,11.31,Switzerland2001,,"278,631,271,391",40582,Boomers
+Switzerland,2002,male,35-54 years,332,1123342,29.55,Switzerland2002,,"301,416,810,214",434,Boomers
+Switzerland,2002,female,35-54 years,151,1109627,13.61,Switzerland2002,,"301,416,810,214",434,Boomers
+Switzerland,2003,male,35-54 years,303,1129591,26.82,Switzerland2003,,"352,914,820,747",50639,Boomers
+Switzerland,2003,female,35-54 years,116,1116103,10.39,Switzerland2003,,"352,914,820,747",50639,Boomers
+Switzerland,2004,male,35-54 years,310,1140983,27.17,Switzerland2004,,"394,163,688,621",56123,Boomers
+Switzerland,2004,female,35-54 years,1,1128429,10.55,Switzerland2004,,"394,163,688,621",56123,Boomers
+Switzerland,2005,male,35-54 years,308,1150857,26.76,Switzerland2005,0.904,"408,689,353,999",57790,Boomers
+Switzerland,2005,female,35-54 years,123,1139207,10.8,Switzerland2005,0.904,"408,689,353,999",57790,Boomers
+Switzerland,2006,male,35-54 years,277,1160789,23.86,Switzerland2006,,"430,921",60536,Boomers
+Switzerland,2006,female,35-54 years,129,1149200,11.23,Switzerland2006,,"430,921",60536,Boomers
+Switzerland,2007,male,35-54 years,297,1173821,25.3,Switzerland2007,,"479,913,034,322",66807,Boomers
+Switzerland,2007,female,35-54 years,111,1159958,9.57,Switzerland2007,,"479,913,034,322",66807,Boomers
+Switzerland,2008,male,35-54 years,291,1,24.45,Switzerland2008,,"554,363,487,120",76202,Boomers
+Switzerland,2008,female,35-54 years,112,1172352,9.55,Switzerland2008,,"554,363,487,120",76202,Boomers
+Switzerland,2009,male,35-54 years,311,1204496,25.82,Switzerland2009,,"541,506,500,414",73529,Boomers
+Switzerland,2009,female,35-54 years,106,1184336,8.95,Switzerland2009,,"541,506,500,414",73529,Boomers
+Switzerland,2010,male,35-54 years,267,1213413,22,Switzerland2010,0.924,"583,782,977,866",78474,Generation X
+Switzerland,2010,female,35-54 years,103,1,8.63,Switzerland2010,0.924,"583,782,977,866",78474,Generation X
+Switzerland,2011,male,35-54 years,261,1217823,21.43,Switzerland2011,0.925,"699,579,638,638",93053,Generation X
+Switzerland,2011,female,35-54 years,98,1,8.17,Switzerland2011,0.925,"699,579,638,638",93053,Generation X
+Switzerland,2012,male,35-54 years,251,1224836,20.49,Switzerland2012,0.927,"668,043,614,123",87951,Generation X
+Switzerland,2012,female,35-54 years,104,1205654,8.63,Switzerland2012,0.927,"668,043,614,123",87951,Generation X
+Switzerland,2013,male,35-54 years,255,1233315,20.68,Switzerland2013,0.928,"688,504,173,431",89634,Generation X
+Switzerland,2013,female,35-54 years,100,1212632,8.25,Switzerland2013,0.928,"688,504,173,431",89634,Generation X
+Switzerland,2014,male,35-54 years,245,1244576,,Switzerland2014,0.93,"709,182,559,935",90809,Generation X
+Switzerland,2014,female,35-54 years,95,1223053,7.77,Switzerland2014,0.93,"709,182,559,935",90809,Generation X
+Switzerland,2015,male,35-54 years,242,1248988,,Switzerland2015,,"679,289,166,858",86068,Generation X
+Switzerland,2015,female,35-54 years,111,1227126,9.05,Switzerland2015,,"679,289,166,858",86068,Generation X
+Australia,2000,male,05-14 years,8,1377301,0.58,Australia2000,0.898,"415,034,227,218",232,Millenials
+Australia,2000,female,05-14 years,1,1309796,0.08,Australia2000,0.898,"415,034,227,218",232,Millenials
+Australia,2001,female,05-14 years,4,1317968,0.3,Australia2001,,"378,215,090,694",20860,Millenials
+Australia,2001,male,05-14 years,4,1386873,0.29,Australia2001,,"378,215,090,694",20860,Millenials
+Australia,2002,female,05-14 years,4,1321845,0.3,Australia2002,,"394,486,709,920",21474,Millenials
+Australia,2002,male,05-14 years,4,1391412,0.29,Australia2002,,"394,486,709,920",21474,Millenials
+Australia,2003,female,05-14 years,7,1323202,0.53,Australia2003,,"466,294,700,058",25059,Millenials
+Australia,2003,male,05-14 years,7,13937,0.5,Australia2003,,"466,294,700,058",25059,Millenials
+Australia,2004,male,05-14 years,7,1402222,0.5,Australia2004,,61,32454,Millenials
+Australia,2004,female,05-14 years,1,1329715,0.08,Australia2004,,61,32454,Millenials
+Australia,2006,male,05-14 years,7,1404186,0.5,Australia2006,,"745,521,862,833",39014,Millenials
+Australia,2006,female,05-14 years,1,1332380,0.08,Australia2006,,"745,521,862,833",39014,Millenials
+Australia,2007,male,05-14 years,8,1408182,0.57,Australia2007,,85,43171,Generation Z
+Australia,2007,female,05-14 years,4,1337384,0.3,Australia2007,,85,43171,Generation Z
+Australia,2008,male,05-14 years,8,1411650,0.57,Australia2008,,"1,052,584,601,611",52315,Generation Z
+Australia,2008,female,05-14 years,3,1340626,0.22,Australia2008,,"1,052,584,601,611",52315,Generation Z
+Australia,2009,female,05-14 years,3,1345910,0.22,Australia2009,,"926,448,240,318",45128,Generation Z
+Australia,2009,male,05-14 years,0,1417269,0,Australia2009,,"926,448,240,318",45128,Generation Z
+Australia,2010,male,05-14 years,7,1420846,0.49,Australia2010,0.927,"1,144,260,547,873",54887,Generation Z
+Australia,2010,female,05-14 years,4,1348336,0.3,Australia2010,0.927,"1,144,260,547,873",54887,Generation Z
+Australia,2011,female,05-14 years,9,1351751,0.67,Australia2011,0.93,"1,394,280,784,778",66770,Generation Z
+Australia,2011,male,05-14 years,7,1423748,0.49,Australia2011,0.93,"1,394,280,784,778",66770,Generation Z
+Australia,2012,female,05-14 years,10,1368580,0.73,Australia2012,0.932,"1,543,411,012,580",72669,Generation Z
+Australia,2012,male,05-14 years,6,1442602,0.42,Australia2012,0.932,"1,543,411,012,580",72669,Generation Z
+Australia,2013,male,05-14 years,16,1464302,1.09,Australia2013,0.933,"1,573,696,522,007",72856,Generation Z
+Australia,2013,female,05-14 years,6,1389383,0.43,Australia2013,0.933,"1,573,696,522,007",72856,Generation Z
+Australia,2014,female,05-14 years,15,1408758,1.06,Australia2014,0.935,"1,464,955,475,994",66809,Generation Z
+Australia,2014,male,05-14 years,6,1485754,0.4,Australia2014,0.935,"1,464,955,475,994",66809,Generation Z
+Australia,2015,female,05-14 years,8,1428159,0.56,Australia2015,,"1,349,034,029,453",60656,Generation Z
+Canada,2000,male,05-14 years,29,2101448,1.38,Canada2000,0.867,"742,293,448,253",25589,Millenials
+Canada,2000,female,05-14 years,17,,0.85,Canada2000,0.867,"742,293,448,253",25589,Millenials
+Canada,2001,male,05-14 years,14,2096912,0.67,Canada2001,,"736,379,777,893",25165,Millenials
+Canada,2001,female,05-14 years,13,,0.65,Canada2001,,"736,379,777,893",25165,Millenials
+Canada,2002,male,05-14 years,18,2097593,0.86,Canada2002,,"757,950,678,647",25570,Millenials
+Canada,2002,female,05-14 years,17,,0.85,Canada2002,,"757,950,678,647",25570,Millenials
+Canada,2003,male,05-14 years,,2087408,0.91,Canada2003,,"892,380,986,368",29787,Millenials
+Canada,2003,female,05-14 years,8,,0.4,Canada2003,,"892,380,986,368",29787,Millenials
+Canada,2004,male,05-14 years,17,2069874,0.82,Canada2004,,"1,023",33787,Millenials
+Canada,2004,female,05-14 years,11,,0.56,Canada2004,,"1,023",33787,Millenials
+Canada,2005,female,05-14 years,25,,1.28,Canada2005,0.892,"1,169,357,979,865",38218,Millenials
+Canada,2005,male,05-14 years,,2044772,0.93,Canada2005,0.892,"1,169,357,979,865",38218,Millenials
+Canada,2006,female,05-14 years,18,,0.94,Canada2006,,"1,315,415",42566,Millenials
+Canada,2006,male,05-14 years,13,2014856,0.65,Canada2006,,"1,315,415",42566,Millenials
+Canada,2007,male,05-14 years,18,,0.91,Canada2007,,"1,464,977",46890,Generation Z
+Canada,2007,female,05-14 years,15,1890517,0.79,Canada2007,,"1,464,977",46890,Generation Z
+Canada,2008,male,05-14 years,16,,0.82,Canada2008,,"1,549,131,208,997",49041,Generation Z
+Canada,2008,female,05-14 years,9,1861517,0.48,Canada2008,,"1,549,131,208,997",49041,Generation Z
+Canada,2009,male,05-14 years,13,,0.67,Canada2009,,"1,371,153,004,986",42933,Generation Z
+Canada,2009,female,05-14 years,12,1837414,0.65,Canada2009,,"1,371,153,004,986",42933,Generation Z
+Canada,2010,male,05-14 years,,,0.99,Canada2010,0.903,"1,613,464,422,811",49974,Generation Z
+Canada,2010,female,05-14 years,13,1820274,0.71,Canada2010,0.903,"1,613,464,422,811",49974,Generation Z
+Canada,2011,female,05-14 years,18,1815461,0.99,Canada2011,0.909,"1,788,647,906,048",54841,Generation Z
+Canada,2011,male,05-14 years,13,,0.68,Canada2011,0.909,"1,788,647,906,048",54841,Generation Z
+Canada,2012,female,05-14 years,17,1816079,0.94,Canada2012,0.91,"1,824,288,757,448",55347,Generation Z
+Canada,2012,male,05-14 years,17,,0.88,Canada2012,0.91,"1,824,288,757,448",55347,Generation Z
+Canada,2013,female,05-14 years,20,1823010,1.1,Canada2013,0.912,"1,842,628,005,830",55310,Generation Z
+Canada,2013,male,05-14 years,15,,0.78,Canada2013,0.912,"1,842,628,005,830",55310,Generation Z
+Denmark,2000,male,05-14 years,1,332762,0.3,Denmark2000,0.862,"164,158,800,460",32841,Millenials
+Denmark,2000,female,05-14 years,0,315938,0,Denmark2000,0.862,"164,158,800,460",32841,Millenials
+Denmark,2001,male,05-14 years,2,340220,0.59,Denmark2001,,"164,791,416,350",32837,Millenials
+Denmark,2001,female,05-14 years,0,322284,0,Denmark2001,,"164,791,416,350",32837,Millenials
+Denmark,2002,female,05-14 years,0,328734,0,Denmark2002,,"178,635,160,297",35435,Millenials
+Denmark,2002,male,05-14 years,0,346889,0,Denmark2002,,"178,635,160,297",35435,Millenials
+Denmark,2003,female,05-14 years,0,332848,0,Denmark2003,,"218,095,997,085",43129,Millenials
+Denmark,2003,male,05-14 years,0,350879,0,Denmark2003,,"218,095,997,085",43129,Millenials
+Denmark,2004,female,05-14 years,2,335587,0.6,Denmark2004,,"251,373,036,671",49552,Millenials
+Denmark,2004,male,05-14 years,2,353316,0.57,Denmark2004,,"251,373,036,671",49552,Millenials
+Denmark,2005,male,05-14 years,3,354025,0.85,Denmark2005,0.902,"264,467,308,109",5,Millenials
+Denmark,2005,female,05-14 years,0,336548,0,Denmark2005,0.902,"264,467,308,109",5,Millenials
+Denmark,2006,female,05-14 years,1,336170,0.3,Denmark2006,,"282,884,912,894",55354,Millenials
+Denmark,2006,male,05-14 years,1,353711,0.28,Denmark2006,,"282,884,912,894",55354,Millenials
+Denmark,2007,male,05-14 years,2,351664,0.57,Denmark2007,,3,62229,Generation Z
+Denmark,2007,female,05-14 years,0,334828,0,Denmark2007,,3,62229,Generation Z
+Denmark,2008,female,05-14 years,2,332388,0.6,Denmark2008,,"353,361,056,080",68447,Generation Z
+Denmark,2008,male,05-14 years,1,349108,0.29,Denmark2008,,"353,361,056,080",68447,Generation Z
+Denmark,2009,male,05-14 years,2,347259,0.58,Denmark2009,,"321,241,396,034",61863,Generation Z
+Denmark,2009,female,05-14 years,1,330729,0.3,Denmark2009,,"321,241,396,034",61863,Generation Z
+Denmark,2010,female,05-14 years,0,327790,0,Denmark2010,0.908,32,61711,Generation Z
+Denmark,2010,male,05-14 years,0,344105,0,Denmark2010,0.908,32,61711,Generation Z
+Denmark,2011,female,05-14 years,0,326359,0,Denmark2011,0.92,"344,003,209,696",65598,Generation Z
+Denmark,2011,male,05-14 years,0,341776,0,Denmark2011,0.92,"344,003,209,696",65598,Generation Z
+Denmark,2012,male,05-14 years,1,340022,0.29,Denmark2012,0.921,"327,148,899,962",62071,Generation Z
+Denmark,2012,female,05-14 years,0,324455,0,Denmark2012,0.921,"327,148,899,962",62071,Generation Z
+Denmark,2013,female,05-14 years,1,324362,0.31,Denmark2013,0.923,"343,584,385,594",64831,Generation Z
+Denmark,2013,male,05-14 years,1,339830,0.29,Denmark2013,0.923,"343,584,385,594",64831,Generation Z
+Denmark,2014,female,05-14 years,1,323749,0.31,Denmark2014,0.923,"352,993,633,221",66114,Generation Z
+Denmark,2014,male,05-14 years,1,340065,0.29,Denmark2014,0.923,"352,993,633,221",66114,Generation Z
+Denmark,2015,female,05-14 years,3,323821,0.93,Denmark2015,,"301,298,464,861",55972,Generation Z
+Denmark,2015,male,05-14 years,0,340483,0,Denmark2015,,"301,298,464,861",55972,Generation Z
+Finland,2000,female,05-14 years,2,315989,0.63,Finland2000,0.857,"125,539,893,127",25716,Millenials
+Finland,2000,male,05-14 years,0,329281,0,Finland2000,0.857,"125,539,893,127",25716,Millenials
+Finland,2001,male,05-14 years,4,329122,1.22,Finland2001,,"129,250,111,857",26383,Millenials
+Finland,2001,female,05-14 years,1,315805,0.32,Finland2001,,"129,250,111,857",26383,Millenials
+Finland,2002,male,05-14 years,3,328694,0.91,Finland2002,,"139,552,983,249",28390,Millenials
+Finland,2002,female,05-14 years,0,315612,0,Finland2002,,"139,552,983,249",28390,Millenials
+Finland,2003,male,05-14 years,5,326551,1.53,Finland2003,,"171,071,106,095",34701,Millenials
+Finland,2003,female,05-14 years,2,313836,0.64,Finland2003,,"171,071,106,095",34701,Millenials
+Finland,2004,male,05-14 years,4,323186,1.24,Finland2004,,,39793,Millenials
+Finland,2004,female,05-14 years,1,310728,0.32,Finland2004,,,39793,Millenials
+Finland,2005,female,05-14 years,2,307005,0.65,Finland2005,0.869,"204,436,015,421",41202,Millenials
+Finland,2005,male,05-14 years,0,3,0,Finland2005,0.869,"204,436,015,421",41202,Millenials
+Finland,2006,male,05-14 years,3,315017,0.95,Finland2006,,"216,552,502,823",43487,Millenials
+Finland,2006,female,05-14 years,1,302489,0.33,Finland2006,,"216,552,502,823",43487,Millenials
+Finland,2007,male,05-14 years,3,310283,0.97,Finland2007,,"255,384,615,385",51089,Generation Z
+Finland,2007,female,05-14 years,0,297727,0,Finland2007,,"255,384,615,385",51089,Generation Z
+Finland,2008,female,05-14 years,2,293500,0.68,Finland2008,,"283,742,493,042",56521,Generation Z
+Finland,2008,male,05-14 years,2,306062,0.65,Finland2008,,"283,742,493,042",56521,Generation Z
+Finland,2009,female,05-14 years,1,290188,0.34,Finland2009,,"251,499,027,508",49878,Generation Z
+Finland,2009,male,05-14 years,0,302997,0,Finland2009,,"251,499,027,508",49878,Generation Z
+Finland,2010,male,05-14 years,1,300513,0.33,Finland2010,0.878,"247,799,815,768",48939,Generation Z
+Finland,2010,female,05-14 years,0,287620,0,Finland2010,0.878,"247,799,815,768",48939,Generation Z
+Finland,2011,male,05-14 years,2,299347,0.67,Finland2011,0.881,"273,674,236,773",53809,Generation Z
+Finland,2011,female,05-14 years,0,286685,0,Finland2011,0.881,"273,674,236,773",53809,Generation Z
+Finland,2012,female,05-14 years,0,286874,0,Finland2012,0.882,"256,706,466,091",50232,Generation Z
+Finland,2012,male,05-14 years,0,299783,0,Finland2012,0.882,"256,706,466,091",50232,Generation Z
+Finland,2013,female,05-14 years,1,288186,0.35,Finland2013,0.882,"269,980,111,643",52572,Generation Z
+Finland,2013,male,05-14 years,1,301477,0.33,Finland2013,0.882,"269,980,111,643",52572,Generation Z
+Finland,2014,female,05-14 years,1,290448,0.34,Finland2014,0.883,"272,609,288,690",52832,Generation Z
+Finland,2014,male,05-14 years,1,303796,0.33,Finland2014,0.883,"272,609,288,690",52832,Generation Z
+Finland,2015,male,05-14 years,5,305748,1.64,Finland2015,,"232,464,833,066",44862,Generation Z
+Finland,2015,female,05-14 years,0,292608,0,Finland2015,,"232,464,833,066",44862,Generation Z
+Iceland,2000,female,05-14 years,0,21521,0,Iceland2000,0.859,"8,927,140,438",34372,Millenials
+Iceland,2000,male,05-14 years,0,22548,0,Iceland2000,0.859,"8,927,140,438",34372,Millenials
+Iceland,2001,female,05-14 years,0,21737,0,Iceland2001,,"8,136,345,144",30850,Millenials
+Iceland,2001,male,05-14 years,0,22929,0,Iceland2001,,"8,136,345,144",30850,Millenials
+Iceland,2002,female,05-14 years,0,2,0,Iceland2002,,"9,207,689,916",34556,Millenials
+Iceland,2002,male,05-14 years,0,23134,0,Iceland2002,,"9,207,689,916",34556,Millenials
+Iceland,2003,female,05-14 years,0,2,0,Iceland2003,,"11,316,441,660",42174,Millenials
+Iceland,2003,male,05-14 years,0,22892,0,Iceland2003,,"11,316,441,660",42174,Millenials
+Iceland,2004,female,05-14 years,0,21899,0,Iceland2004,,"13,722,824,251",50528,Millenials
+Iceland,2004,male,05-14 years,0,22791,0,Iceland2004,,"13,722,824,251",50528,Millenials
+Iceland,2005,female,05-14 years,0,21721,0,Iceland2005,0.889,"16,691,490,114",60712,Millenials
+Iceland,2005,male,05-14 years,0,22712,0,Iceland2005,0.889,"16,691,490,114",60712,Millenials
+Iceland,2006,female,05-14 years,0,21538,0,Iceland2006,,"17,048,647,568",60243,Millenials
+Iceland,2006,male,05-14 years,0,22494,0,Iceland2006,,"17,048,647,568",60243,Millenials
+Iceland,2007,female,05-14 years,0,21535,0,Iceland2007,,213,73590,Generation Z
+Iceland,2007,male,05-14 years,0,22312,0,Iceland2007,,213,73590,Generation Z
+Iceland,2008,female,05-14 years,0,21461,0,Iceland2008,,"17,658,408,759",59489,Generation Z
+Iceland,2008,male,05-14 years,0,22177,0,Iceland2008,,"17,658,408,759",59489,Generation Z
+Iceland,2009,female,05-14 years,0,21382,0,Iceland2009,,"12,944,114,736",43700,Generation Z
+Iceland,2009,male,05-14 years,0,22143,0,Iceland2009,,"12,944,114,736",43700,Generation Z
+Iceland,2010,male,05-14 years,1,2,4.56,Iceland2010,0.892,"13,310,567,803",45179,Generation Z
+Iceland,2010,female,05-14 years,0,21185,0,Iceland2010,0.892,"13,310,567,803",45179,Generation Z
+Iceland,2011,male,05-14 years,1,21828,4.58,Iceland2011,0.896,"14,732,689,535",49861,Generation Z
+Iceland,2011,female,05-14 years,0,21068,0,Iceland2011,0.896,"14,732,689,535",49861,Generation Z
+Iceland,2012,female,05-14 years,0,21068,0,Iceland2012,0.897,"14,292,008,745",48083,Generation Z
+Iceland,2012,male,05-14 years,0,21827,0,Iceland2012,0.897,"14,292,008,745",48083,Generation Z
+Iceland,2013,female,05-14 years,0,21275,0,Iceland2013,0.899,"15,548,321,544",51749,Generation Z
+Iceland,2013,male,05-14 years,0,22051,0,Iceland2013,0.899,"15,548,321,544",51749,Generation Z
+Iceland,2014,female,05-14 years,0,21544,0,Iceland2014,0.899,"17,304,033,021",56833,Generation Z
+Iceland,2014,male,05-14 years,0,22446,0,Iceland2014,0.899,"17,304,033,021",56833,Generation Z
+Iceland,2015,female,05-14 years,0,21738,0,Iceland2015,,"16,942,247,374",54909,Generation Z
+Iceland,2015,male,05-14 years,0,22771,0,Iceland2015,,"16,942,247,374",54909,Generation Z
+Netherlands,2000,male,05-14 years,5,1006683,0.5,Netherlands2000,0.877,"412,807,259,996",27644,Millenials
+Netherlands,2000,female,05-14 years,0,962570,0,Netherlands2000,0.877,"412,807,259,996",27644,Millenials
+Netherlands,2001,female,05-14 years,2,967153,0.21,Netherlands2001,,"426,573,601,790",28366,Millenials
+Netherlands,2001,male,05-14 years,1,1012887,0.1,Netherlands2001,,"426,573,601,790",28366,Millenials
+Netherlands,2002,male,05-14 years,5,1015880,0.49,Netherlands2002,,"465,368,906,456",30757,Millenials
+Netherlands,2002,female,05-14 years,2,969671,0.21,Netherlands2002,,"465,368,906,456",30757,Millenials
+Netherlands,2003,male,05-14 years,2,1018379,0.2,Netherlands2003,,"571,863,431,151",37614,Millenials
+Netherlands,2003,female,05-14 years,1,972603,0.1,Netherlands2003,,"571,863,431,151",37614,Millenials
+Netherlands,2004,male,05-14 years,7,1021382,0.69,Netherlands2004,,"650,532,654,582",42614,Millenials
+Netherlands,2004,female,05-14 years,2,974836,0.21,Netherlands2004,,"650,532,654,582",42614,Millenials
+Netherlands,2005,male,05-14 years,11,1021870,1.08,Netherlands2005,0.891,"678,533,764,457",44289,Millenials
+Netherlands,2005,female,05-14 years,2,975331,0.21,Netherlands2005,0.891,"678,533,764,457",44289,Millenials
+Netherlands,2006,female,05-14 years,3,974095,0.31,Netherlands2006,,"726,649,102,998",47281,Millenials
+Netherlands,2006,male,05-14 years,1,10,0.1,Netherlands2006,,"726,649,102,998",47281,Millenials
+Netherlands,2007,male,05-14 years,5,1018393,0.49,Netherlands2007,,"8,394",54418,Generation Z
+Netherlands,2007,female,05-14 years,4,972473,0.41,Netherlands2007,,"8,394",54418,Generation Z
+Netherlands,2008,male,05-14 years,5,1018474,0.49,Netherlands2008,,"936,228,211,513",60375,Generation Z
+Netherlands,2008,female,05-14 years,0,972276,0,Netherlands2008,,"936,228,211,513",60375,Generation Z
+Netherlands,2009,male,05-14 years,6,1017952,0.59,Netherlands2009,,"857,932,759,100",54988,Generation Z
+Netherlands,2009,female,05-14 years,2,971815,0.21,Netherlands2009,,"857,932,759,100",54988,Generation Z
+Netherlands,2010,male,05-14 years,5,1015895,0.49,Netherlands2010,0.909,"836,389,937,229",53302,Generation Z
+Netherlands,2010,female,05-14 years,1,970105,0.1,Netherlands2010,0.909,"836,389,937,229",53302,Generation Z
+Netherlands,2011,male,05-14 years,3,1013127,0.3,Netherlands2011,0.9,"893,757,287,202",56667,Generation Z
+Netherlands,2011,female,05-14 years,1,967820,0.1,Netherlands2011,0.9,"893,757,287,202",56667,Generation Z
+Netherlands,2012,male,05-14 years,4,1008342,0.4,Netherlands2012,0.92,"828,946,812,397",52334,Generation Z
+Netherlands,2012,female,05-14 years,2,963480,0.21,Netherlands2012,0.92,"828,946,812,397",52334,Generation Z
+Netherlands,2013,male,05-14 years,4,1002074,0.4,Netherlands2013,0.92,"866,680,000,367",54510,Generation Z
+Netherlands,2013,female,05-14 years,3,956989,0.31,Netherlands2013,0.92,"866,680,000,367",54510,Generation Z
+Netherlands,2014,female,05-14 years,1,956989,0.1,Netherlands2014,0.922,"879,635,084,125",55325,Generation Z
+Netherlands,2014,male,05-14 years,1,1002074,0.1,Netherlands2014,0.922,"879,635,084,125",55325,Generation Z
+Netherlands,2015,female,05-14 years,6,943082,0.64,Netherlands2015,,"757,999,453,314",47206,Generation Z
+Netherlands,2015,male,05-14 years,1,987750,0.1,Netherlands2015,,"757,999,453,314",47206,Generation Z
+New Zealand,2000,male,05-14 years,3,305390,0.98,New Zealand2000,0.874,"52,622,842,840",14725,Millenials
+New Zealand,2000,female,05-14 years,1,289730,0.35,New Zealand2000,0.874,"52,622,842,840",14725,Millenials
+New Zealand,2001,female,05-14 years,2,289760,0.69,New Zealand2001,,"53,872,425,917",14968,Millenials
+New Zealand,2001,male,05-14 years,1,306430,0.33,New Zealand2001,,"53,872,425,917",14968,Millenials
+New Zealand,2002,female,05-14 years,0,292230,0,New Zealand2002,,"66,627,729,311",18208,Millenials
+New Zealand,2002,male,05-14 years,0,308420,0,New Zealand2002,,"66,627,729,311",18208,Millenials
+New Zealand,2003,male,05-14 years,4,310850,1.29,New Zealand2003,,"88,250,885,550",23663,Millenials
+New Zealand,2003,female,05-14 years,1,293820,0.34,New Zealand2003,,"88,250,885,550",23663,Millenials
+New Zealand,2004,male,05-14 years,4,312260,1.28,New Zealand2004,,"103,904,537,815",27325,Millenials
+New Zealand,2004,female,05-14 years,2,296170,0.68,New Zealand2004,,"103,904,537,815",27325,Millenials
+New Zealand,2005,female,05-14 years,2,294940,0.68,New Zealand2005,0.895,"114,718,721,397",29803,Millenials
+New Zealand,2005,male,05-14 years,0,310950,0,New Zealand2005,0.895,"114,718,721,397",29803,Millenials
+New Zealand,2006,female,05-14 years,4,293570,1.36,New Zealand2006,,"111,608,845,081",28628,Millenials
+New Zealand,2006,male,05-14 years,2,308750,0.65,New Zealand2006,,"111,608,845,081",28628,Millenials
+New Zealand,2007,female,05-14 years,1,290770,0.34,New Zealand2007,,"137,316,087,308",34892,Generation Z
+New Zealand,2007,male,05-14 years,1,305270,0.33,New Zealand2007,,"137,316,087,308",34892,Generation Z
+New Zealand,2008,female,05-14 years,3,287370,1.04,New Zealand2008,,"133,279,679,483",33585,Generation Z
+New Zealand,2008,male,05-14 years,2,30,0.66,New Zealand2008,,"133,279,679,483",33585,Generation Z
+New Zealand,2009,male,05-14 years,6,300000,2,New Zealand2009,,"121,338,622,025",30259,Generation Z
+New Zealand,2009,female,05-14 years,4,285710,1.4,New Zealand2009,,"121,338,622,025",30259,Generation Z
+New Zealand,2010,female,05-14 years,3,284090,1.06,New Zealand2010,0.905,"146,583,831,538",36145,Generation Z
+New Zealand,2010,male,05-14 years,3,298490,1.01,New Zealand2010,0.905,"146,583,831,538",36145,Generation Z
+New Zealand,2011,female,05-14 years,3,283270,1.06,New Zealand2011,0.907,"16,846",41184,Generation Z
+New Zealand,2011,male,05-14 years,3,296860,1.01,New Zealand2011,0.907,"16,846",41184,Generation Z
+New Zealand,2012,male,05-14 years,7,297240,2.35,New Zealand2012,0.909,176,42756,Generation Z
+New Zealand,2012,female,05-14 years,5,283200,1.77,New Zealand2012,0.909,176,42756,Generation Z
+New Zealand,2013,female,05-14 years,2,291080,0.69,New Zealand2013,0.911,,46,Generation Z
+New Zealand,2013,male,05-14 years,0,305750,0,New Zealand2013,0.911,,46,Generation Z
+Norway,2000,male,05-14 years,4,306438,1.31,Norway2000,0.917,"171,315,639,983",41099,Millenials
+Norway,2000,female,05-14 years,0,290467,0,Norway2000,0.917,"171,315,639,983",41099,Millenials
+Norway,2001,female,05-14 years,0,294716,0,Norway2001,,"174,003,247,439",41281,Millenials
+Norway,2001,male,05-14 years,0,310993,0,Norway2001,,"174,003,247,439",41281,Millenials
+Norway,2002,male,05-14 years,2,315265,0.63,Norway2002,,,46049,Millenials
+Norway,2002,female,05-14 years,0,298572,0,Norway2002,,,46049,Millenials
+Norway,2003,male,05-14 years,6,317824,1.89,Norway2003,,"228,752,436,372",53533,Millenials
+Norway,2003,female,05-14 years,3,300868,1,Norway2003,,"228,752,436,372",53533,Millenials
+Norway,2004,female,05-14 years,3,301536,0.99,Norway2004,,"264,357,494,659",61450,Millenials
+Norway,2004,male,05-14 years,0,318382,0,Norway2004,,"264,357,494,659",61450,Millenials
+Norway,2005,male,05-14 years,4,318304,1.26,Norway2005,0.931,"308,722,079,938",71215,Millenials
+Norway,2005,female,05-14 years,1,301502,0.33,Norway2005,0.931,"308,722,079,938",71215,Millenials
+Norway,2006,male,05-14 years,1,317159,0.32,Norway2006,,"345,424,664,369",79007,Millenials
+Norway,2006,female,05-14 years,0,300630,0,Norway2006,,"345,424,664,369",79007,Millenials
+Norway,2007,male,05-14 years,2,315302,0.63,Norway2007,,"401,082,621,083",90797,Generation Z
+Norway,2007,female,05-14 years,0,299559,0,Norway2007,,"401,082,621,083",90797,Generation Z
+Norway,2008,male,05-14 years,1,314384,0.32,Norway2008,,"462,554,432,624",103431,Generation Z
+Norway,2008,female,05-14 years,0,299282,0,Norway2008,,"462,554,432,624",103431,Generation Z
+Norway,2009,female,05-14 years,3,299406,1,Norway2009,,"386,622,457,580",85394,Generation Z
+Norway,2009,male,05-14 years,1,314371,0.32,Norway2009,,"386,622,457,580",85394,Generation Z
+Norway,2010,male,05-14 years,1,313990,0.32,Norway2010,0.94,"429,130,952,709",93638,Generation Z
+Norway,2010,female,05-14 years,0,299351,0,Norway2010,0.94,"429,130,952,709",93638,Generation Z
+Norway,2011,female,05-14 years,4,299327,1.34,Norway2011,0.941,"498,831,558,926",107430,Generation Z
+Norway,2011,male,05-14 years,3,313520,0.96,Norway2011,0.941,"498,831,558,926",107430,Generation Z
+Norway,2012,female,05-14 years,1,299751,0.33,Norway2012,0.942,"510,229,136,227",108408,Generation Z
+Norway,2012,male,05-14 years,1,313738,0.32,Norway2012,0.942,"510,229,136,227",108408,Generation Z
+Norway,2013,male,05-14 years,1,315341,0.32,Norway2013,0.942,"523,502,127,660",109804,Generation Z
+Norway,2013,female,05-14 years,0,301211,0,Norway2013,0.942,"523,502,127,660",109804,Generation Z
+Norway,2014,male,05-14 years,2,317878,0.63,Norway2014,0.944,"499,338,534,779",103443,Generation Z
+Norway,2014,female,05-14 years,1,303487,0.33,Norway2014,0.944,"499,338,534,779",103443,Generation Z
+Norway,2015,female,05-14 years,2,305804,0.65,Norway2015,,"386,663,139,403",79187,Generation Z
+Norway,2015,male,05-14 years,2,320375,0.62,Norway2015,,"386,663,139,403",79187,Generation Z
+Sweden,2000,female,05-14 years,1,570673,0.18,Sweden2000,0.897,"259,802,012,617",30896,Millenials
+Sweden,2000,male,05-14 years,1,601300,0.17,Sweden2000,0.897,"259,802,012,617",30896,Millenials
+Sweden,2001,female,05-14 years,3,569357,0.53,Sweden2001,,"239,917,320,967",28429,Millenials
+Sweden,2001,male,05-14 years,2,599375,0.33,Sweden2001,,"239,917,320,967",28429,Millenials
+Sweden,2002,male,05-14 years,4,593329,0.67,Sweden2002,,"263,926,220,333",31175,Millenials
+Sweden,2002,female,05-14 years,3,563639,0.53,Sweden2002,,"263,926,220,333",31175,Millenials
+Sweden,2003,female,05-14 years,2,554143,0.36,Sweden2003,,"331,108,912,605",38997,Millenials
+Sweden,2003,male,05-14 years,1,583622,0.17,Sweden2003,,"331,108,912,605",38997,Millenials
+Sweden,2004,female,05-14 years,4,541753,0.74,Sweden2004,,"381,705,425,302",44831,Millenials
+Sweden,2004,male,05-14 years,3,570311,0.53,Sweden2004,,"381,705,425,302",44831,Millenials
+Sweden,2005,male,05-14 years,5,554489,0.9,Sweden2005,0.892,"389,042,298,377",45563,Millenials
+Sweden,2005,female,05-14 years,4,526739,0.76,Sweden2005,0.892,"389,042,298,377",45563,Millenials
+Sweden,2006,female,05-14 years,2,511860,0.39,Sweden2006,,"420,032,121,656",48977,Millenials
+Sweden,2006,male,05-14 years,2,538858,0.37,Sweden2006,,"420,032,121,656",48977,Millenials
+Sweden,2007,male,05-14 years,5,526368,0.95,Sweden2007,,"487,816,328,342",56531,Generation Z
+Sweden,2007,female,05-14 years,2,500349,0.4,Sweden2007,,"487,816,328,342",56531,Generation Z
+Sweden,2008,female,05-14 years,4,492594,0.81,Sweden2008,,"513,965,650,650",59155,Generation Z
+Sweden,2008,male,05-14 years,0,518331,0,Sweden2008,,"513,965,650,650",59155,Generation Z
+Sweden,2009,female,05-14 years,3,488574,0.61,Sweden2009,,"429,657,033,108",49070,Generation Z
+Sweden,2009,male,05-14 years,3,514747,0.58,Sweden2009,,"429,657,033,108",49070,Generation Z
+Sweden,2010,female,05-14 years,2,487899,0.41,Sweden2010,0.901,"488,377,689,565",55352,Generation Z
+Sweden,2010,male,05-14 years,1,514297,0,Sweden2010,0.901,"488,377,689,565",55352,Generation Z
+Sweden,2011,male,05-14 years,3,518467,0.58,Sweden2011,0.903,"563,109,663,291",63380,Generation Z
+Sweden,2011,female,05-14 years,2,491569,0.41,Sweden2011,0.903,"563,109,663,291",63380,Generation Z
+Sweden,2012,female,05-14 years,4,499876,0.8,Sweden2012,0.904,"543,880,647,757",60776,Generation Z
+Sweden,2012,male,05-14 years,1,527714,0,Sweden2012,0.904,"543,880,647,757",60776,Generation Z
+Sweden,2013,male,05-14 years,3,540668,0.55,Sweden2013,0.905,"578,742,001,488",64133,Generation Z
+Sweden,2013,female,05-14 years,1,512011,0.2,Sweden2013,0.905,"578,742,001,488",64133,Generation Z
+Sweden,2014,female,05-14 years,4,526361,0.76,Sweden2014,0.907,"5,738,177",62956,Generation Z
+Sweden,2014,male,05-14 years,2,556118,0.36,Sweden2014,0.907,"5,738,177",62956,Generation Z
+Sweden,2015,female,05-14 years,5,526361,0.95,Sweden2015,,"497,918,109,302",54629,Generation Z
+Sweden,2015,male,05-14 years,3,556118,0.54,Sweden2015,,"497,918,109,302",54629,Generation Z
+Switzerland,2000,male,05-14 years,4,436831,0.92,Switzerland2000,0.888,"272,055,499,941",39952,Millenials
+Switzerland,2000,female,05-14 years,1,412273,0.24,Switzerland2000,0.888,"272,055,499,941",39952,Millenials
+Switzerland,2001,female,05-14 years,3,413077,0.73,Switzerland2001,,"278,631,271,391",40582,Millenials
+Switzerland,2001,male,05-14 years,1,438255,0.23,Switzerland2001,,"278,631,271,391",40582,Millenials
+Switzerland,2002,female,05-14 years,1,413946,0.24,Switzerland2002,,"301,416,810,214",434,Millenials
+Switzerland,2002,male,05-14 years,0,436026,0,Switzerland2002,,"301,416,810,214",434,Millenials
+Switzerland,2003,female,05-14 years,4,412868,0.97,Switzerland2003,,"352,914,820,747",50639,Millenials
+Switzerland,2003,male,05-14 years,2,435072,0.46,Switzerland2003,,"352,914,820,747",50639,Millenials
+Switzerland,2004,male,05-14 years,1,432800,0.23,Switzerland2004,,"394,163,688,621",56123,Millenials
+Switzerland,2004,female,05-14 years,0,410122,0,Switzerland2004,,"394,163,688,621",56123,Millenials
+Switzerland,2005,male,05-14 years,2,428639,0.47,Switzerland2005,0.904,"408,689,353,999",57790,Millenials
+Switzerland,2005,female,05-14 years,0,405599,0,Switzerland2005,0.904,"408,689,353,999",57790,Millenials
+Switzerland,2006,female,05-14 years,3,399721,0.75,Switzerland2006,,"430,921",60536,Millenials
+Switzerland,2006,male,05-14 years,2,422780,0.47,Switzerland2006,,"430,921",60536,Millenials
+Switzerland,2007,male,05-14 years,3,417683,0.72,Switzerland2007,,"479,913,034,322",66807,Generation Z
+Switzerland,2007,female,05-14 years,1,3943,0.25,Switzerland2007,,"479,913,034,322",66807,Generation Z
+Switzerland,2008,male,05-14 years,1,414488,0.24,Switzerland2008,,"554,363,487,120",76202,Generation Z
+Switzerland,2008,female,05-14 years,0,390773,0,Switzerland2008,,"554,363,487,120",76202,Generation Z
+Switzerland,2009,male,05-14 years,3,412300,0.73,Switzerland2009,,"541,506,500,414",73529,Generation Z
+Switzerland,2009,female,05-14 years,1,388714,0.26,Switzerland2009,,"541,506,500,414",73529,Generation Z
+Switzerland,2010,male,05-14 years,2,410594,0.49,Switzerland2010,0.924,"583,782,977,866",78474,Generation Z
+Switzerland,2010,female,05-14 years,0,386816,0,Switzerland2010,0.924,"583,782,977,866",78474,Generation Z
+Switzerland,2011,male,05-14 years,2,409701,0.49,Switzerland2011,0.925,"699,579,638,638",93053,Generation Z
+Switzerland,2011,female,05-14 years,1,388670,0.26,Switzerland2011,0.925,"699,579,638,638",93053,Generation Z
+Switzerland,2012,male,05-14 years,3,408718,0.73,Switzerland2012,0.927,"668,043,614,123",87951,Generation Z
+Switzerland,2012,female,05-14 years,0,387636,0,Switzerland2012,0.927,"668,043,614,123",87951,Generation Z
+Switzerland,2013,male,05-14 years,2,409829,0.49,Switzerland2013,0.928,"688,504,173,431",89634,Generation Z
+Switzerland,2013,female,05-14 years,1,388582,0.26,Switzerland2013,0.928,"688,504,173,431",89634,Generation Z
+Switzerland,2014,female,05-14 years,2,387232,0.52,Switzerland2014,0.93,"709,182,559,935",90809,Generation Z
+Switzerland,2014,male,05-14 years,2,408680,0.49,Switzerland2014,0.93,"709,182,559,935",90809,Generation Z
+Switzerland,2015,female,05-14 years,2,390910,0.51,Switzerland2015,,"679,289,166,858",86068,Generation Z
+Switzerland,2015,male,05-14 years,2,411880,0.49,Switzerland2015,,"679,289,166,858",86068,Generation Z
+Australia,2000,male,55-74 years,281,1522620,18.46,Australia2000,0.898,"415,034,227,218",232,Silent
+Australia,2000,female,55-74 years,87,1549060,5.62,Australia2000,0.898,"415,034,227,218",232,Silent
+Australia,2001,male,55-74 years,296,1566014,18.9,Australia2001,,"378,215,090,694",20860,Silent
+Australia,2001,female,55-74 years,81,1585702,5.11,Australia2001,,"378,215,090,694",20860,Silent
+Australia,2002,male,55-74 years,266,1626692,16.35,Australia2002,,"394,486,709,920",21474,Silent
+Australia,2002,female,55-74 years,92,1643643,5.6,Australia2002,,"394,486,709,920",21474,Silent
+Australia,2003,male,55-74 years,284,168,16.89,Australia2003,,"466,294,700,058",25059,Silent
+Australia,2003,female,55-74 years,91,1697104,5.36,Australia2003,,"466,294,700,058",25059,Silent
+Australia,2004,male,55-74 years,293,1721736,17.02,Australia2004,,61,32454,Silent
+Australia,2004,female,55-74 years,69,1741477,3.96,Australia2004,,61,32454,Silent
+Australia,2006,male,55-74 years,309,1772439,17.43,Australia2006,,"745,521,862,833",39014,Silent
+Australia,2006,female,55-74 years,115,1798232,6.4,Australia2006,,"745,521,862,833",39014,Silent
+Australia,2007,male,55-74 years,305,1877160,16.25,Australia2007,,85,43171,Silent
+Australia,2007,female,55-74 years,118,,6.17,Australia2007,,85,43171,Silent
+Australia,2008,male,55-74 years,357,,18.45,Australia2008,,"1,052,584,601,611",52315,Silent
+Australia,2008,female,55-74 years,97,,4.91,Australia2008,,"1,052,584,601,611",52315,Silent
+Australia,2009,male,55-74 years,349,,17.52,Australia2009,,"926,448,240,318",45128,Silent
+Australia,2009,female,55-74 years,116,2037989,5.69,Australia2009,,"926,448,240,318",45128,Silent
+Australia,2010,male,55-74 years,360,2051,17.55,Australia2010,0.927,"1,144,260,547,873",54887,Silent
+Australia,2010,female,55-74 years,104,2103428,4.94,Australia2010,0.927,"1,144,260,547,873",54887,Silent
+Australia,2011,male,55-74 years,366,2104816,17.39,Australia2011,0.93,"1,394,280,784,778",66770,Boomers
+Australia,2011,female,55-74 years,118,2139108,5.52,Australia2011,0.93,"1,394,280,784,778",66770,Boomers
+Australia,2012,male,55-74 years,396,2162980,18.31,Australia2012,0.932,"1,543,411,012,580",72669,Boomers
+Australia,2012,female,55-74 years,123,2206179,5.58,Australia2012,0.932,"1,543,411,012,580",72669,Boomers
+Australia,2013,male,55-74 years,418,2221866,18.81,Australia2013,0.933,"1,573,696,522,007",72856,Boomers
+Australia,2013,female,55-74 years,145,2276104,6.37,Australia2013,0.933,"1,573,696,522,007",72856,Boomers
+Australia,2014,male,55-74 years,471,2279114,20.67,Australia2014,0.935,"1,464,955,475,994",66809,Boomers
+Australia,2014,female,55-74 years,157,2344644,6.7,Australia2014,0.935,"1,464,955,475,994",66809,Boomers
+Australia,2015,male,55-74 years,457,2337430,,Australia2015,,"1,349,034,029,453",60656,Boomers
+Australia,2015,female,55-74 years,152,2411343,6.3,Australia2015,,"1,349,034,029,453",60656,Boomers
+Canada,2000,male,55-74 years,455,2390741,,Canada2000,0.867,"742,293,448,253",25589,Silent
+Canada,2000,female,55-74 years,137,2567097,5.34,Canada2000,0.867,"742,293,448,253",25589,Silent
+Canada,2001,male,55-74 years,481,2458947,,Canada2001,,"736,379,777,893",25165,Silent
+Canada,2001,female,55-74 years,161,2618587,6.15,Canada2001,,"736,379,777,893",25165,Silent
+Canada,2002,male,55-74 years,527,2550479,20.66,Canada2002,,"757,950,678,647",25570,Silent
+Canada,2002,female,55-74 years,150,2707035,5.54,Canada2002,,"757,950,678,647",25570,Silent
+Canada,2003,male,55-74 years,581,2636917,22.03,Canada2003,,"892,380,986,368",29787,Silent
+Canada,2003,female,55-74 years,145,2792599,5,Canada2003,,"892,380,986,368",29787,Silent
+Canada,2004,male,55-74 years,497,2721795,18.26,Canada2004,,"1,023",33787,Silent
+Canada,2004,female,55-74 years,181,2879432,6.29,Canada2004,,"1,023",33787,Silent
+Canada,2005,male,55-74 years,539,2802901,,Canada2005,0.892,"1,169,357,979,865",38218,Silent
+Canada,2005,female,55-74 years,158,296,5.33,Canada2005,0.892,"1,169,357,979,865",38218,Silent
+Canada,2006,male,55-74 years,599,2910932,20.58,Canada2006,,"1,315,415",42566,Silent
+Canada,2006,female,55-74 years,187,3071300,6.09,Canada2006,,"1,315,415",42566,Silent
+Canada,2007,male,55-74 years,539,3006062,17.93,Canada2007,,"1,464,977",46890,Silent
+Canada,2007,female,55-74 years,188,3170541,5.93,Canada2007,,"1,464,977",46890,Silent
+Canada,2008,male,55-74 years,589,3107189,18.96,Canada2008,,"1,549,131,208,997",49041,Silent
+Canada,2008,female,55-74 years,231,3276332,7.05,Canada2008,,"1,549,131,208,997",49041,Silent
+Canada,2009,male,55-74 years,680,3216246,21.14,Canada2009,,"1,371,153,004,986",42933,Silent
+Canada,2009,female,55-74 years,,3389717,5.66,Canada2009,,"1,371,153,004,986",42933,Silent
+Canada,2010,male,55-74 years,690,3333897,20.7,Canada2010,0.903,"1,613,464,422,811",49974,Silent
+Canada,2010,female,55-74 years,237,3510692,6.75,Canada2010,0.903,"1,613,464,422,811",49974,Silent
+Canada,2011,male,55-74 years,683,3455517,,Canada2011,0.909,"1,788,647,906,048",54841,Boomers
+Canada,2011,female,55-74 years,215,3629587,5.92,Canada2011,0.909,"1,788,647,906,048",54841,Boomers
+Canada,2012,male,55-74 years,770,3586361,21.47,Canada2012,0.91,"1,824,288,757,448",55347,Boomers
+Canada,2012,female,55-74 years,241,3756013,6.42,Canada2012,0.91,"1,824,288,757,448",55347,Boomers
+Canada,2013,male,55-74 years,812,3724622,21.8,Canada2013,0.912,"1,842,628,005,830",55310,Boomers
+Canada,2013,female,55-74 years,255,3887315,6.56,Canada2013,0.912,"1,842,628,005,830",55310,Boomers
+Denmark,2000,male,55-74 years,142,495321,28.67,Denmark2000,0.862,"164,158,800,460",32841,Silent
+Denmark,2000,female,55-74 years,54,528095,10.23,Denmark2000,0.862,"164,158,800,460",32841,Silent
+Denmark,2001,male,55-74 years,123,512361,24.01,Denmark2001,,"164,791,416,350",32837,Silent
+Denmark,2001,female,55-74 years,83,54,15.31,Denmark2001,,"164,791,416,350",32837,Silent
+Denmark,2002,male,55-74 years,140,528640,26.48,Denmark2002,,"178,635,160,297",35435,Silent
+Denmark,2002,female,55-74 years,63,556057,11.33,Denmark2002,,"178,635,160,297",35435,Silent
+Denmark,2003,male,55-74 years,129,542296,23.79,Denmark2003,,"218,095,997,085",43129,Silent
+Denmark,2003,female,55-74 years,59,567852,10.39,Denmark2003,,"218,095,997,085",43129,Silent
+Denmark,2004,male,55-74 years,125,553556,22.58,Denmark2004,,"251,373,036,671",49552,Silent
+Denmark,2004,female,55-74 years,66,578536,11.41,Denmark2004,,"251,373,036,671",49552,Silent
+Denmark,2005,male,55-74 years,139,564794,24.61,Denmark2005,0.902,"264,467,308,109",5,Silent
+Denmark,2005,female,55-74 years,61,588430,10.37,Denmark2005,0.902,"264,467,308,109",5,Silent
+Denmark,2006,male,55-74 years,155,575056,26.95,Denmark2006,,"282,884,912,894",55354,Silent
+Denmark,2006,female,55-74 years,71,597984,11.87,Denmark2006,,"282,884,912,894",55354,Silent
+Denmark,2007,male,55-74 years,124,584457,21.22,Denmark2007,,3,62229,Silent
+Denmark,2007,female,55-74 years,55,606387,9.07,Denmark2007,,3,62229,Silent
+Denmark,2008,male,55-74 years,127,595286,21.33,Denmark2008,,"353,361,056,080",68447,Silent
+Denmark,2008,female,55-74 years,63,616691,10.22,Denmark2008,,"353,361,056,080",68447,Silent
+Denmark,2009,male,55-74 years,165,604423,27.3,Denmark2009,,"321,241,396,034",61863,Silent
+Denmark,2009,female,55-74 years,52,625986,8.31,Denmark2009,,"321,241,396,034",61863,Silent
+Denmark,2010,male,55-74 years,142,613233,23.16,Denmark2010,0.908,32,61711,Silent
+Denmark,2010,female,55-74 years,56,634607,8.82,Denmark2010,0.908,32,61711,Silent
+Denmark,2011,male,55-74 years,139,621859,22.35,Denmark2011,0.92,"344,003,209,696",65598,Boomers
+Denmark,2011,female,55-74 years,57,643276,8.86,Denmark2011,0.92,"344,003,209,696",65598,Boomers
+Denmark,2012,male,55-74 years,153,630159,24.28,Denmark2012,0.921,"327,148,899,962",62071,Boomers
+Denmark,2012,female,55-74 years,71,651381,10.9,Denmark2012,0.921,"327,148,899,962",62071,Boomers
+Denmark,2013,male,55-74 years,157,637775,24.62,Denmark2013,0.923,"343,584,385,594",64831,Boomers
+Denmark,2013,female,55-74 years,52,658936,7.89,Denmark2013,0.923,"343,584,385,594",64831,Boomers
+Denmark,2014,male,55-74 years,155,645001,24.03,Denmark2014,0.923,"352,993,633,221",66114,Boomers
+Denmark,2014,female,55-74 years,50,666386,7.5,Denmark2014,0.923,"352,993,633,221",66114,Boomers
+Denmark,2015,male,55-74 years,126,651856,,Denmark2015,,"301,298,464,861",55972,Boomers
+Denmark,2015,female,55-74 years,67,673655,9.95,Denmark2015,,"301,298,464,861",55972,Boomers
+Finland,2000,male,55-74 years,166,462422,35.9,Finland2000,0.857,"125,539,893,127",25716,Silent
+Finland,2000,female,55-74 years,84,529071,15.88,Finland2000,0.857,"125,539,893,127",25716,Silent
+Finland,2001,male,55-74 years,207,479037,43.21,Finland2001,,"129,250,111,857",26383,Silent
+Finland,2001,female,55-74 years,72,541576,13.29,Finland2001,,"129,250,111,857",26383,Silent
+Finland,2002,male,55-74 years,204,497865,40.97,Finland2002,,"139,552,983,249",28390,Silent
+Finland,2002,female,55-74 years,75,557098,13.46,Finland2002,,"139,552,983,249",28390,Silent
+Finland,2003,male,55-74 years,176,516435,34.08,Finland2003,,"171,071,106,095",34701,Silent
+Finland,2003,female,55-74 years,72,572548,12.58,Finland2003,,"171,071,106,095",34701,Silent
+Finland,2004,male,55-74 years,220,533983,41.2,Finland2004,,,39793,Silent
+Finland,2004,female,55-74 years,54,586736,9.2,Finland2004,,,39793,Silent
+Finland,2005,male,55-74 years,,550032,35.27,Finland2005,0.869,"204,436,015,421",41202,Silent
+Finland,2005,female,55-74 years,74,599482,12.34,Finland2005,0.869,"204,436,015,421",41202,Silent
+Finland,2006,male,55-74 years,225,564074,39.89,Finland2006,,"216,552,502,823",43487,Silent
+Finland,2006,female,55-74 years,78,611527,12.75,Finland2006,,"216,552,502,823",43487,Silent
+Finland,2007,male,55-74 years,203,577963,35.12,Finland2007,,"255,384,615,385",51089,Silent
+Finland,2007,female,55-74 years,83,624243,13.3,Finland2007,,"255,384,615,385",51089,Silent
+Finland,2008,male,55-74 years,225,592016,38.01,Finland2008,,"283,742,493,042",56521,Silent
+Finland,2008,female,55-74 years,68,637681,10.66,Finland2008,,"283,742,493,042",56521,Silent
+Finland,2009,male,55-74 years,201,604904,33.23,Finland2009,,"251,499,027,508",49878,Silent
+Finland,2009,female,55-74 years,84,650862,12.91,Finland2009,,"251,499,027,508",49878,Silent
+Finland,2010,male,55-74 years,200,616801,32.43,Finland2010,0.878,"247,799,815,768",48939,Silent
+Finland,2010,female,55-74 years,69,663064,10.41,Finland2010,0.878,"247,799,815,768",48939,Silent
+Finland,2011,male,55-74 years,,628483,30.39,Finland2011,0.881,"273,674,236,773",53809,Boomers
+Finland,2011,female,55-74 years,73,674645,10.82,Finland2011,0.881,"273,674,236,773",53809,Boomers
+Finland,2012,male,55-74 years,,639345,30.5,Finland2012,0.882,"256,706,466,091",50232,Boomers
+Finland,2012,female,55-74 years,87,685183,12.7,Finland2012,0.882,"256,706,466,091",50232,Boomers
+Finland,2013,male,55-74 years,216,647538,33.36,Finland2013,0.882,"269,980,111,643",52572,Boomers
+Finland,2013,female,55-74 years,69,693297,9.95,Finland2013,0.882,"269,980,111,643",52572,Boomers
+Finland,2014,male,55-74 years,157,654576,23.98,Finland2014,0.883,"272,609,288,690",52832,Boomers
+Finland,2014,female,55-74 years,59,700011,8.43,Finland2014,0.883,"272,609,288,690",52832,Boomers
+Finland,2015,male,55-74 years,159,665885,23.88,Finland2015,,"232,464,833,066",44862,Boomers
+Finland,2015,female,55-74 years,55,711135,7.73,Finland2015,,"232,464,833,066",44862,Boomers
+Iceland,2000,male,55-74 years,6,,30.35,Iceland2000,0.859,"8,927,140,438",34372,Silent
+Iceland,2000,female,55-74 years,3,20653,14.53,Iceland2000,0.859,"8,927,140,438",34372,Silent
+Iceland,2001,male,55-74 years,4,20268,,Iceland2001,,"8,136,345,144",30850,Silent
+Iceland,2001,female,55-74 years,1,21059,4.75,Iceland2001,,"8,136,345,144",30850,Silent
+Iceland,2002,male,55-74 years,6,20853,28.77,Iceland2002,,"9,207,689,916",34556,Silent
+Iceland,2002,female,55-74 years,2,21481,9.31,Iceland2002,,"9,207,689,916",34556,Silent
+Iceland,2003,male,55-74 years,6,21464,27.95,Iceland2003,,"11,316,441,660",42174,Silent
+Iceland,2003,female,55-74 years,4,22054,18.14,Iceland2003,,"11,316,441,660",42174,Silent
+Iceland,2004,male,55-74 years,4,22162,18.05,Iceland2004,,"13,722,824,251",50528,Silent
+Iceland,2004,female,55-74 years,2,22573,8.86,Iceland2004,,"13,722,824,251",50528,Silent
+Iceland,2005,male,55-74 years,5,22932,21.8,Iceland2005,0.889,"16,691,490,114",60712,Silent
+Iceland,2005,female,55-74 years,3,23186,12.94,Iceland2005,0.889,"16,691,490,114",60712,Silent
+Iceland,2006,male,55-74 years,4,23812,16.8,Iceland2006,,"17,048,647,568",60243,Silent
+Iceland,2006,female,55-74 years,3,23797,12.61,Iceland2006,,"17,048,647,568",60243,Silent
+Iceland,2007,female,55-74 years,2,24464,8.18,Iceland2007,,213,73590,Silent
+Iceland,2007,male,55-74 years,2,24652,8.11,Iceland2007,,213,73590,Silent
+Iceland,2008,male,55-74 years,7,25539,27.41,Iceland2008,,"17,658,408,759",59489,Silent
+Iceland,2008,female,55-74 years,5,25254,,Iceland2008,,"17,658,408,759",59489,Silent
+Iceland,2009,male,55-74 years,10,26267,38.07,Iceland2009,,"12,944,114,736",43700,Silent
+Iceland,2009,female,55-74 years,1,26010,3.84,Iceland2009,,"12,944,114,736",43700,Silent
+Iceland,2010,male,55-74 years,7,26976,25.95,Iceland2010,0.892,"13,310,567,803",45179,Silent
+Iceland,2010,female,55-74 years,3,26898,11.15,Iceland2010,0.892,"13,310,567,803",45179,Silent
+Iceland,2011,male,55-74 years,6,27936,21.48,Iceland2011,0.896,"14,732,689,535",49861,Boomers
+Iceland,2011,female,55-74 years,2,27822,7,Iceland2011,0.896,"14,732,689,535",49861,Boomers
+Iceland,2012,male,55-74 years,6,28966,20.71,Iceland2012,0.897,"14,292,008,745",48083,Boomers
+Iceland,2012,female,55-74 years,4,28784,13.9,Iceland2012,0.897,"14,292,008,745",48083,Boomers
+Iceland,2013,male,55-74 years,6,29974,20.02,Iceland2013,0.899,"15,548,321,544",51749,Boomers
+Iceland,2013,female,55-74 years,3,29831,10.06,Iceland2013,0.899,"15,548,321,544",51749,Boomers
+Iceland,2014,male,55-74 years,8,31027,25.78,Iceland2014,0.899,"17,304,033,021",56833,Boomers
+Iceland,2014,female,55-74 years,2,30942,6.46,Iceland2014,0.899,"17,304,033,021",56833,Boomers
+Iceland,2015,female,55-74 years,6,32013,18.74,Iceland2015,,"16,942,247,374",54909,Boomers
+Iceland,2015,male,55-74 years,5,32159,15.55,Iceland2015,,"16,942,247,374",54909,Boomers
+Iceland,2016,male,55-74 years,10,33247,30.08,Iceland2016,,"20,304,098,101",64708,Boomers
+Iceland,2016,female,55-74 years,2,32963,6.07,Iceland2016,,"20,304,098,101",64708,Boomers
+Netherlands,2000,male,55-74 years,208,1354147,15.36,Netherlands2000,0.877,"412,807,259,996",27644,Silent
+Netherlands,2000,female,55-74 years,146,1444755,10.11,Netherlands2000,0.877,"412,807,259,996",27644,Silent
+Netherlands,2001,male,55-74 years,208,1397177,14.89,Netherlands2001,,"426,573,601,790",28366,Silent
+Netherlands,2001,female,55-74 years,106,1478539,7.17,Netherlands2001,,"426,573,601,790",28366,Silent
+Netherlands,2002,male,55-74 years,227,1454558,15.61,Netherlands2002,,"465,368,906,456",30757,Silent
+Netherlands,2002,female,55-74 years,148,1527586,9.69,Netherlands2002,,"465,368,906,456",30757,Silent
+Netherlands,2003,male,55-74 years,246,1504780,16.35,Netherlands2003,,"571,863,431,151",37614,Silent
+Netherlands,2003,female,55-74 years,142,1570271,9.04,Netherlands2003,,"571,863,431,151",37614,Silent
+Netherlands,2004,male,55-74 years,230,1548535,14.85,Netherlands2004,,"650,532,654,582",42614,Silent
+Netherlands,2004,female,55-74 years,132,1606894,8.21,Netherlands2004,,"650,532,654,582",42614,Silent
+Netherlands,2005,male,55-74 years,258,1587471,16.25,Netherlands2005,0.891,"678,533,764,457",44289,Silent
+Netherlands,2005,female,55-74 years,134,1639946,8.17,Netherlands2005,0.891,"678,533,764,457",44289,Silent
+Netherlands,2006,male,55-74 years,248,1623656,15.27,Netherlands2006,,"726,649,102,998",47281,Silent
+Netherlands,2006,female,55-74 years,141,1670944,8.44,Netherlands2006,,"726,649,102,998",47281,Silent
+Netherlands,2007,male,55-74 years,250,1660580,15.05,Netherlands2007,,"8,394",54418,Silent
+Netherlands,2007,female,55-74 years,124,1703333,7.28,Netherlands2007,,"8,394",54418,Silent
+Netherlands,2008,male,55-74 years,252,1698728,14.83,Netherlands2008,,"936,228,211,513",60375,Silent
+Netherlands,2008,female,55-74 years,153,1737666,8.8,Netherlands2008,,"936,228,211,513",60375,Silent
+Netherlands,2009,male,55-74 years,290,1737021,16.7,Netherlands2009,,"857,932,759,100",54988,Silent
+Netherlands,2009,female,55-74 years,131,1773158,7.39,Netherlands2009,,"857,932,759,100",54988,Silent
+Netherlands,2010,male,55-74 years,332,1774913,18.71,Netherlands2010,0.909,"836,389,937,229",53302,Silent
+Netherlands,2010,female,55-74 years,143,1809756,7.9,Netherlands2010,0.909,"836,389,937,229",53302,Silent
+Netherlands,2011,male,55-74 years,316,1813398,17.43,Netherlands2011,0.9,"893,757,287,202",56667,Boomers
+Netherlands,2011,female,55-74 years,161,1847013,8.72,Netherlands2011,0.9,"893,757,287,202",56667,Boomers
+Netherlands,2012,male,55-74 years,3,1852538,17.22,Netherlands2012,0.92,"828,946,812,397",52334,Boomers
+Netherlands,2012,female,55-74 years,182,1885068,9.65,Netherlands2012,0.92,"828,946,812,397",52334,Boomers
+Netherlands,2013,male,55-74 years,409,1890352,21.64,Netherlands2013,0.92,"866,680,000,367",54510,Boomers
+Netherlands,2013,female,55-74 years,186,,9.67,Netherlands2013,0.92,"866,680,000,367",54510,Boomers
+Netherlands,2014,male,55-74 years,391,1890352,20.68,Netherlands2014,0.922,"879,635,084,125",55325,Boomers
+Netherlands,2014,female,55-74 years,,,10.24,Netherlands2014,0.922,"879,635,084,125",55325,Boomers
+Netherlands,2015,male,55-74 years,418,,21.26,Netherlands2015,,"757,999,453,314",47206,Boomers
+Netherlands,2015,female,55-74 years,220,,11.01,Netherlands2015,,"757,999,453,314",47206,Boomers
+Netherlands,2016,male,55-74 years,436,2004642,21.75,Netherlands2016,,"777,227,541,581",48108,Boomers
+Netherlands,2016,female,55-74 years,209,2037375,10.26,Netherlands2016,,"777,227,541,581",48108,Boomers
+New Zealand,2000,male,55-74 years,57,287820,,New Zealand2000,0.874,"52,622,842,840",14725,Silent
+New Zealand,2000,female,55-74 years,12,300560,3.99,New Zealand2000,0.874,"52,622,842,840",14725,Silent
+New Zealand,2001,male,55-74 years,54,294430,18.34,New Zealand2001,,"53,872,425,917",14968,Silent
+New Zealand,2001,female,55-74 years,17,307490,5.53,New Zealand2001,,"53,872,425,917",14968,Silent
+New Zealand,2002,male,55-74 years,59,304480,,New Zealand2002,,"66,627,729,311",18208,Silent
+New Zealand,2002,female,55-74 years,13,317610,4.09,New Zealand2002,,"66,627,729,311",18208,Silent
+New Zealand,2003,male,55-74 years,58,314200,18.46,New Zealand2003,,"88,250,885,550",23663,Silent
+New Zealand,2003,female,55-74 years,20,327420,6.11,New Zealand2003,,"88,250,885,550",23663,Silent
+New Zealand,2004,male,55-74 years,58,325010,17.85,New Zealand2004,,"103,904,537,815",27325,Silent
+New Zealand,2004,female,55-74 years,20,338890,5.9,New Zealand2004,,"103,904,537,815",27325,Silent
+New Zealand,2005,male,55-74 years,58,335140,17.31,New Zealand2005,0.895,"114,718,721,397",29803,Silent
+New Zealand,2005,female,55-74 years,22,349600,6.29,New Zealand2005,0.895,"114,718,721,397",29803,Silent
+New Zealand,2006,male,55-74 years,69,344980,20,New Zealand2006,,"111,608,845,081",28628,Silent
+New Zealand,2006,female,55-74 years,23,360390,6.38,New Zealand2006,,"111,608,845,081",28628,Silent
+New Zealand,2007,male,55-74 years,52,354950,14.65,New Zealand2007,,"137,316,087,308",34892,Silent
+New Zealand,2007,female,55-74 years,18,371080,4.85,New Zealand2007,,"137,316,087,308",34892,Silent
+New Zealand,2008,male,55-74 years,69,365500,18.88,New Zealand2008,,"133,279,679,483",33585,Silent
+New Zealand,2008,female,55-74 years,22,38,5.76,New Zealand2008,,"133,279,679,483",33585,Silent
+New Zealand,2009,male,55-74 years,61,376390,16.21,New Zealand2009,,"121,338,622,025",30259,Silent
+New Zealand,2009,female,55-74 years,23,393990,5.84,New Zealand2009,,"121,338,622,025",30259,Silent
+New Zealand,2010,male,55-74 years,67,387900,17.27,New Zealand2010,0.905,"146,583,831,538",36145,Silent
+New Zealand,2010,female,55-74 years,21,406770,5.16,New Zealand2010,0.905,"146,583,831,538",36145,Silent
+New Zealand,2011,male,55-74 years,60,399890,15,New Zealand2011,0.907,"16,846",41184,Boomers
+New Zealand,2011,female,55-74 years,,4,4.53,New Zealand2011,0.907,"16,846",41184,Boomers
+New Zealand,2012,male,55-74 years,55,411660,13.36,New Zealand2012,0.909,176,42756,Boomers
+New Zealand,2012,female,55-74 years,17,432800,3.93,New Zealand2012,0.909,176,42756,Boomers
+New Zealand,2013,male,55-74 years,74,424590,17.43,New Zealand2013,0.911,,46,Boomers
+New Zealand,2013,female,55-74 years,,447810,4.24,New Zealand2013,0.911,,46,Boomers
+Norway,2000,male,55-74 years,77,365883,21.04,Norway2000,0.917,"171,315,639,983",41099,Silent
+Norway,2000,female,55-74 years,29,390859,7.42,Norway2000,0.917,"171,315,639,983",41099,Silent
+Norway,2001,male,55-74 years,90,376658,23.89,Norway2001,,"174,003,247,439",41281,Silent
+Norway,2001,female,55-74 years,29,399140,7.27,Norway2001,,"174,003,247,439",41281,Silent
+Norway,2002,male,55-74 years,85,388778,21.86,Norway2002,,,46049,Silent
+Norway,2002,female,55-74 years,40,408933,9.78,Norway2002,,,46049,Silent
+Norway,2003,male,55-74 years,79,400293,,Norway2003,,"228,752,436,372",53533,Silent
+Norway,2003,female,55-74 years,30,418033,7.18,Norway2003,,"228,752,436,372",53533,Silent
+Norway,2004,male,55-74 years,75,411352,18.23,Norway2004,,"264,357,494,659",61450,Silent
+Norway,2004,female,55-74 years,41,426811,9.61,Norway2004,,"264,357,494,659",61450,Silent
+Norway,2005,male,55-74 years,73,422027,17.3,Norway2005,0.931,"308,722,079,938",71215,Silent
+Norway,2005,female,55-74 years,42,435604,9.64,Norway2005,0.931,"308,722,079,938",71215,Silent
+Norway,2006,male,55-74 years,90,432581,20.81,Norway2006,,"345,424,664,369",79007,Silent
+Norway,2006,female,55-74 years,35,443984,7.88,Norway2006,,"345,424,664,369",79007,Silent
+Norway,2007,male,55-74 years,71,443643,16,Norway2007,,"401,082,621,083",90797,Silent
+Norway,2007,female,55-74 years,39,452989,8.61,Norway2007,,"401,082,621,083",90797,Silent
+Norway,2008,male,55-74 years,83,455657,18.22,Norway2008,,"462,554,432,624",103431,Silent
+Norway,2008,female,55-74 years,35,463679,7.55,Norway2008,,"462,554,432,624",103431,Silent
+Norway,2009,male,55-74 years,111,468346,23.7,Norway2009,,"386,622,457,580",85394,Silent
+Norway,2009,female,55-74 years,39,475431,8.2,Norway2009,,"386,622,457,580",85394,Silent
+Norway,2010,male,55-74 years,99,481582,20.56,Norway2010,0.94,"429,130,952,709",93638,Silent
+Norway,2010,female,55-74 years,49,487412,10.05,Norway2010,0.94,"429,130,952,709",93638,Silent
+Norway,2011,male,55-74 years,103,495066,20.81,Norway2011,0.941,"498,831,558,926",107430,Boomers
+Norway,2011,female,55-74 years,39,499653,7.81,Norway2011,0.941,"498,831,558,926",107430,Boomers
+Norway,2012,male,55-74 years,81,508097,15.94,Norway2012,0.942,"510,229,136,227",108408,Boomers
+Norway,2012,female,55-74 years,33,511533,6.45,Norway2012,0.942,"510,229,136,227",108408,Boomers
+Norway,2013,male,55-74 years,92,520439,17.68,Norway2013,0.942,"523,502,127,660",109804,Boomers
+Norway,2013,female,55-74 years,52,522697,9.95,Norway2013,0.942,"523,502,127,660",109804,Boomers
+Norway,2014,male,55-74 years,110,532578,20.65,Norway2014,0.944,"499,338,534,779",103443,Boomers
+Norway,2014,female,55-74 years,51,533630,9.56,Norway2014,0.944,"499,338,534,779",103443,Boomers
+Norway,2015,male,55-74 years,1,544268,21.86,Norway2015,,"386,663,139,403",79187,Boomers
+Norway,2015,female,55-74 years,62,544131,11.39,Norway2015,,"386,663,139,403",79187,Boomers
+Sweden,2000,male,55-74 years,221,852707,25.92,Sweden2000,0.897,"259,802,012,617",30896,Silent
+Sweden,2000,female,55-74 years,100,901293,11.1,Sweden2000,0.897,"259,802,012,617",30896,Silent
+Sweden,2001,male,55-74 years,228,876012,26.03,Sweden2001,,"239,917,320,967",28429,Silent
+Sweden,2001,female,55-74 years,116,9,12.61,Sweden2001,,"239,917,320,967",28429,Silent
+Sweden,2002,male,55-74 years,252,899721,28.01,Sweden2002,,"263,926,220,333",31175,Silent
+Sweden,2002,female,55-74 years,102,939023,10.86,Sweden2002,,"263,926,220,333",31175,Silent
+Sweden,2003,male,55-74 years,225,922446,24.39,Sweden2003,,"331,108,912,605",38997,Silent
+Sweden,2003,female,55-74 years,92,957995,9.6,Sweden2003,,"331,108,912,605",38997,Silent
+Sweden,2004,male,55-74 years,248,943682,26.28,Sweden2004,,"381,705,425,302",44831,Silent
+Sweden,2004,female,55-74 years,107,975912,10.96,Sweden2004,,"381,705,425,302",44831,Silent
+Sweden,2005,male,55-74 years,253,962782,26.28,Sweden2005,0.892,"389,042,298,377",45563,Silent
+Sweden,2005,female,55-74 years,121,991544,12.2,Sweden2005,0.892,"389,042,298,377",45563,Silent
+Sweden,2006,male,55-74 years,265,979423,27.06,Sweden2006,,"420,032,121,656",48977,Silent
+Sweden,2006,female,55-74 years,94,1005125,9.35,Sweden2006,,"420,032,121,656",48977,Silent
+Sweden,2007,male,55-74 years,224,995361,22.5,Sweden2007,,"487,816,328,342",56531,Silent
+Sweden,2007,female,55-74 years,97,1018811,9.52,Sweden2007,,"487,816,328,342",56531,Silent
+Sweden,2008,male,55-74 years,263,1012224,25.98,Sweden2008,,"513,965,650,650",59155,Silent
+Sweden,2008,female,55-74 years,88,1033770,8.51,Sweden2008,,"513,965,650,650",59155,Silent
+Sweden,2009,male,55-74 years,261,1029075,25.36,Sweden2009,,"429,657,033,108",49070,Silent
+Sweden,2009,female,55-74 years,106,1048846,10.11,Sweden2009,,"429,657,033,108",49070,Silent
+Sweden,2010,male,55-74 years,263,1044678,25.18,Sweden2010,0.901,"488,377,689,565",55352,Silent
+Sweden,2010,female,55-74 years,105,1063334,9.87,Sweden2010,0.901,"488,377,689,565",55352,Silent
+Sweden,2011,male,55-74 years,245,1059858,23.12,Sweden2011,0.903,"563,109,663,291",63380,Boomers
+Sweden,2011,female,55-74 years,98,1077463,9.1,Sweden2011,0.903,"563,109,663,291",63380,Boomers
+Sweden,2012,male,55-74 years,256,1074267,23.83,Sweden2012,0.904,"543,880,647,757",60776,Boomers
+Sweden,2012,female,55-74 years,89,1090751,8.16,Sweden2012,0.904,"543,880,647,757",60776,Boomers
+Sweden,2013,male,55-74 years,273,1086729,25.12,Sweden2013,0.905,"578,742,001,488",64133,Boomers
+Sweden,2013,female,55-74 years,108,1102468,9.8,Sweden2013,0.905,"578,742,001,488",64133,Boomers
+Sweden,2014,male,55-74 years,224,1097579,20.41,Sweden2014,0.907,"5,738,177",62956,Boomers
+Sweden,2014,female,55-74 years,101,1112312,9.08,Sweden2014,0.907,"5,738,177",62956,Boomers
+Sweden,2015,male,55-74 years,268,1097579,24.42,Sweden2015,,"497,918,109,302",54629,Boomers
+Sweden,2015,female,55-74 years,102,1112312,9.17,Sweden2015,,"497,918,109,302",54629,Boomers
+Sweden,2016,male,55-74 years,232,1106411,20.97,Sweden2016,,"514,459,972,806",55594,Boomers
+Sweden,2016,female,55-74 years,104,1120938,9.28,Sweden2016,,"514,459,972,806",55594,Boomers
+Switzerland,2000,male,55-74 years,239,649009,36.83,Switzerland2000,0.888,"272,055,499,941",39952,Silent
+Switzerland,2000,female,55-74 years,128,723750,17.69,Switzerland2000,0.888,"272,055,499,941",39952,Silent
+Switzerland,2001,male,55-74 years,263,664460,39.58,Switzerland2001,,"278,631,271,391",40582,Silent
+Switzerland,2001,female,55-74 years,125,734955,17.01,Switzerland2001,,"278,631,271,391",40582,Silent
+Switzerland,2002,male,55-74 years,268,686103,39.06,Switzerland2002,,"301,416,810,214",434,Silent
+Switzerland,2002,female,55-74 years,147,751668,,Switzerland2002,,"301,416,810,214",434,Silent
+Switzerland,2003,male,55-74 years,231,694078,33.28,Switzerland2003,,"352,914,820,747",50639,Silent
+Switzerland,2003,female,55-74 years,137,757920,18.08,Switzerland2003,,"352,914,820,747",50639,Silent
+Switzerland,2004,male,55-74 years,236,709636,33.26,Switzerland2004,,"394,163,688,621",56123,Silent
+Switzerland,2004,female,55-74 years,146,769882,18.96,Switzerland2004,,"394,163,688,621",56123,Silent
+Switzerland,2005,male,55-74 years,253,724348,34.93,Switzerland2005,0.904,"408,689,353,999",57790,Silent
+Switzerland,2005,female,55-74 years,1,780995,15.24,Switzerland2005,0.904,"408,689,353,999",57790,Silent
+Switzerland,2006,male,55-74 years,262,737861,35.51,Switzerland2006,,"430,921",60536,Silent
+Switzerland,2006,female,55-74 years,149,791524,18.82,Switzerland2006,,"430,921",60536,Silent
+Switzerland,2007,male,55-74 years,275,751082,36.61,Switzerland2007,,"479,913,034,322",66807,Silent
+Switzerland,2007,female,55-74 years,138,802392,17.2,Switzerland2007,,"479,913,034,322",66807,Silent
+Switzerland,2008,male,55-74 years,251,765611,32.78,Switzerland2008,,"554,363,487,120",76202,Silent
+Switzerland,2008,female,55-74 years,160,814507,,Switzerland2008,,"554,363,487,120",76202,Silent
+Switzerland,2009,male,55-74 years,242,780927,30.99,Switzerland2009,,"541,506,500,414",73529,Silent
+Switzerland,2009,female,55-74 years,85,827353,10.27,Switzerland2009,,"541,506,500,414",73529,Silent
+Switzerland,2010,male,55-74 years,220,796644,27.62,Switzerland2010,0.924,"583,782,977,866",78474,Silent
+Switzerland,2010,female,55-74 years,96,840601,11.42,Switzerland2010,0.924,"583,782,977,866",78474,Silent
+Switzerland,2011,male,55-74 years,221,810438,27.27,Switzerland2011,0.925,"699,579,638,638",93053,Boomers
+Switzerland,2011,female,55-74 years,94,853485,11.01,Switzerland2011,0.925,"699,579,638,638",93053,Boomers
+Switzerland,2012,male,55-74 years,238,829160,28.7,Switzerland2012,0.927,"668,043,614,123",87951,Boomers
+Switzerland,2012,female,55-74 years,102,869527,11.73,Switzerland2012,0.927,"668,043,614,123",87951,Boomers
+Switzerland,2013,male,55-74 years,253,848732,29.81,Switzerland2013,0.928,"688,504,173,431",89634,Boomers
+Switzerland,2013,female,55-74 years,109,886881,12.29,Switzerland2013,0.928,"688,504,173,431",89634,Boomers
+Switzerland,2014,male,55-74 years,249,871329,28.58,Switzerland2014,0.93,"709,182,559,935",90809,Boomers
+Switzerland,2014,female,55-74 years,88,904916,9.72,Switzerland2014,0.93,"709,182,559,935",90809,Boomers
+Switzerland,2015,male,55-74 years,264,891482,29.61,Switzerland2015,,"679,289,166,858",86068,Boomers
+Switzerland,2015,female,55-74 years,82,922222,8.89,Switzerland2015,,"679,289,166,858",86068,Boomers
+Australia,2000,male,75+ years,115,416077,27.64,Australia2000,0.898,"415,034,227,218",232,G.I. Generation
+Australia,2000,female,75+ years,33,652895,5.05,Australia2000,0.898,"415,034,227,218",232,G.I. Generation
+Australia,2001,male,75+ years,115,437528,26.28,Australia2001,,"378,215,090,694",20860,Silent
+Australia,2001,female,75+ years,39,677113,5.76,Australia2001,,"378,215,090,694",20860,Silent
+Australia,2002,male,75+ years,101,456942,22.1,Australia2002,,"394,486,709,920",21474,Silent
+Australia,2002,female,75+ years,36,696793,5.17,Australia2002,,"394,486,709,920",21474,Silent
+Australia,2003,male,75+ years,103,476387,21.62,Australia2003,,"466,294,700,058",25059,Silent
+Australia,2003,female,75+ years,24,716236,3.35,Australia2003,,"466,294,700,058",25059,Silent
+Australia,2004,male,75+ years,126,489016,25.77,Australia2004,,61,32454,Silent
+Australia,2004,female,75+ years,40,726532,5.51,Australia2004,,61,32454,Silent
+Australia,2006,male,75+ years,114,506926,22.49,Australia2006,,"745,521,862,833",39014,Silent
+Australia,2006,female,75+ years,41,743060,5.52,Australia2006,,"745,521,862,833",39014,Silent
+Australia,2007,male,75+ years,124,539184,23,Australia2007,,85,43171,Silent
+Australia,2007,female,75+ years,33,770691,4.28,Australia2007,,85,43171,Silent
+Australia,2008,male,75+ years,121,552931,21.88,Australia2008,,"1,052,584,601,611",52315,Silent
+Australia,2008,female,75+ years,27,781742,3.45,Australia2008,,"1,052,584,601,611",52315,Silent
+Australia,2009,male,75+ years,135,566784,23.82,Australia2009,,"926,448,240,318",45128,Silent
+Australia,2009,female,75+ years,43,792218,5.43,Australia2009,,"926,448,240,318",45128,Silent
+Australia,2010,male,75+ years,151,582009,25.94,Australia2010,0.927,"1,144,260,547,873",54887,Silent
+Australia,2010,female,75+ years,43,805401,5.34,Australia2010,0.927,"1,144,260,547,873",54887,Silent
+Australia,2011,male,75+ years,146,588053,24.83,Australia2011,0.93,"1,394,280,784,778",66770,Silent
+Australia,2011,female,75+ years,45,817927,5.5,Australia2011,0.93,"1,394,280,784,778",66770,Silent
+Australia,2012,male,75+ years,158,606842,26.04,Australia2012,0.932,"1,543,411,012,580",72669,Silent
+Australia,2012,female,75+ years,52,832122,6.25,Australia2012,0.932,"1,543,411,012,580",72669,Silent
+Australia,2013,male,75+ years,160,627275,25.51,Australia2013,0.933,"1,573,696,522,007",72856,Silent
+Australia,2013,female,75+ years,48,847577,5.66,Australia2013,0.933,"1,573,696,522,007",72856,Silent
+Australia,2014,male,75+ years,164,649925,25.23,Australia2014,0.935,"1,464,955,475,994",66809,Silent
+Australia,2014,female,75+ years,45,865915,5.2,Australia2014,0.935,"1,464,955,475,994",66809,Silent
+Australia,2015,male,75+ years,181,673787,26.86,Australia2015,,"1,349,034,029,453",60656,Silent
+Australia,2015,female,75+ years,52,884347,5.88,Australia2015,,"1,349,034,029,453",60656,Silent
+Canada,2000,male,75+ years,146,644375,22.66,Canada2000,0.867,"742,293,448,253",25589,G.I. Generation
+Canada,2000,female,75+ years,30,1071636,2.8,Canada2000,0.867,"742,293,448,253",25589,G.I. Generation
+Canada,2001,male,75+ years,131,665842,,Canada2001,,"736,379,777,893",25165,Silent
+Canada,2001,female,75+ years,38,1096205,3.47,Canada2001,,"736,379,777,893",25165,Silent
+Canada,2002,male,75+ years,164,691551,23.71,Canada2002,,"757,950,678,647",25570,Silent
+Canada,2002,female,75+ years,30,1126677,2.66,Canada2002,,"757,950,678,647",25570,Silent
+Canada,2003,male,75+ years,151,718916,21,Canada2003,,"892,380,986,368",29787,Silent
+Canada,2003,female,75+ years,44,1156073,3.81,Canada2003,,"892,380,986,368",29787,Silent
+Canada,2004,male,75+ years,154,744741,20.68,Canada2004,,"1,023",33787,Silent
+Canada,2004,female,75+ years,44,1183549,3.72,Canada2004,,"1,023",33787,Silent
+Canada,2005,male,75+ years,165,772032,21.37,Canada2005,0.892,"1,169,357,979,865",38218,Silent
+Canada,2005,female,75+ years,58,1211769,4.79,Canada2005,0.892,"1,169,357,979,865",38218,Silent
+Canada,2006,male,75+ years,188,806380,23.31,Canada2006,,"1,315,415",42566,Silent
+Canada,2006,female,75+ years,46,1241475,3.71,Canada2006,,"1,315,415",42566,Silent
+Canada,2007,male,75+ years,183,837259,21.86,Canada2007,,"1,464,977",46890,Silent
+Canada,2007,female,75+ years,52,1269438,4.1,Canada2007,,"1,464,977",46890,Silent
+Canada,2008,male,75+ years,,866435,22.16,Canada2008,,"1,549,131,208,997",49041,Silent
+Canada,2008,female,75+ years,38,1296269,2.93,Canada2008,,"1,549,131,208,997",49041,Silent
+Canada,2009,male,75+ years,182,893202,20.38,Canada2009,,"1,371,153,004,986",42933,Silent
+Canada,2009,female,75+ years,46,1322098,3.48,Canada2009,,"1,371,153,004,986",42933,Silent
+Canada,2010,male,75+ years,200,917671,21.79,Canada2010,0.903,"1,613,464,422,811",49974,Silent
+Canada,2010,female,75+ years,49,1347679,3.64,Canada2010,0.903,"1,613,464,422,811",49974,Silent
+Canada,2011,male,75+ years,184,943428,,Canada2011,0.909,"1,788,647,906,048",54841,Silent
+Canada,2011,female,75+ years,55,1368680,4.02,Canada2011,0.909,"1,788,647,906,048",54841,Silent
+Canada,2012,male,75+ years,180,967342,18.61,Canada2012,0.91,"1,824,288,757,448",55347,Silent
+Canada,2012,female,75+ years,45,1389078,3.24,Canada2012,0.91,"1,824,288,757,448",55347,Silent
+Canada,2013,male,75+ years,231,991048,23.31,Canada2013,0.912,"1,842,628,005,830",55310,Silent
+Canada,2013,female,75+ years,65,1410630,4.61,Canada2013,0.912,"1,842,628,005,830",55310,Silent
+Denmark,2000,male,75+ years,72,138454,52,Denmark2000,0.862,"164,158,800,460",32841,G.I. Generation
+Denmark,2000,female,75+ years,42,239483,17.54,Denmark2000,0.862,"164,158,800,460",32841,G.I. Generation
+Denmark,2001,male,75+ years,82,139637,58.72,Denmark2001,,"164,791,416,350",32837,Silent
+Denmark,2001,female,75+ years,48,239716,20.02,Denmark2001,,"164,791,416,350",32837,Silent
+Denmark,2002,male,75+ years,77,140549,54.79,Denmark2002,,"178,635,160,297",35435,Silent
+Denmark,2002,female,75+ years,42,239014,17.57,Denmark2002,,"178,635,160,297",35435,Silent
+Denmark,2003,male,75+ years,73,141062,51.75,Denmark2003,,"218,095,997,085",43129,Silent
+Denmark,2003,female,75+ years,26,237848,10.93,Denmark2003,,"218,095,997,085",43129,Silent
+Denmark,2004,male,75+ years,69,142305,48.49,Denmark2004,,"251,373,036,671",49552,Silent
+Denmark,2004,female,75+ years,23,237260,9.69,Denmark2004,,"251,373,036,671",49552,Silent
+Denmark,2005,male,75+ years,83,143327,57.91,Denmark2005,0.902,"264,467,308,109",5,Silent
+Denmark,2005,female,75+ years,38,236734,16.05,Denmark2005,0.902,"264,467,308,109",5,Silent
+Denmark,2006,male,75+ years,79,144928,54.51,Denmark2006,,"282,884,912,894",55354,Silent
+Denmark,2006,female,75+ years,25,236472,10.57,Denmark2006,,"282,884,912,894",55354,Silent
+Denmark,2007,male,75+ years,59,146309,40.33,Denmark2007,,3,62229,Silent
+Denmark,2007,female,75+ years,33,235854,13.99,Denmark2007,,3,62229,Silent
+Denmark,2008,male,75+ years,62,147834,41.94,Denmark2008,,"353,361,056,080",68447,Silent
+Denmark,2008,female,75+ years,27,235396,11.47,Denmark2008,,"353,361,056,080",68447,Silent
+Denmark,2009,male,75+ years,64,150153,42.62,Denmark2009,,"321,241,396,034",61863,Silent
+Denmark,2009,female,75+ years,32,235213,13.6,Denmark2009,,"321,241,396,034",61863,Silent
+Denmark,2010,male,75+ years,61,153231,39.81,Denmark2010,0.908,32,61711,Silent
+Denmark,2010,female,75+ years,22,236409,9.31,Denmark2010,0.908,32,61711,Silent
+Denmark,2011,male,75+ years,48,156856,30.6,Denmark2011,0.92,"344,003,209,696",65598,Silent
+Denmark,2011,female,75+ years,22,237867,9.25,Denmark2011,0.92,"344,003,209,696",65598,Silent
+Denmark,2012,male,75+ years,67,161259,41.55,Denmark2012,0.921,"327,148,899,962",62071,Silent
+Denmark,2012,female,75+ years,,240759,7.89,Denmark2012,0.921,"327,148,899,962",62071,Silent
+Denmark,2013,male,75+ years,62,166011,37.35,Denmark2013,0.923,"343,584,385,594",64831,Silent
+Denmark,2013,female,75+ years,25,243880,10.25,Denmark2013,0.923,"343,584,385,594",64831,Silent
+Denmark,2014,male,75+ years,61,172150,35.43,Denmark2014,0.923,"352,993,633,221",66114,Silent
+Denmark,2014,female,75+ years,36,248889,14.46,Denmark2014,0.923,"352,993,633,221",66114,Silent
+Denmark,2015,male,75+ years,57,178633,31.91,Denmark2015,,"301,298,464,861",55972,Silent
+Denmark,2015,female,75+ years,32,253300,12.63,Denmark2015,,"301,298,464,861",55972,Silent
+Finland,2000,male,75+ years,44,104437,42.13,Finland2000,0.857,"125,539,893,127",25716,G.I. Generation
+Finland,2000,female,75+ years,17,231463,7.34,Finland2000,0.857,"125,539,893,127",25716,G.I. Generation
+Finland,2001,male,75+ years,44,108828,40.43,Finland2001,,"129,250,111,857",26383,Silent
+Finland,2001,female,75+ years,23,236217,9.74,Finland2001,,"129,250,111,857",26383,Silent
+Finland,2002,male,75+ years,57,113353,50.29,Finland2002,,"139,552,983,249",28390,Silent
+Finland,2002,female,75+ years,18,240441,7.49,Finland2002,,"139,552,983,249",28390,Silent
+Finland,2003,male,75+ years,52,118318,43.95,Finland2003,,"171,071,106,095",34701,Silent
+Finland,2003,female,75+ years,22,244738,8.99,Finland2003,,"171,071,106,095",34701,Silent
+Finland,2004,male,75+ years,49,123863,39.56,Finland2004,,,39793,Silent
+Finland,2004,female,75+ years,20,250445,7.99,Finland2004,,,39793,Silent
+Finland,2005,male,75+ years,64,129632,49.37,Finland2005,0.869,"204,436,015,421",41202,Silent
+Finland,2005,female,75+ years,20,257062,7.78,Finland2005,0.869,"204,436,015,421",41202,Silent
+Finland,2006,male,75+ years,44,135396,32.5,Finland2006,,"216,552,502,823",43487,Silent
+Finland,2006,female,75+ years,24,262936,9.13,Finland2006,,"216,552,502,823",43487,Silent
+Finland,2007,male,75+ years,58,140553,41.27,Finland2007,,"255,384,615,385",51089,Silent
+Finland,2007,female,75+ years,17,267590,6.35,Finland2007,,"255,384,615,385",51089,Silent
+Finland,2008,male,75+ years,46,145022,31.72,Finland2008,,"283,742,493,042",56521,Silent
+Finland,2008,female,75+ years,13,270887,4.8,Finland2008,,"283,742,493,042",56521,Silent
+Finland,2009,male,75+ years,57,149329,38.17,Finland2009,,"251,499,027,508",49878,Silent
+Finland,2009,female,75+ years,20,273822,7.3,Finland2009,,"251,499,027,508",49878,Silent
+Finland,2010,male,75+ years,52,153947,33.78,Finland2010,0.878,"247,799,815,768",48939,Silent
+Finland,2010,female,75+ years,23,277369,8.29,Finland2010,0.878,"247,799,815,768",48939,Silent
+Finland,2011,male,75+ years,64,1587,40.32,Finland2011,0.881,"273,674,236,773",53809,Silent
+Finland,2011,female,75+ years,9,280924,3.2,Finland2011,0.881,"273,674,236,773",53809,Silent
+Finland,2012,male,75+ years,49,163645,29.94,Finland2012,0.882,"256,706,466,091",50232,Silent
+Finland,2012,female,75+ years,7,284657,2.46,Finland2012,0.882,"256,706,466,091",50232,Silent
+Finland,2013,male,75+ years,56,169485,33.04,Finland2013,0.882,"269,980,111,643",52572,Silent
+Finland,2013,female,75+ years,17,289147,5.88,Finland2013,0.882,"269,980,111,643",52572,Silent
+Finland,2014,male,75+ years,61,175827,34.69,Finland2014,0.883,"272,609,288,690",52832,Silent
+Finland,2014,female,75+ years,11,294322,3.74,Finland2014,0.883,"272,609,288,690",52832,Silent
+Finland,2015,male,75+ years,53,178936,29.62,Finland2015,,"232,464,833,066",44862,Silent
+Finland,2015,female,75+ years,21,295795,7.1,Finland2015,,"232,464,833,066",44862,Silent
+Iceland,2000,female,75+ years,0,8330,0,Iceland2000,0.859,"8,927,140,438",34372,G.I. Generation
+Iceland,2000,male,75+ years,0,5879,0,Iceland2000,0.859,"8,927,140,438",34372,G.I. Generation
+Iceland,2001,male,75+ years,2,6101,32.78,Iceland2001,,"8,136,345,144",30850,Silent
+Iceland,2001,female,75+ years,0,8552,0,Iceland2001,,"8,136,345,144",30850,Silent
+Iceland,2002,female,75+ years,1,8798,11.37,Iceland2002,,"9,207,689,916",34556,Silent
+Iceland,2002,male,75+ years,0,6306,0,Iceland2002,,"9,207,689,916",34556,Silent
+Iceland,2003,female,75+ years,0,9063,0,Iceland2003,,"11,316,441,660",42174,Silent
+Iceland,2003,male,75+ years,0,6532,0,Iceland2003,,"11,316,441,660",42174,Silent
+Iceland,2004,male,75+ years,3,6720,44.64,Iceland2004,,"13,722,824,251",50528,Silent
+Iceland,2004,female,75+ years,0,9282,0,Iceland2004,,"13,722,824,251",50528,Silent
+Iceland,2005,female,75+ years,0,9566,0,Iceland2005,0.889,"16,691,490,114",60712,Silent
+Iceland,2005,male,75+ years,0,6961,0,Iceland2005,0.889,"16,691,490,114",60712,Silent
+Iceland,2006,female,75+ years,0,9927,0,Iceland2006,,"17,048,647,568",60243,Silent
+Iceland,2006,male,75+ years,0,7248,0,Iceland2006,,"17,048,647,568",60243,Silent
+Iceland,2007,male,75+ years,3,7454,40.25,Iceland2007,,213,73590,Silent
+Iceland,2007,female,75+ years,1,10165,9.84,Iceland2007,,213,73590,Silent
+Iceland,2008,male,75+ years,1,7603,13.15,Iceland2008,,"17,658,408,759",59489,Silent
+Iceland,2008,female,75+ years,0,10302,0,Iceland2008,,"17,658,408,759",59489,Silent
+Iceland,2009,male,75+ years,1,7788,12.84,Iceland2009,,"12,944,114,736",43700,Silent
+Iceland,2009,female,75+ years,0,10439,0,Iceland2009,,"12,944,114,736",43700,Silent
+Iceland,2010,male,75+ years,3,7930,37.83,Iceland2010,0.892,"13,310,567,803",45179,Silent
+Iceland,2010,female,75+ years,0,10606,0,Iceland2010,0.892,"13,310,567,803",45179,Silent
+Iceland,2011,female,75+ years,0,10762,0,Iceland2011,0.896,"14,732,689,535",49861,Silent
+Iceland,2011,male,75+ years,0,8033,0,Iceland2011,0.896,"14,732,689,535",49861,Silent
+Iceland,2012,male,75+ years,2,8207,24.37,Iceland2012,0.897,"14,292,008,745",48083,Silent
+Iceland,2012,female,75+ years,0,10882,0,Iceland2012,0.897,"14,292,008,745",48083,Silent
+Iceland,2013,male,75+ years,5,8368,59.75,Iceland2013,0.899,"15,548,321,544",51749,Silent
+Iceland,2013,female,75+ years,3,10950,27.4,Iceland2013,0.899,"15,548,321,544",51749,Silent
+Iceland,2014,male,75+ years,5,8491,58.89,Iceland2014,0.899,"17,304,033,021",56833,Silent
+Iceland,2014,female,75+ years,1,11043,9.06,Iceland2014,0.899,"17,304,033,021",56833,Silent
+Iceland,2015,female,75+ years,2,11158,17.92,Iceland2015,,"16,942,247,374",54909,Silent
+Iceland,2015,male,75+ years,0,86,0,Iceland2015,,"16,942,247,374",54909,Silent
+Iceland,2016,male,75+ years,1,8723,11.46,Iceland2016,,"20,304,098,101",64708,Silent
+Iceland,2016,female,75+ years,0,11268,0,Iceland2016,,"20,304,098,101",64708,Silent
+Netherlands,2000,male,75+ years,95,335400,28.32,Netherlands2000,0.877,"412,807,259,996",27644,G.I. Generation
+Netherlands,2000,female,75+ years,49,629463,7.78,Netherlands2000,0.877,"412,807,259,996",27644,G.I. Generation
+Netherlands,2001,male,75+ years,95,342815,27.71,Netherlands2001,,"426,573,601,790",28366,Silent
+Netherlands,2001,female,75+ years,54,636833,8.48,Netherlands2001,,"426,573,601,790",28366,Silent
+Netherlands,2002,male,75+ years,90,350179,25.7,Netherlands2002,,"465,368,906,456",30757,Silent
+Netherlands,2002,female,75+ years,56,642771,8.71,Netherlands2002,,"465,368,906,456",30757,Silent
+Netherlands,2003,male,75+ years,78,357715,21.81,Netherlands2003,,"571,863,431,151",37614,Silent
+Netherlands,2003,female,75+ years,71,648808,10.94,Netherlands2003,,"571,863,431,151",37614,Silent
+Netherlands,2004,male,75+ years,83,366987,22.62,Netherlands2004,,"650,532,654,582",42614,Silent
+Netherlands,2004,female,75+ years,60,656752,9.14,Netherlands2004,,"650,532,654,582",42614,Silent
+Netherlands,2005,male,75+ years,80,377913,21.17,Netherlands2005,0.891,"678,533,764,457",44289,Silent
+Netherlands,2005,female,75+ years,48,666329,7.2,Netherlands2005,0.891,"678,533,764,457",44289,Silent
+Netherlands,2006,male,75+ years,95,389546,24.39,Netherlands2006,,"726,649,102,998",47281,Silent
+Netherlands,2006,female,75+ years,43,676057,6.36,Netherlands2006,,"726,649,102,998",47281,Silent
+Netherlands,2007,male,75+ years,76,401873,18.91,Netherlands2007,,"8,394",54418,Silent
+Netherlands,2007,female,75+ years,41,686244,5.97,Netherlands2007,,"8,394",54418,Silent
+Netherlands,2008,male,75+ years,86,414420,20.75,Netherlands2008,,"936,228,211,513",60375,Silent
+Netherlands,2008,female,75+ years,39,696023,5.6,Netherlands2008,,"936,228,211,513",60375,Silent
+Netherlands,2009,male,75+ years,96,427097,22.48,Netherlands2009,,"857,932,759,100",54988,Silent
+Netherlands,2009,female,75+ years,48,705088,6.81,Netherlands2009,,"857,932,759,100",54988,Silent
+Netherlands,2010,male,75+ years,82,440573,18.61,Netherlands2010,0.909,"836,389,937,229",53302,Silent
+Netherlands,2010,female,75+ years,46,714774,6.44,Netherlands2010,0.909,"836,389,937,229",53302,Silent
+Netherlands,2011,male,75+ years,91,455083,20,Netherlands2011,0.9,"893,757,287,202",56667,Silent
+Netherlands,2011,female,75+ years,40,724633,5.52,Netherlands2011,0.9,"893,757,287,202",56667,Silent
+Netherlands,2012,male,75+ years,91,469742,,Netherlands2012,0.92,"828,946,812,397",52334,Silent
+Netherlands,2012,female,75+ years,55,734017,7.49,Netherlands2012,0.92,"828,946,812,397",52334,Silent
+Netherlands,2013,male,75+ years,109,485554,22.45,Netherlands2013,0.92,"866,680,000,367",54510,Silent
+Netherlands,2013,female,75+ years,59,744083,7.93,Netherlands2013,0.92,"866,680,000,367",54510,Silent
+Netherlands,2014,male,75+ years,97,485554,,Netherlands2014,0.922,"879,635,084,125",55325,Silent
+Netherlands,2014,female,75+ years,61,744083,8.2,Netherlands2014,0.922,"879,635,084,125",55325,Silent
+Netherlands,2015,male,75+ years,129,523,24.66,Netherlands2015,,"757,999,453,314",47206,Silent
+Netherlands,2015,female,75+ years,55,770107,7.14,Netherlands2015,,"757,999,453,314",47206,Silent
+Netherlands,2016,male,75+ years,123,541327,22.72,Netherlands2016,,"777,227,541,581",48108,Silent
+Netherlands,2016,female,75+ years,87,781301,11.14,Netherlands2016,,"777,227,541,581",48108,Silent
+New Zealand,2000,male,75+ years,16,77050,20.77,New Zealand2000,0.874,"52,622,842,840",14725,G.I. Generation
+New Zealand,2000,female,75+ years,4,125530,3,New Zealand2000,0.874,"52,622,842,840",14725,G.I. Generation
+New Zealand,2001,male,75+ years,25,80070,31.22,New Zealand2001,,"53,872,425,917",14968,Silent
+New Zealand,2001,female,75+ years,9,128740,6.99,New Zealand2001,,"53,872,425,917",14968,Silent
+New Zealand,2002,male,75+ years,16,83290,,New Zealand2002,,"66,627,729,311",18208,Silent
+New Zealand,2002,female,75+ years,5,131060,3.82,New Zealand2002,,"66,627,729,311",18208,Silent
+New Zealand,2003,male,75+ years,27,86840,31.09,New Zealand2003,,"88,250,885,550",23663,Silent
+New Zealand,2003,female,75+ years,11,133600,8.23,New Zealand2003,,"88,250,885,550",23663,Silent
+New Zealand,2004,male,75+ years,28,89210,31.39,New Zealand2004,,"103,904,537,815",27325,Silent
+New Zealand,2004,female,75+ years,4,135340,2.96,New Zealand2004,,"103,904,537,815",27325,Silent
+New Zealand,2005,male,75+ years,16,92350,17.33,New Zealand2005,0.895,"114,718,721,397",29803,Silent
+New Zealand,2005,female,75+ years,9,137460,6.55,New Zealand2005,0.895,"114,718,721,397",29803,Silent
+New Zealand,2006,male,75+ years,14,95930,14.59,New Zealand2006,,"111,608,845,081",28628,Silent
+New Zealand,2006,female,75+ years,8,139990,5.71,New Zealand2006,,"111,608,845,081",28628,Silent
+New Zealand,2007,male,75+ years,23,99040,23.22,New Zealand2007,,"137,316,087,308",34892,Silent
+New Zealand,2007,female,75+ years,7,142060,4.93,New Zealand2007,,"137,316,087,308",34892,Silent
+New Zealand,2008,male,75+ years,18,101730,17.69,New Zealand2008,,"133,279,679,483",33585,Silent
+New Zealand,2008,female,75+ years,6,144290,4.16,New Zealand2008,,"133,279,679,483",33585,Silent
+New Zealand,2009,male,75+ years,25,104540,23.91,New Zealand2009,,"121,338,622,025",30259,Silent
+New Zealand,2009,female,75+ years,8,146230,5.47,New Zealand2009,,"121,338,622,025",30259,Silent
+New Zealand,2010,male,75+ years,20,107610,18.59,New Zealand2010,0.905,"146,583,831,538",36145,Silent
+New Zealand,2010,female,75+ years,9,148370,6.07,New Zealand2010,0.905,"146,583,831,538",36145,Silent
+New Zealand,2011,male,75+ years,,110720,17.16,New Zealand2011,0.907,"16,846",41184,Silent
+New Zealand,2011,female,75+ years,8,150850,5.3,New Zealand2011,0.907,"16,846",41184,Silent
+New Zealand,2012,male,75+ years,24,114250,21.01,New Zealand2012,0.909,176,42756,Silent
+New Zealand,2012,female,75+ years,12,153580,7.81,New Zealand2012,0.909,176,42756,Silent
+New Zealand,2013,male,75+ years,26,113910,22.83,New Zealand2013,0.911,,46,Silent
+New Zealand,2013,female,75+ years,5,152240,3.28,New Zealand2013,0.911,,46,Silent
+Norway,2000,male,75+ years,27,129167,20.9,Norway2000,0.917,"171,315,639,983",41099,G.I. Generation
+Norway,2000,female,75+ years,12,220497,5.44,Norway2000,0.917,"171,315,639,983",41099,G.I. Generation
+Norway,2001,male,75+ years,39,130,29.96,Norway2001,,"174,003,247,439",41281,Silent
+Norway,2001,female,75+ years,7,221223,3.16,Norway2001,,"174,003,247,439",41281,Silent
+Norway,2002,male,75+ years,36,130772,27.53,Norway2002,,,46049,Silent
+Norway,2002,female,75+ years,8,221235,3.62,Norway2002,,,46049,Silent
+Norway,2003,male,75+ years,27,131312,20.56,Norway2003,,"228,752,436,372",53533,Silent
+Norway,2003,female,75+ years,11,220907,4.98,Norway2003,,"228,752,436,372",53533,Silent
+Norway,2004,male,75+ years,29,132357,21.91,Norway2004,,"264,357,494,659",61450,Silent
+Norway,2004,female,75+ years,13,220877,5.89,Norway2004,,"264,357,494,659",61450,Silent
+Norway,2005,male,75+ years,25,133579,18.72,Norway2005,0.931,"308,722,079,938",71215,Silent
+Norway,2005,female,75+ years,15,2210,6.79,Norway2005,0.931,"308,722,079,938",71215,Silent
+Norway,2006,male,75+ years,34,134769,25.23,Norway2006,,"345,424,664,369",79007,Silent
+Norway,2006,female,75+ years,6,220894,2.72,Norway2006,,"345,424,664,369",79007,Silent
+Norway,2007,male,75+ years,31,135701,22.84,Norway2007,,"401,082,621,083",90797,Silent
+Norway,2007,female,75+ years,13,220209,5.9,Norway2007,,"401,082,621,083",90797,Silent
+Norway,2008,male,75+ years,29,136042,21.32,Norway2008,,"462,554,432,624",103431,Silent
+Norway,2008,female,75+ years,16,2,7.31,Norway2008,,"462,554,432,624",103431,Silent
+Norway,2009,male,75+ years,36,136204,26.43,Norway2009,,"386,622,457,580",85394,Silent
+Norway,2009,female,75+ years,7,217354,3.22,Norway2009,,"386,622,457,580",85394,Silent
+Norway,2010,male,75+ years,31,136494,22.71,Norway2010,0.94,"429,130,952,709",93638,Silent
+Norway,2010,female,75+ years,10,215798,4.63,Norway2010,0.94,"429,130,952,709",93638,Silent
+Norway,2011,male,75+ years,36,137152,26.25,Norway2011,0.941,"498,831,558,926",107430,Silent
+Norway,2011,female,75+ years,6,214592,2.8,Norway2011,0.941,"498,831,558,926",107430,Silent
+Norway,2012,male,75+ years,33,138390,23.85,Norway2012,0.942,"510,229,136,227",108408,Silent
+Norway,2012,female,75+ years,14,213622,6.55,Norway2012,0.942,"510,229,136,227",108408,Silent
+Norway,2013,male,75+ years,31,140291,22.1,Norway2013,0.942,"523,502,127,660",109804,Silent
+Norway,2013,female,75+ years,5,213383,2.34,Norway2013,0.942,"523,502,127,660",109804,Silent
+Norway,2014,male,75+ years,33,143089,23.06,Norway2014,0.944,"499,338,534,779",103443,Silent
+Norway,2014,female,75+ years,7,214335,3.27,Norway2014,0.944,"499,338,534,779",103443,Silent
+Norway,2015,male,75+ years,32,146511,21.84,Norway2015,,"386,663,139,403",79187,Silent
+Norway,2015,female,75+ years,17,215829,7.88,Norway2015,,"386,663,139,403",79187,Silent
+Sweden,2000,male,75+ years,128,303,42.22,Sweden2000,0.897,"259,802,012,617",30896,G.I. Generation
+Sweden,2000,female,75+ years,49,484818,10.11,Sweden2000,0.897,"259,802,012,617",30896,G.I. Generation
+Sweden,2001,male,75+ years,129,305543,42.22,Sweden2001,,"239,917,320,967",28429,Silent
+Sweden,2001,female,75+ years,63,486462,12.95,Sweden2001,,"239,917,320,967",28429,Silent
+Sweden,2002,male,75+ years,112,306832,36.5,Sweden2002,,"263,926,220,333",31175,Silent
+Sweden,2002,female,75+ years,49,486242,10.08,Sweden2002,,"263,926,220,333",31175,Silent
+Sweden,2003,male,75+ years,105,307923,34.1,Sweden2003,,"331,108,912,605",38997,Silent
+Sweden,2003,female,75+ years,50,486063,10.29,Sweden2003,,"331,108,912,605",38997,Silent
+Sweden,2004,male,75+ years,109,309512,35.22,Sweden2004,,"381,705,425,302",44831,Silent
+Sweden,2004,female,75+ years,43,486526,8.84,Sweden2004,,"381,705,425,302",44831,Silent
+Sweden,2005,male,75+ years,117,311063,37.61,Sweden2005,0.892,"389,042,298,377",45563,Silent
+Sweden,2005,female,75+ years,48,486935,9.86,Sweden2005,0.892,"389,042,298,377",45563,Silent
+Sweden,2006,male,75+ years,114,312567,36.47,Sweden2006,,"420,032,121,656",48977,Silent
+Sweden,2006,female,75+ years,49,487029,10.06,Sweden2006,,"420,032,121,656",48977,Silent
+Sweden,2007,male,75+ years,102,314248,32.46,Sweden2007,,"487,816,328,342",56531,Silent
+Sweden,2007,female,75+ years,34,485845,7,Sweden2007,,"487,816,328,342",56531,Silent
+Sweden,2008,male,75+ years,108,315606,34.22,Sweden2008,,"513,965,650,650",59155,Silent
+Sweden,2008,female,75+ years,42,483517,8.69,Sweden2008,,"513,965,650,650",59155,Silent
+Sweden,2009,male,75+ years,109,316812,34.41,Sweden2009,,"429,657,033,108",49070,Silent
+Sweden,2009,female,75+ years,36,481488,7.48,Sweden2009,,"429,657,033,108",49070,Silent
+Sweden,2010,male,75+ years,101,318979,31.66,Sweden2010,0.901,"488,377,689,565",55352,Silent
+Sweden,2010,female,75+ years,34,480218,7.08,Sweden2010,0.901,"488,377,689,565",55352,Silent
+Sweden,2011,male,75+ years,86,322530,26.66,Sweden2011,0.903,"563,109,663,291",63380,Silent
+Sweden,2011,female,75+ years,38,479833,7.92,Sweden2011,0.903,"563,109,663,291",63380,Silent
+Sweden,2012,male,75+ years,109,327050,33.33,Sweden2012,0.904,"543,880,647,757",60776,Silent
+Sweden,2012,female,75+ years,41,4802,8.54,Sweden2012,0.904,"543,880,647,757",60776,Silent
+Sweden,2013,male,75+ years,110,333073,33.03,Sweden2013,0.905,"578,742,001,488",64133,Silent
+Sweden,2013,female,75+ years,48,481818,9.96,Sweden2013,0.905,"578,742,001,488",64133,Silent
+Sweden,2014,male,75+ years,1,341315,34.87,Sweden2014,0.907,"5,738,177",62956,Silent
+Sweden,2014,female,75+ years,45,485940,9.26,Sweden2014,0.907,"5,738,177",62956,Silent
+Sweden,2015,male,75+ years,115,341315,33.69,Sweden2015,,"497,918,109,302",54629,Silent
+Sweden,2015,female,75+ years,38,485940,7.82,Sweden2015,,"497,918,109,302",54629,Silent
+Sweden,2016,male,75+ years,100,359481,27.82,Sweden2016,,"514,459,972,806",55594,Silent
+Sweden,2016,female,75+ years,45,493341,9.12,Sweden2016,,"514,459,972,806",55594,Silent
+Switzerland,2000,male,75+ years,152,184589,82.35,Switzerland2000,0.888,"272,055,499,941",39952,G.I. Generation
+Switzerland,2000,female,75+ years,79,330903,23.87,Switzerland2000,0.888,"272,055,499,941",39952,G.I. Generation
+Switzerland,2001,male,75+ years,160,188628,84.82,Switzerland2001,,"278,631,271,391",40582,Silent
+Switzerland,2001,female,75+ years,86,336369,25.57,Switzerland2001,,"278,631,271,391",40582,Silent
+Switzerland,2002,male,75+ years,163,,82.65,Switzerland2002,,"301,416,810,214",434,Silent
+Switzerland,2002,female,75+ years,108,348120,31.02,Switzerland2002,,"301,416,810,214",434,Silent
+Switzerland,2003,male,75+ years,148,,74.39,Switzerland2003,,"352,914,820,747",50639,Silent
+Switzerland,2003,female,75+ years,115,349975,32.86,Switzerland2003,,"352,914,820,747",50639,Silent
+Switzerland,2004,male,75+ years,160,203675,78.56,Switzerland2004,,"394,163,688,621",56123,Silent
+Switzerland,2004,female,75+ years,107,355144,30.13,Switzerland2004,,"394,163,688,621",56123,Silent
+Switzerland,2005,male,75+ years,177,209040,84.67,Switzerland2005,0.904,"408,689,353,999",57790,Silent
+Switzerland,2005,female,75+ years,95,361212,26.3,Switzerland2005,0.904,"408,689,353,999",57790,Silent
+Switzerland,2006,male,75+ years,163,214630,75.94,Switzerland2006,,"430,921",60536,Silent
+Switzerland,2006,female,75+ years,108,367433,29.39,Switzerland2006,,"430,921",60536,Silent
+Switzerland,2007,male,75+ years,,220706,86.54,Switzerland2007,,"479,913,034,322",66807,Silent
+Switzerland,2007,female,75+ years,122,373618,32.65,Switzerland2007,,"479,913,034,322",66807,Silent
+Switzerland,2008,male,75+ years,175,226861,77.14,Switzerland2008,,"554,363,487,120",76202,Silent
+Switzerland,2008,female,75+ years,117,379587,30.82,Switzerland2008,,"554,363,487,120",76202,Silent
+Switzerland,2009,male,75+ years,124,233232,53.17,Switzerland2009,,"541,506,500,414",73529,Silent
+Switzerland,2009,female,75+ years,41,385288,10.64,Switzerland2009,,"541,506,500,414",73529,Silent
+Switzerland,2010,male,75+ years,114,239990,47.5,Switzerland2010,0.924,"583,782,977,866",78474,Silent
+Switzerland,2010,female,75+ years,36,391055,9.21,Switzerland2010,0.924,"583,782,977,866",78474,Silent
+Switzerland,2011,male,75+ years,125,243790,51.27,Switzerland2011,0.925,"699,579,638,638",93053,Silent
+Switzerland,2011,female,75+ years,44,391559,11.24,Switzerland2011,0.925,"699,579,638,638",93053,Silent
+Switzerland,2012,male,75+ years,129,250132,51.57,Switzerland2012,0.927,"668,043,614,123",87951,Silent
+Switzerland,2012,female,75+ years,41,396763,10.33,Switzerland2012,0.927,"668,043,614,123",87951,Silent
+Switzerland,2013,male,75+ years,146,256661,56.88,Switzerland2013,0.928,"688,504,173,431",89634,Silent
+Switzerland,2013,female,75+ years,37,401512,9.22,Switzerland2013,0.928,"688,504,173,431",89634,Silent
+Switzerland,2014,male,75+ years,144,267638,53.8,Switzerland2014,0.93,"709,182,559,935",90809,Silent
+Switzerland,2014,female,75+ years,47,408120,11.52,Switzerland2014,0.93,"709,182,559,935",90809,Silent
+Switzerland,2015,male,75+ years,143,275569,51.89,Switzerland2015,,"679,289,166,858",86068,Silent
+Switzerland,2015,female,75+ years,41,414205,9.9,Switzerland2015,,"679,289,166,858",86068,Silent
